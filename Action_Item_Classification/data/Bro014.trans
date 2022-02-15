@@ -1,0 +1,913 @@
+Bro014	0.120	2.370	mn007	It's not very significant.
+Bro014	0.930	3.422	me026	Channel three. Channel three.
+Bro014	1.009	3.422	me013	Uh, channel one. Yes. O_K.
+Bro014	1.820	2.294	fn002	Mm-hmm.
+Bro014	6.529	8.990	mn007	Ta-
+Bro014	6.745	8.310	me026	Channel three. Alright.
+Bro014	8.347	11.077	me013	O_K, did you solve speech recognition last week?
+Bro014	11.690	12.461	me006	Almost.
+Bro014	13.520	19.196	me013	Alright! Let's do image processing.
+Bro014	15.647	18.318	me018	Yes, again.
+Bro014	15.830	17.384	mn007	Great.
+Bro014	18.318	19.930	me018	We did it again, Morgan.
+Bro014	19.770	20.391	me013	Alright!
+Bro014	21.726	23.837	me006	Doo-doop, doo-doo.
+Bro014	22.159	23.326	mn007	What's wrong with - ?
+Bro014	29.157	31.550	me013	O_K. It's April fifth.
+Bro014	37.779	40.888	me013	<find_calendar_entry> Actually, <contact_name> Hynek </contact_name> should be <title> getting back in town </title> <start_date> shortly </start_date> if he isn't already </find_calendar_entry>.
+Bro014	40.831	41.701	me018	Is he gonna come here?
+Bro014	42.154	46.458	me013	Uh. Well, we'll drag him here. I know where he is.
+Bro014	45.362	47.498	me018	So when you said "in town", you mean Oregon.
+Bro014	46.900	53.210	me013	U- u- u- u- uh, I meant, you know, this end of the world, yeah, is really what I meant, uh, cuz he's been in Europe.
+Bro014	49.753	52.866	me018	Oh.
+Bro014	50.154	51.928	me006	Doo, doo-doo.
+Bro014	53.633	54.207	me006	Doo-doo.
+Bro014	54.360	55.168	me013	So.
+Bro014	65.011	67.938	me018	I have something just fairly brief to report on.
+Bro014	67.870	70.405	me013	Mmm. Great!
+Bro014	68.710	77.039	me018	Um, I did some experim- uh, uh, just a few more experiments before I had to, uh, go away for the w- well, that week.
+Bro014	77.039	78.752	me018	Was it last week or whenever?
+Bro014	78.752	85.674	me018	Um, so what I was started playing with was the - th- again, this is the H_T_K back-end. And, um,
+Bro014	86.564	108.231	me018	I was curious because the way that they train up the models, they go through about four sort of rounds of - of training. And in the first round they do - uh, I think it's three iterations, and for the last three rounds e- e- they do seven iterations of re-estimation in each of those three.
+Bro014	108.943	115.804	me018	And so, you know, that's part of what takes so long to train the - the - the back-end for this.
+Bro014	115.386	119.283	me013	I'm sorry, I didn't quite get that. There's - there's four and there's seven and - I - I'm sorry.
+Bro014	118.597	124.867	me018	Yeah. Uh, maybe I should write it on the board. So, there's four rounds of training. Um,
+Bro014	125.677	128.572	me018	I g- I g- I guess you could say iterations.
+Bro014	128.572	131.578	me018	The first one is three, then seven, seven, and seven.
+Bro014	131.578	140.817	me018	And what these numbers refer to is the number of times that the, uh, H_M_M re-estimation is run. It's this program called H_E_rest.
+Bro014	141.577	148.223	me013	But in H_T_K, what's the difference between, uh, a - an inner loop and an outer loop in these iterations?
+Bro014	147.605	156.130	me018	O_K. So what happens is, um, at each one of these points, you increase the number of Gaussians in the model.
+Bro014	152.483	153.057	me013	Yeah.
+Bro014	156.060	161.850	me013	Oh, right! This was the mix up stuff. That's right. I remember now.
+Bro014	158.388	160.612	me018	Yeah. The mix up. Right.
+Bro014	160.612	175.488	me018	And so, in the final one here, you end up with, uh - for all of the - the digit words, you end up with, uh, three mixtures per state, eh, in the final thing.
+Bro014	172.288	172.882	me013	Yeah.
+Bro014	175.488	202.812	me018	So I had done some experiments where I was - I - I want to play with the number of mixtures. But, um, uh, I wanted to first test to see if we actually need to do this many iterations early on. And so, um, I - I ran a couple of experiments where I reduced that to l- to be three, two, two, uh, five, I think, and I got almost the exact same results.
+Bro014	180.010	180.799	me013	Mm-hmm.
+Bro014	182.045	185.233	me006	Uh, one, two,
+Bro014	188.423	189.096	me013	Mm-hmm.
+Bro014	202.812	205.382	me018	And - but it runs much much faster.
+Bro014	203.269	203.783	me013	Mm-hmm.
+Bro014	205.382	217.371	me018	So, um, I - I think m- it only took something like, uh, three or four hours to do the full training, as opposed to wh- what, sixteen hours or something like that?
+Bro014	213.260	214.563	me013	As opposed to - ?
+Bro014	213.365	213.800	fn002	Good.
+Bro014	217.790	218.778	fn002	Yeah. It depends.
+Bro014	217.905	221.606	me018	I mean, it takes - you have to do an overnight basically, the way it is set up now.
+Bro014	218.742	220.799	mn007	Mm-hmm.
+Bro014	219.270	220.262	me013	Mm-hmm.
+Bro014	221.606	228.944	me018	So, uh, even we don't do anything else, doing something like this could allow us to turn experiments around a lot faster.
+Bro014	228.383	232.240	me013	And then when you have your final thing, do a full one, so it's -
+Bro014	230.289	233.254	me018	And when you have your final thing, we go back to this.
+Bro014	232.350	232.783	fn002	Yeah.
+Bro014	233.254	242.768	me018	So, um, and it's a real simple change to make. I mean, it's like one little text file you edit and change those numbers, and you don't do anything else. And then you just run.
+Bro014	240.655	241.227	fn002	Oh, this is a -
+Bro014	241.504	242.137	mn007	Mm-hmm.
+Bro014	241.541	242.135	fn002	O_K.
+Bro014	242.768	246.713	me018	So it's a very simple change to make and it doesn't seem to hurt all that much. So I -
+Bro014	246.055	249.715	mn007	So you - you run with three, two, two, five? That's a-
+Bro014	248.560	261.834	me018	Uh, I - I have to look to see what the exact numbers were. I - I thought was, like, three, two, two, five, but I- I'll - I'll double check. It was over a week ago that I did it, so I can't remember exactly. But, uh - um, but it's so much faster.
+Bro014	250.229	250.802	mn007	Yeah.
+Bro014	253.805	254.521	mn007	Mm-hmm.
+Bro014	256.467	258.132	mn007	O_K. Mm-hmm.
+Bro014	257.321	257.746	me006	Oh.
+Bro014	259.699	260.181	me013	Mm-hmm.
+Bro014	261.801	262.177	me006	Hmm.
+Bro014	261.834	266.969	me018	I- it makes a big difference. So we could do a lot more experiments and throw a lot more stuff in there.
+Bro014	265.468	266.081	fn002	Yeah.
+Bro014	266.778	267.409	me013	That's great.
+Bro014	267.699	274.345	me018	Um. Oh, the other thing that I did was, um, I compiled the H_T_K stuff for the Linux boxes.
+Bro014	274.345	280.182	me018	So we have this big thing that we got from I_B_M, which is a five-processor machine.
+Bro014	280.182	293.168	me018	Really fast, but it's running Linux. So, you can now run your experiments on that machine and you can run five at a time and it runs, uh, as fast as, you know, uh, five different machines.
+Bro014	288.843	292.050	mn007	Mm-hmm.
+Bro014	291.284	291.785	fn002	Mm-hmm.
+Bro014	293.168	297.126	me018	So, um, I've forgotten now what the name of that machine is but I can -
+Bro014	297.126	299.559	me018	<send_email> <from_contact_name> I </from_contact_name> can send email <contact_name> around </contact_name> about <email_content> it </email_content> </send_email>.
+Bro014	297.469	297.984	mn007	Yeah.
+Bro014	299.559	305.275	me018	And so we've got it - now H_T_K's compiled for both the Linux and for, um, the Sparcs.
+Bro014	305.275	316.257	me018	Um, you have to make - you have to make sure that in your dot C_S_H_R_C, um, it detects whether you're running on the Linux or a - a Sparc and points to the right executables.
+Bro014	316.257	328.153	me018	Uh, and you may not have had that in your dot C_S_H_R_C before, if you were always just running the Sparc. So, um, uh, I can - I can tell you exactly what you need to do to get all of that to work.
+Bro014	324.304	325.471	mn007	Mm-hmm.
+Bro014	328.118	328.898	me006	Hmm. Cool.
+Bro014	328.153	340.121	me018	But it'll - it really increases what we can run on. So, together with the fact that we've got these faster Linux boxes and that it takes less time to do these, um, we should be able to crank through a lot more experiments.
+Bro014	340.121	341.625	me018	So.
+Bro014	340.274	341.144	mn007	Mm-hmm.
+Bro014	340.869	341.322	me006	Hmm.
+Bro014	342.554	350.407	me018	So after I did that, then what I wanted to do was try increasing the number of mixtures, just to see, um - see how - how that affects performance.
+Bro014	349.979	350.454	mn007	Yeah.
+Bro014	350.664	351.890	me018	So.
+Bro014	351.263	360.304	me013	Yeah. In fact, you could do something like keep exactly the same procedure and then add a fifth thing onto it that had more. Yeah.
+Bro014	358.289	359.347	me018	Mm-hmm. Exactly.
+Bro014	359.941	360.969	me018	Right. Right.
+Bro014	362.380	369.000	me006	So at - at the middle o- where the arrows are showing, that's - you're adding one more mixture per state, or - ?
+Bro014	365.479	365.974	me018	Uh-huh.
+Bro014	367.820	371.026	me018	Uh, let's see, uh.
+Bro014	371.026	380.290	me018	It goes from this - uh, try to go it backwards - this - at this point it's two mixtures per state.
+Bro014	380.290	382.013	me018	So this just adds one.
+Bro014	382.013	389.144	me018	Except that, uh, actually for the silence model, it's six mixtures per state.
+Bro014	386.734	387.307	me013	Mm-hmm.
+Bro014	389.388	390.329	me006	O_K.
+Bro014	389.720	392.274	me018	Uh, so it goes to two. Um.
+Bro014	393.559	395.953	me018	And I think what happens here is -
+Bro014	397.699	402.873	me013	Might be between, uh, shared, uh - shared variances or something, or -
+Bro014	400.522	401.992	me018	Yeah. I think that's what it is.
+Bro014	401.992	405.428	me018	Uh, yeah. It's, uh -
+Bro014	406.560	411.096	me018	Shoot. I - I - I can't remember now what happens at that first one. Uh, I have to look it up and see.
+Bro014	409.520	410.156	me006	Oh, O_K.
+Bro014	411.096	427.907	me018	Um, there - because they start off with, uh, an initial model which is just this global model, and then they split it to the individuals. And so, it may be that that's what's happening here. I - I - I have to look it up and see. I - I don't exactly remember.
+Bro014	425.639	426.224	me006	O_K.
+Bro014	432.100	434.535	me013	O_K. Alright.
+Bro014	432.190	434.704	me018	So. That's it.
+Bro014	435.245	436.926	me013	So what else?
+Bro014	436.930	441.940	mn007	Um. Yeah. <find_calendar_entry> There was <entry_type> a conference call </entry_type> <start_date> this Tuesday </start_date> </find_calendar_entry>.
+Bro014	443.780	445.798	mn007	Um.
+Bro014	445.798	458.704	mn007	I don't know yet the - what happened Tuesday, but the points that they were supposed to discuss is still, uh, things like the weights, uh -
+Bro014	457.933	463.670	me013	Oh, this is a conference call for, uh, uh, Aurora participant sort of thing. I see.
+Bro014	460.356	460.903	me006	For -
+Bro014	462.103	463.171	mn007	Yeah. Yeah.
+Bro014	464.368	465.024	mn007	Mmm.
+Bro014	464.640	472.278	me013	Do you know who was - who was - since we weren't in on it, uh, do you know who was in from O_G_I? Was - was - was Hynek involved or was it Sunil or - ?
+Bro014	471.620	474.369	mn007	I have no idea. Mmm, I just - Yeah.
+Bro014	472.278	473.682	me013	Oh, you don't know. O_K.
+Bro014	474.335	474.750	me013	Alright.
+Bro014	476.189	478.169	mn007	Um, yeah.
+Bro014	478.762	487.090	mn007	So the points were the - the weights - how to weight the different error rates that are obtained from different language and - and conditions.
+Bro014	487.848	494.968	mn007	Um, it's not clear that they will keep the same kind of weighting. Right now it's a weighting on - on improvement.
+Bro014	495.135	495.748	me013	Mm-hmm.
+Bro014	495.681	505.140	mn007	Some people are arguing that it would be better to have weights on uh - well, to - to combine error rates before computing improvement.
+Bro014	505.140	515.703	mn007	Uh, and the fact is that for - right now for the English, they have weights - they - they combine error rates, but for the other languages they combine improvement.
+Bro014	516.182	517.428	mn007	So it's not very consistent.
+Bro014	517.428	519.984	mn007	Um -
+Bro014	517.875	518.940	me013	Mm-hmm.
+Bro014	519.984	521.408	mn007	Yeah. The, um -
+Bro014	521.962	522.536	mn007	Yeah.
+Bro014	523.644	527.053	mn007	And so - Well, this is a point.
+Bro014	527.390	541.615	mn007	And right now actually there is a thing also, uh, that happens with the current weight is that a very non-significant improvement on the well-matched case result in huge differences in - in the final number.
+Bro014	542.003	542.600	me013	Mm-hmm.
+Bro014	542.129	542.841	me018	Hmm.
+Bro014	542.525	547.413	mn007	And so, perhaps they will change the weights to -
+Bro014	547.413	548.896	mn007	Yeah.
+Bro014	549.030	553.386	me018	How should that be done? I mean, it - it seems like there's a simple way -
+Bro014	550.874	551.369	mn007	Mm-hmm.
+Bro014	555.903	558.427	me018	Uh, this seems like an obvious mistake or something. Th- they're -
+Bro014	557.853	572.221	me013	Well, I mean, the fact that it's inconsistent is an obvious mistake. But the - but, um, the other thing - I don't know I haven't thought it through, but one - one would think that each - It - it's like if you say what's the - what's the best way to do an average, an arithmetic average or a geometric average?
+Bro014	561.232	561.549	mn007	In-
+Bro014	572.215	572.769	me018	Mm-hmm.
+Bro014	573.306	574.552	me013	It depends what you wanna show.
+Bro014	574.782	575.534	mn007	Mm-hmm.
+Bro014	575.066	578.287	me013	Each - each one is gonna have a different characteristic. So -
+Bro014	577.157	577.691	mn007	Yeah.
+Bro014	578.230	585.036	me018	Well, it seems like they should do, like, the percentage improvement or something, rather than the absolute improvement.
+Bro014	585.290	587.190	mn007	Tha- that's what they do. Yeah.
+Bro014	585.839	586.729	me013	Well, they are doing that.
+Bro014	587.560	588.594	me013	No, that is relative.
+Bro014	589.009	596.743	me013	But the question is, do you average the relative improvements or do you average the error rates and take the relative improvement maybe of that?
+Bro014	591.245	592.194	mn007	Yeah.
+Bro014	594.593	594.870	mn007	Yeah.
+Bro014	597.317	600.719	me013	And the thing is it's not just a pure average because there are these weightings.
+Bro014	599.776	600.350	me018	Oh.
+Bro014	601.391	602.881	me013	It's a weighted average.
+Bro014	603.820	604.800	me013	Um.
+Bro014	604.940	619.126	mn007	Yeah. And so when you average the - the relative improvement it tends to - to give a lot of - of, um, importance to the well-matched case because the baseline is already very good and, um, i- it's -
+Bro014	617.762	630.342	me018	Why don't they not look at improvements but just look at your av- your scores? You know, figure out how to combine the scores with a weight or whatever, and then give you a score - here's your score. And then they can do the same thing for the baseline system - and here's its score. And then you can look at -
+Bro014	623.836	624.766	mn007	Mm-hmm.
+Bro014	630.329	634.937	me013	Well, that's what he's seeing as one of the things they could do. It's just when you - when you get all done,
+Bro014	630.467	631.199	mn007	Mm-hmm.
+Bro014	632.669	633.434	mn007	Yeah.
+Bro014	635.214	644.441	me013	I think that they pro- I m- I - I wasn't there but I think they started off this process with the notion that you should be significantly better than the previous standard.
+Bro014	644.498	645.012	me018	Mm-hmm.
+Bro014	645.160	653.672	me013	And, um, so they said "how much is significantly better? what do you - ?" And - and so they said "well, you know, you should have half the errors," or something, "that you had before".
+Bro014	650.215	652.687	mn007	Mm-hmm. Hmm.
+Bro014	652.528	653.241	me018	Mm-hmm.
+Bro014	653.721	654.089	mn007	Yeah.
+Bro014	653.890	656.026	me013	So it's, uh,
+Bro014	656.914	657.304	me018	Hmm.
+Bro014	657.292	663.050	me013	But it does seem like i- i- it does seem like it's more logical to combine them first and then do the -
+Bro014	663.359	665.715	mn007	Combine error rates and then - Yeah.
+Bro014	664.672	666.294	me013	Yeah. Yeah.
+Bro014	665.715	667.594	mn007	Well -
+Bro014	667.594	680.731	mn007	But there is this - this - is this still this problem of weights. When - when you combine error rate it tends to give more importance to the difficult cases, and some people think that - well, they have different, um, opinions about this.
+Bro014	675.017	675.472	me013	Oh, yeah?
+Bro014	681.106	696.194	mn007	Some people think that it's more important to look at - to have ten percent imp- relative improvement on well-matched case than to have fifty percent on the m- mismatched, and other people think that it's more important to improve a lot on the mismatch and -
+Bro014	696.340	701.161	me018	It sounds like they don't really have a good idea about what the final application is gonna be.
+Bro014	697.102	698.590	mn007	So, bu- l- de- fff!
+Bro014	700.749	724.773	me013	Well, you know, the - the thing is that if you look at the numbers on the - on the more difficult cases, um, if you really believe that was gonna be the predominant use, none of this would be good enough. Nothing anybody's - whereas you sort of with some reasonable error recovery could imagine in the better cases that these - these systems working.
+Bro014	701.178	704.838	mn007	Mmm. Yeah. Mmm.
+Bro014	716.298	716.860	me018	Mm-hmm.
+Bro014	716.373	716.786	mn007	Yeah.
+Bro014	725.327	740.910	me013	So, um, I think the hope would be that it would - uh, it would work well for the good cases and, uh, it would have reasonable - reas- soft degradation as you got to worse and worse conditions. Um.
+Bro014	740.095	742.134	me018	Yeah. I - I guess what I'm -
+Bro014	742.391	748.354	me018	I mean, I - I was thinking about it in terms of, if I were building the final product and I was gonna test to see which front-end I'd -
+Bro014	748.354	757.228	me018	I wanted to use, I would try to weight things depending on the exact environment that I was gonna be using the system in. If I -
+Bro014	756.169	763.673	me013	But - but - No. Well, no - well, no. I mean, it isn't the operating theater. I mean, they don- they - they don't - they don't really know, I think.
+Bro014	760.010	760.674	me018	Yeah.
+Bro014	763.878	767.676	me018	So if - if they don't know, doesn't that suggest the way for them to go?
+Bro014	763.950	764.781	me013	I mean, I th-
+Bro014	768.269	772.699	me018	Uh, you assume everything's equal. I mean, y- y- I mean, you -
+Bro014	772.898	790.887	me013	Well, I mean, I - I think one thing to do is to just not rely on a single number - to maybe have two or three numbers, you know, and - and - and say here's how much you, uh - you improve the, uh - the - the relatively clean case and here's - or - or well-matched case, and here's how - here's how much you, uh -
+Bro014	777.449	778.923	me018	Yeah. Right.
+Bro014	787.925	789.049	me018	Mm-hmm.
+Bro014	790.539	791.251	me018	So not -
+Bro014	791.251	792.772	me018	So not try to combine them.
+Bro014	791.410	792.550	me013	So.
+Bro014	792.550	801.955	me013	Yeah. Uh, actually it's true. Uh, I had forgotten this, uh, but, uh, well-matched is not actually clean. What it is is just that, u- uh, the training and testing are similar.
+Bro014	793.088	793.466	me018	Yeah.
+Bro014	799.377	801.177	me018	The training and testing.
+Bro014	801.807	802.302	mn007	Mmm.
+Bro014	801.955	823.280	me013	So, I guess what you would do in practice is you'd try to get as many, uh, examples of similar sort of stuff as you could, and then, uh - So the argument for that being the - the - the more important thing, is that you're gonna try and do that, but you wanna see how badly it deviates from that when - when - when the, uh - it's a little different.
+Bro014	810.642	811.215	me018	Yeah.
+Bro014	822.173	828.426	me018	So - so you should weight those other conditions v- very - you know, really small.
+Bro014	823.280	825.410	me013	Um,
+Bro014	828.251	828.744	me013	But -
+Bro014	828.744	838.240	me013	No. That's a - that's a - that's an arg- that's an ar- Well, that's an argument for it, but let me give you the opposite argument. The opposite argument is you're never really gonna have a good sample of all these different things.
+Bro014	829.079	831.393	me018	I mean, that's more of an information kind of thing.
+Bro014	834.024	834.676	me018	Uh-huh.
+Bro014	838.240	843.513	me013	I mean, are you gonna have w- uh, uh, examples with the windows open, half open, full open?
+Bro014	843.513	849.902	me013	Going seventy, sixty, fifty, forty miles an hour? On what kind of roads? With what passing you? With - uh, I mean,
+Bro014	846.550	847.226	me018	Mm-hmm.
+Bro014	849.307	849.896	me018	Mm-hmm.
+Bro014	849.902	854.770	me013	I - I - I think that you could make the opposite argument that the well-matched case is a fantasy.
+Bro014	854.702	855.335	me018	Mm-hmm.
+Bro014	855.651	856.133	me006	Uh-huh.
+Bro014	855.761	868.882	me013	You know, so, I think the thing is is that if you look at the well-matched case versus the po- you know, the - the medium and the - and the fo- and then the mismatched case, um, we're seeing really, really big differences in performance. Right?
+Bro014	869.613	872.956	me013	And - and y- you wouldn't like that to be the case.
+Bro014	872.956	875.745	me013	You wouldn't like that as soon as you step outside -
+Bro014	875.745	877.802	me013	You know, a lot of the - the cases it's - is -
+Bro014	876.601	878.203	me018	Well, that'll teach them to roll their window up.
+Bro014	882.006	901.474	me013	I mean, in these cases, if you go from the - the, uh - I mean, I don't remember the numbers right off, but if you - if you go from the well-matched case to the medium, it's not an enormous difference in the - in the - the training-testing situation, and - and - and it's a really big performance drop. You know, so, um -
+Bro014	895.349	895.888	me018	Mm-hmm.
+Bro014	902.740	916.408	me013	Yeah, I mean the reference one, for instance - this is back old on, uh - on Italian - uh, was like six percent error for the well-matched and eighteen for the medium-matched and sixty for the - for highly-mismatched.
+Bro014	916.951	933.638	me013	Uh, and, you know, with these other systems we - we helped it out quite a bit, but still there's - there's something like a factor of two or something between well-matched and medium-matched. And so I think that if what you're - if the goal of this is to come up with robust features, it does mean -
+Bro014	934.043	951.947	me013	So you could argue, in fact, that the well-matched is something you shouldn't be looking at at all, that - that the goal is to come up with features that will still give you reasonable performance, you know, with again gentle degregra- degradation, um, even though the - the testing condition is not the same as the training.
+Bro014	952.128	952.701	me018	Hmm.
+Bro014	953.020	962.152	me013	So, you know, I - I could argue strongly that something like the medium mismatch, which is you know not compl- pathological but - I mean, what was the - the medium-mismatch condition again?
+Bro014	963.468	982.333	mn007	Um, it's - Yeah. Medium mismatch is everything with the far microphone, but trained on, like, low noisy condition, like low speed and - or stopped car and tested on high-speed conditions, I think, like on a highway and -
+Bro014	982.333	984.194	mn007	So -
+Bro014	983.192	1001.662	me013	Right. So it's still the same - same microphone in both cases, but, uh, it's - there's a mismatch between the car conditions. And that's - uh, you could argue that's a pretty realistic situation and, uh, I'd almost argue for weighting that highest. But the way they have it now, it's - I guess it's - it's -
+Bro014	985.300	987.794	mn007	Same microphone but - Yeah.
+Bro014	994.060	994.612	me018	Yeah.
+Bro014	994.940	996.273	mn007	Mm-hmm.
+Bro014	1002.117	1006.510	me013	They - they compute the relative improvement first and then average that with a weighting?
+Bro014	1005.829	1006.322	mn007	Yeah.
+Bro014	1006.510	1010.315	me013	And so then the - that - that makes the highly-matched the really big thing.
+Bro014	1010.878	1011.234	mn007	Mm-hmm.
+Bro014	1011.218	1023.362	me013	Um, so, u- i- since they have these three categories, it seems like the reasonable thing to do is to go across the languages and to come up with an improvement for each of those.
+Bro014	1023.023	1024.309	mn007	Mm-hmm.
+Bro014	1024.450	1034.063	me013	Just say "O_K, in the - in the highly-matched case this is what happens, in the - m- the, uh - this other m- medium if this happens, in the highly-mismatched that happens".
+Bro014	1032.478	1032.874	mn007	Mm-hmm.
+Bro014	1034.500	1040.653	me013	And, uh, you should see, uh, a gentle degradation through that.
+Bro014	1038.867	1040.271	mn007	Mmm.
+Bro014	1041.563	1042.493	me013	Um.
+Bro014	1044.926	1047.339	me013	But - I don't know.
+Bro014	1047.570	1049.230	mn007	Yeah.
+Bro014	1048.704	1050.148	me013	I think that - that -
+Bro014	1050.565	1051.966	me013	I - I -
+Bro014	1051.966	1062.785	me013	I gather that in these meetings it's - it's really tricky to make anything ac- make any policy change because everybody has - has, uh, their own opinion and -
+Bro014	1062.667	1063.339	mn007	Mm-hmm.
+Bro014	1063.214	1065.550	me013	I don't know . Yeah.
+Bro014	1064.797	1065.502	mn007	Yeah.
+Bro014	1066.946	1068.469	mn007	Uh, so - Yeah.
+Bro014	1069.840	1082.117	mn007	Yeah, but there is probably a - a big change that will be made is that the - the baseline - th- they want to have a new baseline, perhaps, which is, um, M_F_C_C but with a voice activity detector.
+Bro014	1083.383	1100.399	mn007	And apparently, uh, some people are pushing to still keep this fifty percent number. So they want to have at least fifty percent improvement on the baseline, but w- which would be a much better baseline.
+Bro014	1097.753	1098.346	me013	Mm-hmm.
+Bro014	1100.452	1101.113	me013	Mm-hmm.
+Bro014	1100.979	1119.586	mn007	And if we look at the result that Sunil sent, just putting the V_A_D in the baseline improved, like, more than twenty percent, which would mean then - then - mean that fifty percent on this new baseline is like, well, more than sixty percent improvement on - on - o- e- e- uh -
+Bro014	1108.629	1109.230	me013	Mm-hmm.
+Bro014	1117.640	1119.971	me013	So nobody would be there, probably. Right?
+Bro014	1119.586	1121.346	mn007	Right now, nobody would be there, but -
+Bro014	1121.573	1121.929	me013	Good.
+Bro014	1121.841	1122.138	mn007	Yeah.
+Bro014	1122.480	1126.258	me013	Work to do.
+Bro014	1125.629	1126.257	mn007	Uh-huh.
+Bro014	1126.258	1128.592	me013	So whose V_A_D is - Is - is this a - ?
+Bro014	1128.240	1141.590	mn007	Uh, they didn't decide yet. I guess i- this was one point of the conference call also, but - mmm, so I don't know. Um, but - Yeah.
+Bro014	1139.995	1140.569	me006	Oh.
+Bro014	1143.364	1167.043	me013	Oh, I - I think th- that would be good. I mean, it's not that the design of the V_A_D isn't important, but it's just that it - it - it does seem to be i- uh, a lot of work to do a good job on - on that and as well as being a lot of work to do a good job on the feature design, so if we can cut down on that maybe we can make some progress.
+Bro014	1160.500	1161.132	mn007	Yeah.
+Bro014	1162.299	1162.754	mn007	Yeah.
+Bro014	1164.893	1165.109	mn007	M-
+Bro014	1165.889	1166.450	mn007	Yeah.
+Bro014	1167.626	1167.962	me006	Hmm.
+Bro014	1168.290	1170.604	mn007	But I guess perhaps -
+Bro014	1170.604	1173.571	mn007	I don't know w- Yeah.
+Bro014	1174.916	1194.072	mn007	Uh, yeah. Per- e- s- s- someone told that perhaps it's not fair to do that because the, um - to make a good V_A_D you don't have enough to - with the - the features that are - the baseline features. So - mmm, you need more features.
+Bro014	1195.694	1199.472	mn007	So you really need to put more - more in the - in - in the front-end.
+Bro014	1199.682	1202.886	me013	Yeah.
+Bro014	1202.023	1202.498	mn007	So i-
+Bro014	1203.680	1208.444	me013	Um, sure. But i- bu-
+Bro014	1204.179	1204.832	mn007	S-
+Bro014	1206.740	1209.142	me018	Wait a minute. I - I'm confused. Wha- what do you mean?
+Bro014	1208.120	1208.457	mn007	Yeah.
+Bro014	1208.853	1210.548	mn007	Yeah, if i-
+Bro014	1209.789	1212.270	me013	So y- so you m- s- Yeah, but -
+Bro014	1212.270	1217.452	me013	Well, let's say for ins- see, M_F_C_C for instance doesn't have anything in it, uh, related to the pitch.
+Bro014	1218.190	1219.508	me013	So just - just for example.
+Bro014	1219.508	1231.261	me013	So suppose you've - that what you really wanna do is put a good pitch detector on there and if it gets an unambiguous - if it gets an unambiguous result then you're definitely in a - in a - in a voice- in a, uh, s- region with speech.
+Bro014	1224.000	1225.969	me018	Oh, oh. I see.
+Bro014	1225.292	1226.143	mn007	Mm-hmm.
+Bro014	1231.261	1232.923	me013	Uh.
+Bro014	1231.290	1235.661	me018	So there's this assumption that the v- the voice activity detector can only use the M_F_C_C?
+Bro014	1236.220	1239.230	mn007	That's not clear, but this - e-
+Bro014	1238.058	1239.047	me013	Well, for the baseline.
+Bro014	1239.360	1239.794	me018	Yeah.
+Bro014	1239.900	1244.234	me013	So - so if you use other features then y- But it's just a question of what is your baseline.
+Bro014	1244.827	1245.836	me018	I g- Yeah.
+Bro014	1244.966	1257.168	me013	Right? What is it that you're supposed to do better than? And so having the baseline be the M_F_C_C's means that people could choose to pour their ener- their effort into trying to do a really good V_A_D or tryi-
+Bro014	1247.936	1248.589	me018	I don't s-
+Bro014	1255.823	1259.186	me018	But they seem like two separate issues. Right? I mean -
+Bro014	1258.652	1267.454	me013	They're sort of separate. Unfortunately there's coupling between them, which is part of what I think Stephane is getting to, is that you can choose your features in such a way as to improve the V_A_D.
+Bro014	1268.066	1268.418	mn007	Yeah.
+Bro014	1268.087	1273.389	me013	And you also can choose your features in such a way as to prove - improve recognition. They may not be the same thing.
+Bro014	1271.769	1273.571	me018	<create_single_reminder> But it seems like <contact_name> you </contact_name> should <reminder_text> do both </reminder_text> </create_single_reminder>. Right?
+Bro014	1273.389	1277.885	me013	<create_single_reminder> <contact_name> You </contact_name> should <reminder_text> do both </reminder_text> and - and I - I think that this still makes - I still think this makes sense as a baseline </create_single_reminder>.
+Bro014	1278.538	1291.884	me013	It's just saying, as a baseline, we know - you know, we had the M_F_C_C's before, lots of people have done voice activity detectors, you might as well pick some voice activity detector and make that the baseline, just like you picked some version of H_T_K and made that the baseline.
+Bro014	1279.160	1280.490	mn007	Mmm.
+Bro014	1284.759	1285.590	mn007	Mm-hmm.
+Bro014	1291.679	1292.213	mn007	Yeah.
+Bro014	1292.575	1293.097	mn007	Right.
+Bro014	1292.695	1319.147	me013	And then let's try and make everything better. Um, and if one of the ways you make it better is by having your features be better features for the V_A_D then that's - so be it. But, uh, uh, uh, at least you have a starting point that's - um, cuz i- i- some of - the some of the people didn't have a V_A_D at all, I guess. Right? And - and then they - they looked pretty bad and - and in fact what they were doing wasn't so bad at all. But, um.
+Bro014	1304.236	1304.787	mn007	Mm-hmm.
+Bro014	1313.687	1314.116	mn007	Yeah.
+Bro014	1314.789	1316.173	mn007	Mm-hmm.
+Bro014	1318.000	1318.534	mn007	Mm-hmm.
+Bro014	1318.615	1322.765	me018	Yeah. <create_single_reminder> It seems like <contact_name> you </contact_name> should <reminder_text> try to make your baseline as good as possible </reminder_text> </create_single_reminder>.
+Bro014	1322.765	1325.633	me018	And if it turns out that you can't improve on that, well,
+Bro014	1326.049	1329.690	me018	I mean, then, you know, nobody wins and you just use M_F_C_C. Right?
+Bro014	1329.648	1356.629	me013	Yeah. I mean, it seems like, uh, it should include sort of the current state of the art that you want - are trying to improve, and M_F_C_C's, you know, or P_L_P or something - it seems like reasonable baseline for the features, and anybody doing this task, uh, is gonna have some sort of voice activity detection at some level, in some way. They might use the whole recognizer to do it but - rather than a separate thing, but - but they'll have it on some level.
+Bro014	1356.629	1359.656	me013	So, um.
+Bro014	1358.993	1368.210	me018	It seems like whatever they choose they shouldn't, you know, purposefully brain-damage a part of the system to make a worse baseline, or - You know?
+Bro014	1367.100	1375.040	me013	Well, I think people just had- it wasn't that they purposely brain-damaged it. I think people hadn't really thought through about the, uh - the V_A_D issue.
+Bro014	1374.939	1375.612	me018	Mmm.
+Bro014	1376.670	1377.478	mn007	Mm-hmm.
+Bro014	1376.774	1386.223	me013	And - and then when the - the - the proposals actually came in and half of them had V_A_Ds and half of them didn't, and the half that did did well and the half that didn't did poorly. So it's -
+Bro014	1383.689	1384.320	me018	Mm-hmm.
+Bro014	1385.957	1386.827	mn007	Mm-hmm.
+Bro014	1389.090	1391.911	mn007	Um.
+Bro014	1390.588	1391.110	me013	Uh.
+Bro014	1392.623	1395.135	mn007	Yeah. So we'll see what happen with this.
+Bro014	1396.559	1397.748	mn007	And -
+Bro014	1400.001	1409.893	mn007	Yeah. So what happened since, um, last week is - well, from O_G_I, these experiments on putting V_A_D on the baseline.
+Bro014	1411.240	1441.645	mn007	And these experiments also are using, uh, some kind of noise compensation, so spectral subtraction, and putting on-line normalization, um, just after this. So I think spectral subtraction, L_D_A filtering, and on-line normalization, so which is similar to the pro- proposal-one, but with spectral subtraction in addition, and it seems that on-line normalization doesn't help further when you have spectral subtraction.
+Bro014	1442.712	1444.667	mn007	Um.
+Bro014	1443.823	1449.602	me018	<find_calendar_entry>Is this related to the <title>issue</title> that you brought up a couple of <entry_type>meetings</entry_type> ago with the - the <title>musical tones</title> and - ?</find_calendar_entry>
+Bro014	1448.069	1448.385	mn007	I -
+Bro014	1449.100	1468.210	mn007	I have no idea, because the issue I brought up was with a very simple spectral subtraction approach, and the one that they use at O_G_I is one from - from the proposed - the - the - the Aurora prop- uh, proposals, which might be much better.
+Bro014	1454.711	1455.127	me018	Mmm.
+Bro014	1468.210	1476.004	mn007	So, yeah. I asked Sunil for more information about that, but, uh, I don't know yet.
+Bro014	1476.004	1477.090	mn007	Um.
+Bro014	1478.614	1502.495	mn007	And what's happened here is that we - so we have this kind of new, um, reference system which use a nice - a - a clean downsampling-upsampling, which use a new filter that's much shorter and which also cuts the frequency below sixty-four hertz, which was not done on our first proposal.
+Bro014	1494.974	1496.337	me013	Right.
+Bro014	1502.491	1505.730	me013	When you say "we have that", does Sunil have it now, too, or - ?
+Bro014	1503.888	1504.186	mn007	I-
+Bro014	1505.340	1506.776	mn007	No. No.
+Bro014	1506.091	1506.566	me013	O_K.
+Bro014	1506.776	1517.912	mn007	Because we're still testing. So we have the result for, uh, just the features and we are currently testing with putting the neural network in the K_L_T.
+Bro014	1508.326	1508.801	me013	O_K.
+Bro014	1519.356	1530.920	mn007	Um, it seems to improve on the well-matched case, um, but it's a little bit worse on the mismatch and highly-mismatched -
+Bro014	1531.704	1533.267	mn007	I mean when we put the neural network.
+Bro014	1533.761	1539.735	mn007	And with the current weighting I think it's sh- it will be better because the well-matched case is better.
+Bro014	1541.060	1541.802	mn007	Mmm.
+Bro014	1541.219	1548.015	me013	But how much worse - since the weighting might change - how - how much worse is it on the other conditions, when you say it's a little worse?
+Bro014	1548.428	1556.735	mn007	It's like, uh, fff, fff um, ten percent relative.
+Bro014	1558.753	1559.270	mn007	Yeah.
+Bro014	1560.039	1560.658	me013	O_K.
+Bro014	1560.658	1562.269	me013	Um.
+Bro014	1561.661	1562.858	mn007	Mm-hmm.
+Bro014	1562.743	1567.194	me013	But it has the, uh - the latencies are much shorter. That's -
+Bro014	1569.150	1583.084	mn007	Uh- y- w- when I say it's worse, it's not - it's when I - I - uh, compare proposal-two to proposal-one, so, r- uh, y- putting neural network compared to n- not having any neural network.
+Bro014	1584.723	1585.435	me013	Uh-huh.
+Bro014	1584.988	1598.619	mn007	I mean, this new system is - is - is better, because it has um, this sixty-four hertz cut-off, uh, clean downsampling, and, um - what else?
+Bro014	1599.195	1601.924	mn007	Uh, yeah, a good V_A_D. We put the good V_A_D.
+Bro014	1602.851	1603.108	mn007	So.
+Bro014	1603.859	1606.110	mn007	Yeah, I don't know. I - I - j- uh, uh - pr-
+Bro014	1604.930	1608.479	me013	But the latencies - but you've got the latency shorter now. Yeah.
+Bro014	1607.030	1608.414	mn007	Latency is short - is - Yeah.
+Bro014	1607.603	1609.372	fn002	Isn't it
+Bro014	1609.344	1610.452	mn007	And so-
+Bro014	1609.910	1612.692	me013	So it's better than the system that we had before.
+Bro014	1612.678	1618.183	mn007	Yeah. Mainly because of the sixty-four hertz and the good V_A_D.
+Bro014	1613.190	1613.651	me013	O_K.
+Bro014	1624.039	1629.063	mn007	And then I took this system and, mmm, w- uh, I p- we put the old filters also.
+Bro014	1629.341	1642.202	mn007	So we have this good system, with good V_A_D, with the short filter and with the long filter, and, um, with the short filter it's not worse. So - well, is it -
+Bro014	1644.277	1652.848	me013	O_K. So that's - that's all fine. But what you're saying is that when you do these - So let me try to understand. When - when you do these same improvements to proposal-one,
+Bro014	1644.962	1645.575	mn007	it's in -
+Bro014	1646.327	1647.000	mn007	Yes. Uh -
+Bro014	1654.172	1654.773	mn007	Mm-hmm.
+Bro014	1654.990	1665.068	me013	that, uh, on the - i- things are somewhat better, uh, in proposal-two for the well-matched case and somewhat worse for the other two cases.
+Bro014	1665.100	1665.691	mn007	Yeah.
+Bro014	1665.468	1668.312	me013	So does, uh - when you say, uh - So -
+Bro014	1669.364	1679.366	me013	The th- now that these other things are in there, is it the case maybe that the additions of proposal-two over proposal-one are less im- important?
+Bro014	1679.361	1680.845	mn007	Yeah. Probably, yeah.
+Bro014	1680.976	1681.531	me013	I get it.
+Bro014	1682.407	1683.551	mn007	Um -
+Bro014	1686.550	1688.022	mn007	So, yeah.
+Bro014	1688.022	1692.335	mn007	Uh. Yeah, but it's a good thing anyway to have shorter delay.
+Bro014	1692.335	1700.642	mn007	Then we tried, um, to do something like proposal-two but having, um, e- using also M_S_G features.
+Bro014	1701.671	1709.783	mn007	So there is this K_L_T part, which use just the standard features, and then two neura- two neural networks.
+Bro014	1702.340	1702.761	me013	Mm-hmm.
+Bro014	1703.295	1703.967	me013	Right.
+Bro014	1709.842	1710.297	me013	Mm-hmm.
+Bro014	1711.066	1714.943	mn007	Mmm, and it doesn't seem to help.
+Bro014	1715.635	1721.193	mn007	Um, however, we just have one result, which is the Italian mismatch, so.
+Bro014	1722.630	1723.588	mn007	Uh.
+Bro014	1724.261	1727.287	mn007	We have to wait for that to fill the whole table, but -
+Bro014	1728.030	1728.792	me013	O_K.
+Bro014	1729.326	1735.697	me013	There was a start of some effort on something related to voicing or something. Is that - ?
+Bro014	1735.041	1736.170	mn007	Yeah.
+Bro014	1736.625	1756.966	mn007	Um, yeah. So basically we try to, uh, find good features that could be used for voicing detection, uh, but it's still, uh - on the, um - t- we - w- basically we are still playing with Matlab to - to look at - at what happened, and -
+Bro014	1751.130	1752.662	fn002	Oh, well, I have the picture.
+Bro014	1755.356	1758.879	me018	What sorts of - what sorts of features are you looking at?
+Bro014	1755.599	1756.011	fn002	Yeah.
+Bro014	1757.117	1758.682	fn002	We have some -
+Bro014	1758.940	1772.046	mn007	So we would be looking at, um, the variance of the spectrum of the excitation, something like this, which is - should be high for voiced sounds.
+Bro014	1761.039	1764.124	fn002	uh, um, this, this, and this.
+Bro014	1772.046	1774.202	mn007	Uh, we -
+Bro014	1773.191	1778.373	me018	Wait a minute. I - what does that mean? The variance of the spectrum of excitation.
+Bro014	1779.071	1779.901	mn007	Yeah. So the -
+Bro014	1782.700	1789.417	mn007	So basically the spectrum of the excitation for a purely periodic sig- signal shou- sh- e-
+Bro014	1785.770	1800.105	me013	O_K. Yeah, w- what yo- what you're calling the excitation, as I recall, is you're subtracting the - the, um - the mel - mel - mel filter, uh, spectrum from the F_F_T spectrum. Right.
+Bro014	1798.701	1800.066	mn007	That's right. Yeah. So -
+Bro014	1799.893	1800.368	fn002	Mm-hmm.
+Bro014	1800.402	1804.022	mn007	Yeah. So we have the mel f- filter bank, we have the F_F_T, so we just -
+Bro014	1802.954	1807.602	me013	So it's - it's not really an excitation, but it's something that hopefully tells you something about the excitation.
+Bro014	1804.697	1805.209	mn007	No.
+Bro014	1807.622	1810.094	mn007	Yeah, that's right. Um -
+Bro014	1808.022	1808.813	me013	Yeah, yeah.
+Bro014	1810.628	1812.440	mn007	Yeah.
+Bro014	1812.394	1817.552	fn002	We have here some histogram, but they have a lot of overlap.
+Bro014	1814.910	1817.811	mn007	E- yeah, but it's - it's still -
+Bro014	1818.286	1830.195	mn007	Yeah. So, well, for unvoiced portion we have something tha- that has a mean around O_ point three, and for voiced portion the mean is O_ point fifty-nine.
+Bro014	1831.046	1835.320	mn007	But the variance seem quite high. So - Mmm.
+Bro014	1833.560	1834.866	me018	How do you know - ?
+Bro014	1834.866	1838.862	me018	How did you get your voiced and unvoiced truth data?
+Bro014	1838.270	1847.784	mn007	We used, uh, TIMIT and we used canonical mappings between the phones and th- Yeah.
+Bro014	1841.410	1845.953	fn002	Yeah. We, uh, use TIMIT on this, for -
+Bro014	1848.018	1853.300	fn002	But if we look at it in one sentence, it - apparently it's good, I think .
+Bro014	1853.292	1856.061	mn007	Yeah, but - Yeah.
+Bro014	1857.683	1861.540	mn007	Uh, so it's noisy TIMIT. That's right. Yeah.
+Bro014	1860.823	1862.177	me006	It's noisy TIMIT.
+Bro014	1860.889	1861.324	fn002	Yeah.
+Bro014	1864.388	1874.297	mn007	It seems quite robust to noise, so when we take - we draw its parameters across time for a clean sentence and then nois- the same noisy sentence, it's very close.
+Bro014	1870.772	1871.437	me013	Mm-hmm.
+Bro014	1875.723	1885.672	mn007	Yeah. So there are - there is this. There could be also the, um - something like the maximum of the auto-correlation function or - which -
+Bro014	1884.720	1890.043	me018	Is this a - a s- a trained system? Or is it a system where you just pick some thresholds?
+Bro014	1890.043	1891.170	me018	Ho- how does it work?
+Bro014	1891.319	1894.302	mn007	Right now we just are trying to find some features.
+Bro014	1894.355	1894.770	me018	Mm-hmm.
+Bro014	1894.770	1914.662	mn007	And, uh - Yeah. Hopefully, I think what we want to have is to put these features in s- some kind of, um - well, to - to obtain a statistical model on these features and to - or just to use a neural network and hopefully these features w- would help -
+Bro014	1914.611	1922.367	me018	Because it seems like what you said about the mean of the - the voiced and the unvoiced - that seemed pretty encouraging. Right?
+Bro014	1918.079	1918.549	mn007	Mm-hmm.
+Bro014	1921.463	1923.520	me013	Well, yeah, except the variance was big. Right?
+Bro014	1922.134	1922.629	mn007	Yeah.
+Bro014	1922.965	1924.646	mn007	Except the variance is quite high. Yeah.
+Bro014	1923.299	1924.150	me018	Well, y-
+Bro014	1924.150	1935.977	me018	Well, y- I - I don't know that I would trust that so much because you're doing these canonical mappings from TIMIT labelings. Right? So, really that's sort of a cartoon picture about what's voiced and unvoiced. So that could be giving you a lot of variance.
+Bro014	1928.821	1929.314	mn007	Uh-huh.
+Bro014	1936.412	1936.885	mn007	Yeah.
+Bro014	1936.476	1944.241	me018	I mean, i- it - it may be that - that you're finding something good and that the variance is sort of artificial because of how you're getting your truth.
+Bro014	1944.280	1950.698	me013	Yeah. But another way of looking at it might be that - I mean, what w- we- we are coming up with feature sets after all.
+Bro014	1944.533	1944.981	mn007	Mm-hmm.
+Bro014	1951.202	1963.210	me013	So another way of looking at it is that um, the mel cepstru- mel spectrum, mel cepstrum, any of these variants, um, give you the smooth spectrum. It's the spectral envelope.
+Bro014	1963.210	1970.115	me013	By going back to the F_F_T, you're getting something that is more like the raw data.
+Bro014	1970.115	1986.298	me013	So the question is, what characterization - and you're playing around with this - another way of looking at it is what characterization of the difference between the raw data and this smooth version is something that you're missing that could help?
+Bro014	1986.880	2013.703	me013	So, I mean, looking at different statistical measures of that difference, coming up with some things and just trying them out and seeing if you add them onto the feature vector does that make things better or worse in noise, where you're really just i- i- the way I'm looking at it is not so much you're trying to f- find the best - the world's best voiced-unvoiced, uh, uh, classifier, but it's more that, you know, uh, uh, try some different statistical characterizations of that difference back to the raw data and - and m- maybe there's something there that the system can use.
+Bro014	2003.358	2003.955	me018	Mm-hmm.
+Bro014	2004.093	2006.994	mn007	Mmm.
+Bro014	2007.993	2008.544	me018	Right.
+Bro014	2010.953	2011.481	me018	Right.
+Bro014	2013.806	2014.222	mn007	Yeah.
+Bro014	2015.290	2031.946	mn007	Yeah, but ther- more obvious is that - Yeah. The - the more obvious is that - that - well, using the - th- the F_F_T, um, you just - it gives you just information about if it's voiced or not voiced, ma- mainly, I mean. But - So,
+Bro014	2031.545	2031.960	me013	Yeah.
+Bro014	2033.970	2040.462	mn007	this is why we - we started to look by having sort of voiced phonemes and -
+Bro014	2035.910	2038.244	me013	Well, that's the rea- w- w- what I'm arguing is that's-
+Bro014	2038.970	2043.480	me013	Yeah. I mean, uh, what I'm arguing is that that - that's givi- you - gives you your intuition.
+Bro014	2043.877	2066.531	me013	But in - in reality, it's - you know, there's all of this - this overlap and so forth, and - But what I'm saying is that may be O_K, because what you're really getting is not actually voiced versus unvoiced, both for the fac- the reason of the overlap and - and then, uh, th- you know, structural reasons, uh, uh, like the one that Chuck said, that - that in fact, well, the data itself is - that you're working with is not perfect.
+Bro014	2044.246	2044.716	mn007	Mm-hmm.
+Bro014	2048.568	2049.314	me006	Oh, sorry.
+Bro014	2064.009	2065.415	mn007	Yeah. Mm-hmm.
+Bro014	2066.531	2083.007	me013	So, what I'm saying is maybe that's not a killer because you're just getting some characterization, one that's driven by your intuition about voiced-unvoiced certainly, but it's just some characterization of something back in the - in the - in the almost raw data, rather than the smooth version.
+Bro014	2073.861	2075.384	mn007	Mm-hmm.
+Bro014	2082.022	2082.674	mn007	Mm-hmm.
+Bro014	2083.007	2094.903	me013	And your intuition is driving you towards particular kinds of, uh, statistical characterizations of, um, what's missing from the spectral envelope.
+Bro014	2094.715	2095.254	mn007	Mm-hmm.
+Bro014	2095.259	2121.875	me013	Um, obviously you have something about the excitation, um, and what is it about the excitation, and, you know - and you're not getting the excitation anyway, you know. So - so I - I would almost take a - uh, especially if - if these trainings and so forth are faster, I would almost just take a uh, a scattershot at a few different ways of look- of characterizing that difference and, uh, you could have one of them but - and - and see, you know, which of them helps.
+Bro014	2121.867	2122.581	mn007	Mm-hmm.
+Bro014	2122.270	2128.481	me018	So i- is the idea that you're going to take whatever features you develop and - and just add them onto the future vector?
+Bro014	2122.957	2123.313	mn007	O_K.
+Bro014	2128.975	2132.318	me018	Or, what's the use of the - the voiced-unvoiced detector?
+Bro014	2133.280	2138.247	mn007	Uh, I guess we don't know exactly yet. But, um -
+Bro014	2139.058	2140.313	mn007	Yeah.
+Bro014	2141.688	2142.638	mn007	Th-
+Bro014	2141.929	2144.486	me018	It's not part of a V_A_D system that you're doing?
+Bro014	2144.260	2144.813	fn002	No.
+Bro014	2145.180	2150.602	mn007	Uh, no. No. No, the idea was, I guess, to - to use them as - as features.
+Bro014	2146.360	2147.083	me018	Oh, O_K.
+Bro014	2150.386	2151.257	me018	Features. I see.
+Bro014	2150.602	2153.371	mn007	Uh -
+Bro014	2154.894	2165.718	mn007	Yeah, it could be, uh - it could be a neural network that does voiced and unvoiced detection, but it could be in the - also the big neural network that does phoneme classification.
+Bro014	2160.383	2160.808	me018	Mm-hmm.
+Bro014	2164.215	2164.662	me018	Mm-hmm.
+Bro014	2165.718	2168.271	mn007	Mmm. Yeah.
+Bro014	2167.389	2186.700	me013	But each one of the mixture components - I mean, you have, uh, uh, variance only, so it's kind of like you're just multiplying together these, um, probabilities from the individual features within each mixture. So it's - so, uh, it seems l- you know -
+Bro014	2185.000	2187.532	me018	I think it's a neat thing. Uh, it seems like a good idea.
+Bro014	2188.650	2189.014	me013	Yeah.
+Bro014	2189.014	2190.438	me013	Um.
+Bro014	2196.284	2208.323	me013	Yeah. I mean, I know that, um, people doing some robustness things a ways back were - were just doing - just being gross and just throwing in the F_F_T and actually it wasn't - wasn't - wasn't so bad.
+Bro014	2209.105	2222.676	me013	Uh, so it would s- and - and you know that i- it's gotta hurt you a little bit to not have a - a spectral, uh - a s- a smooth spectral envelope, so there must be something else that you get in return for that - that, uh - uh -
+Bro014	2220.763	2221.212	mn007	Mm-hmm.
+Bro014	2222.676	2223.560	me013	So.
+Bro014	2222.786	2232.736	me018	So how does - uh, maybe I'm going in too much detail, but how exactly do you make the difference between the F_F_T and the smoothed spectral envelope?
+Bro014	2233.108	2235.758	me018	Wha- wh- i- i- uh, how is that, uh - ?
+Bro014	2237.930	2241.778	mn007	Um, we just - How did we do it up again?
+Bro014	2241.740	2255.282	fn002	Uh, we distend the - we have the twenty-three coefficient af- after the mel f- filter, and we extend these coefficient between the - all the frequency range.
+Bro014	2247.029	2248.255	mn007	Mm-hmm.
+Bro014	2255.352	2255.868	me018	Mm-hmm.
+Bro014	2255.757	2271.620	fn002	And i- the interpolation i- between the point is - give for the triang- triangular filter, the value of the triangular filter and of this way we obtained this mode- this model speech.
+Bro014	2270.023	2279.271	me013	So you essentially take the values that - th- that you get from the triangular filter and extend them to sor- sort of like a rectangle, that's at that m- value.
+Bro014	2270.492	2270.927	mn007	S-
+Bro014	2275.669	2276.201	fn002	Yeah.
+Bro014	2278.266	2281.927	fn002	Mm-hmm. mmm Yeah, it's linear.
+Bro014	2278.720	2288.822	mn007	Yeah. I think we have linear interpolation. So we have - we have one point for - one energy for each filter bank, which is the energy that's centered on - on - on the triangle -
+Bro014	2281.784	2282.338	me018	Mmm.
+Bro014	2283.588	2284.004	me013	Oh.
+Bro014	2283.945	2284.657	fn002	Yeah.
+Bro014	2286.080	2288.553	fn002	At the n- at the center of the filter -
+Bro014	2287.506	2297.777	me018	So you - you end up with a vector that's the same length as the F_F_T vector? And then you just, uh, compute differences and, uh, sum the differences?
+Bro014	2290.321	2293.310	mn007	Yeah. That's right.
+Bro014	2290.990	2291.441	fn002	Yeah.
+Bro014	2292.806	2293.204	fn002	Yeah.
+Bro014	2293.204	2298.300	fn002	I have here one example if you - if you want see something like that.
+Bro014	2294.751	2296.274	mn007	Then we compute the difference. Yeah. Uh-huh.
+Bro014	2296.210	2296.863	me013	O_K.
+Bro014	2297.322	2297.878	mn007	So.
+Bro014	2297.878	2309.084	mn007	And I think the variance is computed only from, like, two hundred hertz to one - to fifteen hundred.
+Bro014	2300.034	2301.078	me018	Oh! O_K.
+Bro014	2303.953	2304.434	me013	Mm-hmm.
+Bro014	2307.060	2310.190	fn002	Two thou- two - fifteen hundred? No.
+Bro014	2309.274	2309.986	me013	Mm-hmm.
+Bro014	2310.141	2310.873	mn007	Because -
+Bro014	2311.016	2311.471	me013	Right.
+Bro014	2311.110	2312.710	fn002	Two hundred and fifty thousand.
+Bro014	2312.100	2313.391	mn007	Fifteen hundred. Because - Yeah.
+Bro014	2312.710	2313.710	fn002	Yeah.
+Bro014	2313.710	2315.490	fn002	Two thousand and fifteen hundred.
+Bro014	2314.480	2317.541	mn007	Above, um - it seems that -
+Bro014	2318.016	2326.640	mn007	Well, some voiced sound can have also, like, a noisy part on high frequencies, and -
+Bro014	2327.580	2330.907	me013	Yeah. No, it's - makes sense to look at low frequencies.
+Bro014	2327.978	2329.320	mn007	But - Well, it's just -
+Bro014	2329.040	2336.531	me018	So this is - uh, basically this is comparing an original version of the signal to a smoothed version of the same signal?
+Bro014	2335.285	2335.799	fn002	Yeah.
+Bro014	2335.676	2338.605	me013	Right. So i- so i- i- this is -
+Bro014	2338.605	2348.952	me013	I mean, i- you could argue about whether it should be linear interpolation or - or - or - or zeroeth order, but - but at any rate something like this is what you're feeding your recognizer, typically.
+Bro014	2343.595	2344.131	me018	Uh-huh.
+Bro014	2348.842	2350.281	me018	Like which of the - ?
+Bro014	2349.783	2359.876	me013	No. Uh, so the mel cepstrum is the - is the - is the cepstrum of this - this, uh, spectrum or log spectrum, whatever it - You- you're subtracting in - in - in power domain or log domain?
+Bro014	2351.100	2352.381	mn007	So this is - Yeah.
+Bro014	2351.962	2352.341	me018	Yeah.
+Bro014	2355.025	2355.668	me018	Right, right.
+Bro014	2359.635	2360.644	mn007	In log domain. Yeah.
+Bro014	2359.789	2361.055	fn002	Log domain.
+Bro014	2361.042	2364.488	me013	O_K. So it's sort of like division, when you do the - yeah, the spectra.
+Bro014	2363.072	2363.527	fn002	Yeah.
+Bro014	2363.824	2364.996	mn007	Uh, yeah.
+Bro014	2364.488	2366.941	me013	Um.
+Bro014	2364.519	2365.448	me018	It's the ratio.
+Bro014	2366.941	2371.700	me013	Yeah. But, anyway, um - and that's -
+Bro014	2371.658	2379.174	me018	So what's th- uh, what's the intuition behind this kind of a thing? I - I don't know really know the signal-processing well enough to understand what - what is that doing.
+Bro014	2378.060	2378.575	mn007	So.
+Bro014	2380.118	2396.082	mn007	Yeah. What happen if - what we have - have - what we would like to have is some spectrum of the excitation signal, which is for voiced sound ideally a - a pulse train and for unvoiced it's something that's more flat.
+Bro014	2380.600	2381.936	me013	Yeah. I guess that makes sense. Yeah.
+Bro014	2391.748	2392.242	me018	Uh-huh.
+Bro014	2395.723	2396.831	me018	Uh-huh. Right.
+Bro014	2397.100	2417.405	mn007	And the way to do this is that - well, we have the - we have the F_F_T because it's computed in - in the - in the system, and we have the mel filter banks, and so if we - if we, like, remove the mel filter bank from the F_F_T, we have something that's close to the excitation signal.
+Bro014	2402.651	2403.052	me018	Mm-hmm.
+Bro014	2405.744	2406.417	me018	Mm-hmm.
+Bro014	2417.729	2418.401	me006	Oh.
+Bro014	2418.482	2419.486	me018	O_K.
+Bro014	2418.968	2426.163	mn007	It's something that's like a - a- a train of p- a pulse train for voiced sound and that's - that should be flat for -
+Bro014	2419.486	2421.622	me018	Oh! O_K.
+Bro014	2419.972	2420.465	me013	Yeah.
+Bro014	2422.760	2423.472	me018	Yeah.
+Bro014	2424.357	2424.792	me013	Yeah.
+Bro014	2424.870	2425.907	me018	I see.
+Bro014	2425.907	2429.705	me018	So do you have a picture that sh- ? Is this for a voiced segment, this picture?
+Bro014	2427.965	2429.923	mn007	So- It's - Y- yeah.
+Bro014	2428.984	2430.982	fn002	Yeah.
+Bro014	2429.705	2431.030	me018	What does it look like for unvoiced?
+Bro014	2430.614	2432.336	mn007	You have several - some unvoiced?
+Bro014	2431.793	2436.560	fn002	The dif- No. Unvoiced, I don't have for unvoiced. I'm sorry.
+Bro014	2433.929	2435.481	mn007	Oh.
+Bro014	2434.149	2437.233	me013	Yeah. So, you know, all - Yeah.
+Bro014	2436.108	2436.431	mn007	But -
+Bro014	2436.826	2438.112	mn007	Yeah.
+Bro014	2436.920	2439.500	fn002	Yeah. This is the - between -
+Bro014	2438.626	2440.680	mn007	This is another voiced example. Yeah.
+Bro014	2440.100	2448.330	fn002	No. But it's this, but between the frequency that we are considered for the excitation - for the difference and this is the difference.
+Bro014	2441.332	2442.323	mn007	Oh, yeah. This is -
+Bro014	2443.569	2444.306	mn007	Right.
+Bro014	2444.579	2445.174	mn007	Mm-hmm.
+Bro014	2448.290	2449.655	me018	This is the difference. O_K.
+Bro014	2448.475	2448.796	mn007	Yeah.
+Bro014	2449.973	2450.388	me013	Yeah.
+Bro014	2450.020	2453.540	mn007	So, of course, it's around zero, but - Well, no. It is -
+Bro014	2450.338	2450.876	me006	Sure looks -
+Bro014	2451.449	2451.904	me006	Hmm.
+Bro014	2452.194	2452.630	me018	Hmm.
+Bro014	2452.828	2458.650	fn002	Yeah. Because we begin, uh, in fifteen point - the fifteen point.
+Bro014	2456.200	2465.252	me018	So, does - does the periodicity of this signal say something about the - the - the pitch? O_K.
+Bro014	2458.650	2459.672	fn002	Fifteen p-
+Bro014	2461.134	2461.767	mn007	So it's -
+Bro014	2463.368	2463.823	me013	Pitch.
+Bro014	2463.788	2465.579	mn007	Yeah. It's the pitch. Yeah. Mm-hmm.
+Bro014	2464.713	2466.335	me013	Yeah. That's like fundamental frequency.
+Bro014	2466.172	2466.746	mn007	Mm-hmm.
+Bro014	2466.335	2471.183	me013	So, I mean, i- t- t- I mean, to first order what you'd - what you're doing -
+Bro014	2466.602	2468.243	me018	O_K. I see.
+Bro014	2471.183	2474.979	me013	I mean, ignore all the details and all the ways which is - that these are complete lies.
+Bro014	2474.929	2476.491	me018	Mm-hmm.
+Bro014	2474.979	2491.081	me013	Uh, the - the - you know, what you're doing in feature extraction for speech recognition is you have, uh, in your head a - a - a - a simplified production model for speech, in which you have a periodic or aperiodic source that's driving some filters.
+Bro014	2484.955	2485.370	fn002	Yeah.
+Bro014	2485.289	2485.828	me018	Mm-hmm.
+Bro014	2485.983	2489.892	fn002	This is the - the auto-correlation - the R_zero energy.
+Bro014	2488.551	2493.518	mn007	Do you have the mean - do you have the mean for the auto-correlation - ?
+Bro014	2491.081	2494.819	me013	Uh, first order for speech recognition, you say "I don't care about the source". Right?
+Bro014	2491.771	2492.364	fn002	For -
+Bro014	2492.740	2494.718	fn002	Yeah. I have the mean.
+Bro014	2494.138	2496.129	mn007	Well, I mean for the - the energy.
+Bro014	2494.168	2495.568	me018	Right. Right.
+Bro014	2494.819	2507.717	me013	And so you just want to find out what the filters are. The filters roughly act like a, um - a, uh - a- an overall resonant - you know, f- some resonances and so forth that th- that's processing excitation.
+Bro014	2496.170	2497.550	fn002	Yeah. Here.
+Bro014	2498.410	2499.709	mn007	They should be more close.
+Bro014	2499.949	2503.190	fn002	Ah, no. This is this? More close. Is this?
+Bro014	2503.190	2503.784	fn002	And this.
+Bro014	2504.515	2505.550	me018	Mm-hmm. Mm-hmm.
+Bro014	2505.493	2507.785	mn007	Yeah. So they are - this is - there is less difference.
+Bro014	2506.389	2507.158	fn002	Mm-hmm.
+Bro014	2507.717	2513.093	me013	So if you look at the spectral envelope, just the very smooth properties of it, you get something closer to that.
+Bro014	2508.260	2510.319	mn007	This is less - it's less robust.
+Bro014	2510.129	2511.334	fn002	Less robust. Yeah.
+Bro014	2513.292	2514.400	mn007	Oh, yeah.
+Bro014	2513.519	2527.943	me013	And the notion is if you have the full spectrum, with all the little nitty-gritty details, that that has the effect of both, and it would be a multiplication in - in frequency domain so that would be like an addition in log - power spectrum domain.
+Bro014	2516.769	2517.348	me018	Yeah.
+Bro014	2519.761	2520.414	me018	Mm-hmm.
+Bro014	2526.638	2527.797	me018	Mm-hmm. Mm-hmm.
+Bro014	2528.299	2536.349	me013	And so this is saying, well, if you really do have that sort of vocal tract envelope, and you subtract that off, what you get is the excitation.
+Bro014	2536.349	2543.569	me013	And I call that lies because you don't really have that, you just have some kind of signal-processing trickery to get something that's kind of smooth.
+Bro014	2543.569	2547.544	me013	It's not really what's happening in the vocal tract so you're not really getting the vocal excitation.
+Bro014	2544.834	2545.992	me018	Yeah. Right.
+Bro014	2547.923	2559.676	me013	That's why I was going to the - why I was referring to it in a more - a more, uh, uh, conservative way, when I was saying "well, it's - yeah, it's the excitation". But it's not really the excitation. It's whatever it is that's different between -
+Bro014	2558.974	2561.672	me018	Oh. This moved in the - Yeah.
+Bro014	2559.676	2564.461	me013	So - so, stand- standing back from that, you sort of say there's this very detailed representation.
+Bro014	2564.207	2564.872	me018	Mm-hmm.
+Bro014	2564.461	2570.078	me013	You go to a smooth representation. You go to a smooth representation cuz this typically generalizes better.
+Bro014	2569.507	2570.194	me018	Mm-hmm.
+Bro014	2570.078	2576.150	me013	Um, but whenever you smooth you lose something, so the question is have you lost something you can you use?
+Bro014	2575.470	2576.121	me018	Right.
+Bro014	2576.150	2587.585	me013	Um, probably you wouldn't want to go to the extreme of just ta- saying "O_K, our feature set will be the F_F_T", cuz we really think we do gain something in robustness from going to something smoother, but maybe there's something that we missed.
+Bro014	2585.519	2586.024	me018	Mm-hmm.
+Bro014	2587.321	2587.757	me018	Yeah.
+Bro014	2587.585	2593.142	me013	So what is it? And then you go back to the intuition that, well, you don't really get the excitation, but you get something related to it.
+Bro014	2592.850	2593.975	me018	Mm-hmm. Mm-hmm.
+Bro014	2593.755	2602.764	me013	And it - and as you can see from those pictures, you do get something that shows some periodicity, uh, in frequency, you know, and - and - and also in time. So - so,
+Bro014	2599.600	2599.977	me018	Hmm.
+Bro014	2601.419	2602.626	me018	That's - that's really neat.
+Bro014	2603.318	2605.830	me018	So you don't have one for unvoiced picture?
+Bro014	2605.610	2609.500	fn002	Uh, not here. No, I have s- But not here.
+Bro014	2607.096	2607.729	me018	Oh.
+Bro014	2607.792	2609.073	mn007	Mm-hmm.
+Bro014	2608.280	2608.655	me013	Yeah.
+Bro014	2609.046	2616.068	me013	But presumably you'll see something that won't have this kind of, uh, uh, uh, regularity in frequency, uh, in the -
+Bro014	2611.189	2611.472	mn007	But -
+Bro014	2614.571	2618.310	mn007	Yeah. Well.
+Bro014	2615.217	2616.265	fn002	Not here.
+Bro014	2616.788	2619.923	me018	I would li- I would like to see those pictures. Yeah.
+Bro014	2616.920	2617.788	fn002	Well, so.
+Bro014	2618.360	2618.817	me013	Yeah.
+Bro014	2618.820	2620.938	fn002	I can't see you now.
+Bro014	2619.984	2620.378	me013	Yeah.
+Bro014	2622.392	2622.828	me013	Yeah.
+Bro014	2623.317	2624.306	fn002	I don't have.
+Bro014	2623.515	2623.989	mn007	Mm-hmm.
+Bro014	2625.049	2629.422	me018	And so you said this is pretty - doing this kind of thing is pretty robust to noise?
+Bro014	2629.601	2632.356	mn007	It seems, yeah. Um,
+Bro014	2630.735	2631.209	fn002	Pfft.
+Bro014	2631.038	2631.451	me018	Huh.
+Bro014	2631.625	2639.302	fn002	Oops. The mean is different with it, because the - the histogram for the - the classifica- Oh!
+Bro014	2637.212	2648.848	mn007	No, no, no. But th- the kind of robustness to noise - So if - if you take this frame, uh, from the noisy utterance and the same frame from the clean utterance -
+Bro014	2642.415	2642.888	fn002	Hmm.
+Bro014	2649.003	2652.262	me018	You end up with a similar difference over here?
+Bro014	2650.077	2652.392	mn007	Y- y- y- yeah. We end up with -
+Bro014	2652.940	2653.440	mn007	Yeah.
+Bro014	2653.390	2654.675	me018	O_K. Cool!
+Bro014	2654.120	2669.860	fn002	I have here the same frame for the clean speech - the same cle- But they are a difference. Because here the F_F_T is only with two hundred fifty-six point and this is with five hundred twelve.
+Bro014	2657.830	2659.720	me018	Oh, that's clean. Oh, O_K-
+Bro014	2660.366	2663.365	mn007	Yeah, that's -
+Bro014	2667.058	2667.790	me018	Oh.
+Bro014	2669.860	2670.718	me018	O_K.
+Bro014	2670.058	2691.318	mn007	Yeah. This is kind of inter- interesting also because if we use the standard, uh, frame length of - of, like, twenty-five milliseconds, um, what happens is that for low-pitched voiced, because of the frame length, y- you don't really have - you don't clearly see this periodic structure,
+Bro014	2691.551	2692.026	me013	Mm-hmm.
+Bro014	2693.640	2697.294	mn007	because of the first lobe of - of each - each of the harmonics.
+Bro014	2695.820	2699.044	me018	So this one inclu- is a longer - Ah.
+Bro014	2697.294	2701.818	mn007	So, this is like - yeah, fifty milliseconds or something like that.
+Bro014	2699.925	2702.710	fn002	Fifty millis- Yeah.
+Bro014	2702.075	2705.003	mn007	Yeah, but it's the same frame and -
+Bro014	2704.253	2707.457	me018	Oh, it's that time-frequency trade-off thing. Right?
+Bro014	2706.244	2706.727	mn007	Yeah.
+Bro014	2707.457	2708.506	me018	I see.
+Bro014	2709.277	2709.692	me018	Yeah.
+Bro014	2709.950	2710.570	me013	Mm-hmm.
+Bro014	2709.977	2713.803	me018	Oh. Oh, so this i- is this the difference here, for that?
+Bro014	2710.000	2710.722	mn007	So, yeah.
+Bro014	2712.260	2716.038	fn002	No. This is the signal. This is the signal.
+Bro014	2714.395	2716.729	mn007	I see that. Oh, yeah.
+Bro014	2716.513	2717.518	fn002	The frame.
+Bro014	2717.545	2718.747	me018	Oh, that's the f- the original.
+Bro014	2718.323	2720.172	fn002	This is the fra- the original frame.
+Bro014	2718.636	2725.183	mn007	Yeah. So with a short frame basically you have only two periods and it's not - not enough to - to have this kind of neat things. But -
+Bro014	2720.389	2723.611	me018	Yeah. Mm-hmm. Yeah.
+Bro014	2721.517	2722.229	fn002	Mm-hmm.
+Bro014	2725.204	2726.838	fn002	And here - No, well.
+Bro014	2727.544	2731.497	mn007	Yeah. So probably we'll have to use, like, long f- long frames. Mm-hmm.
+Bro014	2730.799	2731.392	me018	Mm-hmm.
+Bro014	2731.348	2731.823	me006	Hmm.
+Bro014	2733.999	2735.575	me018	Oh. That's interesting.
+Bro014	2734.642	2735.116	me013	Mmm.
+Bro014	2735.629	2736.262	me013	Yeah, maybe.
+Bro014	2737.752	2749.049	me013	Well, I mean it looks better, but, I mean, the thing is if - if, uh - if you're actually asking - you know, if you actually j- uh, need to do - place along an F_F_T, it may be - it may be pushing things.
+Bro014	2749.122	2749.455	mn007	Yeah.
+Bro014	2749.761	2751.541	me013	And - and, uh -
+Bro014	2752.825	2757.711	me018	Would you - would you wanna do this kind of, uh, difference thing after you do spectral subtraction?
+Bro014	2759.039	2761.927	mn007	Uh, maybe.
+Bro014	2760.688	2761.217	fn002	No.
+Bro014	2761.630	2762.700	fn002	Maybe we can do that.
+Bro014	2765.350	2767.724	mn007	Mmm.
+Bro014	2771.340	2772.753	me013	Hmm.
+Bro014	2772.753	2782.080	me013	The spectral subtraction is being done at what level? Is it being done at the level of F_F_T bins or at the level of, uh, mel spectrum or something?
+Bro014	2780.359	2782.052	mn007	Um,
+Bro014	2783.279	2786.483	mn007	I guess it depends.
+Bro014	2786.490	2787.486	me013	I mean, how are they doing it?
+Bro014	2787.530	2788.964	mn007	How they're doing it? Yeah.
+Bro014	2789.439	2791.022	mn007	Um,
+Bro014	2791.734	2796.312	mn007	I guess Ericsson is on the, um, filter bank, no?
+Bro014	2794.687	2797.440	fn002	F_F_T. Filter bank, yeah.
+Bro014	2796.817	2801.170	mn007	It's on the filter bank, so. So, yeah, probably -
+Bro014	2803.160	2805.812	me013	So in that case, it might not make much difference at all.
+Bro014	2803.748	2805.377	mn007	I- i- it - Yeah.
+Bro014	2806.085	2808.795	me018	Seems like you'd wanna do it on the F_F_T bins.
+Bro014	2809.100	2812.047	me013	Maybe. I mean, certainly it'd be better.
+Bro014	2810.034	2812.823	me018	I- I mean, if you were gonna - uh, for - for this purpose, that is.
+Bro014	2812.901	2813.851	mn007	Mm-hmm.
+Bro014	2813.261	2813.674	me013	Yeah.
+Bro014	2815.469	2816.003	me013	Yeah.
+Bro014	2815.839	2816.264	mn007	Mm-hmm.
+Bro014	2820.290	2823.615	me013	O_K.
+Bro014	2822.308	2824.147	mn007	Mmm.
+Bro014	2823.615	2824.705	me013	What else?
+Bro014	2825.569	2828.619	mn007	Uh. Yeah, that's all.
+Bro014	2828.619	2839.414	mn007	So we'll perhaps try to convince O_G_I people to use the new - the new filters and - Yeah.
+Bro014	2842.046	2842.896	me013	O_K.
+Bro014	2843.866	2851.600	me013	Uh, has - has anything happened yet on this business of having some sort of standard, uh, source, or - ?
+Bro014	2850.066	2863.830	mn007	Uh, not yet but I wi- I will call them and - now they are - I think they have more time because they have this - well, Eurospeech deadline is over and -
+Bro014	2854.626	2855.073	me013	O_K.
+Bro014	2862.350	2866.168	me018	<find_calendar_entry> When is the <title> next, um, Aurora deadline </title> </find_calendar_entry>?
+Bro014	2866.093	2869.179	mn007	It's, um, in <start_date> June </start_date>.
+Bro014	2869.701	2870.034	me018	June.
+Bro014	2870.023	2870.438	mn007	Yeah.
+Bro014	2870.849	2873.222	me013	Early June, late June, middle June?
+Bro014	2873.821	2874.679	mn007	I don't know w-
+Bro014	2874.508	2874.824	me013	Hmm.
+Bro014	2875.530	2875.886	me006	Hmm.
+Bro014	2876.488	2877.685	me013	O_K.
+Bro014	2878.852	2886.271	me013	Um, and he's been doing all the talking but - but these - he's - he's, uh -
+Bro014	2884.319	2886.710	fn002	Yeah.
+Bro014	2886.568	2892.372	me013	This is - this by the way a bad thing. We're trying to get, um, m- more female voices in this record as well. So.
+Bro014	2892.372	2895.695	me013	Make sur- make sure Carmen talks as well.
+Bro014	2895.695	2900.409	me013	Uh, but has he pretty much been talking about what you're doing also, and - ?
+Bro014	2899.780	2902.316	fn002	Oh, I - I am doing this.
+Bro014	2902.580	2905.503	fn002	Yeah, yeah. I don't know. I'm sorry, but
+Bro014	2902.585	2903.040	me013	Yes.
+Bro014	2905.503	2910.551	fn002	I think that for the recognizer for the meeting recorder that it's better that I don't speak.
+Bro014	2915.751	2924.443	me013	Yeah, well. You know, uh, we'll get - we'll get to, uh, Spanish voices sometime, and we do - we want to recognize, uh, you too.
+Bro014	2915.989	2918.210	fn002	Because -
+Bro014	2922.680	2934.860	fn002	After the - after, uh, the result for the T_I-digits on the meeting record there will be foreigns people.
+Bro014	2930.599	2933.780	me018	Y-
+Bro014	2931.668	2932.298	mn007	Yeah, but -
+Bro014	2932.144	2936.337	me013	Oh, no. We like - we - we're - we're - w- we are - we're in the, uh,
+Bro014	2937.128	2945.511	me013	Bourlard-Hermansky-Morgan, uh, frame of mind. Yeah, we like high error rates. It's - That way there's lots of work to do. So it's -
+Bro014	2941.915	2942.508	mn007	Yeah.
+Bro014	2946.300	2951.598	me013	Uh, anything to talk about?
+Bro014	2950.549	2955.573	me026	N- um, not- not- not much is new. So when I talked about what I'm planning to do last time,
+Bro014	2955.573	2969.994	me026	I said I was, um, going to use Avendano's method of, um, using a transformation, um, to map from long analysis frames which are used for removing reverberation to short analysis frames for feature calculation.
+Bro014	2970.482	2981.647	me026	He has a trick for doing that involving viewing the D_F_T as a matrix. Um, but, uh, um, I decided not to do that after all because
+Bro014	2981.857	2997.570	me026	I - I realized to use it I'd need to have these short analysis frames get plugged directly into the feature computation somehow and right now I think our feature computation is set to up to, um, take, um, audio as input, in general.
+Bro014	2990.047	2990.858	me013	Mm-hmm.
+Bro014	2997.570	3005.146	me026	So I decided that I - I'll do the reverberation removal on the long analysis windows and then just re-synthesize audio and then send that.
+Bro014	3005.780	3009.693	me013	This is in order to use the S_R_I system or something. Right?
+Bro014	3008.945	3020.872	me026	Um, or - or even if I'm using our system, I was thinking it might be easier to just re-synthesize the audio, because then I could just feacalc as is and I wouldn't have to change the code.
+Bro014	3013.715	3014.209	me013	Yeah?
+Bro014	3021.013	3021.567	me013	Oh, O_K.
+Bro014	3022.589	3029.967	me013	Yeah. I mean, it's - um, certainly in a short - short-term this just sounds easier.
+Bro014	3030.119	3030.594	me026	Uh-huh.
+Bro014	3030.817	3037.441	me013	Yeah. I mean, longer-term if it's - if it turns out to be useful, one - one might want to do something else, but -
+Bro014	3035.569	3036.657	me026	Right. That's true.
+Bro014	3037.856	3045.259	me013	Uh, uh, I mean, in - in other words, you - you may be putting other kinds of errors in from the re-synthesis process.
+Bro014	3037.914	3039.259	me026	But - e- u-
+Bro014	3044.420	3051.420	me026	From the re-synthesis? Um, O_- O_K. I don't know anything about re-synthesis. Uh, how likely do you think that is?
+Bro014	3045.259	3047.138	me013	Yeah.
+Bro014	3050.790	3053.445	me013	Uh, it depends what you - what you do.
+Bro014	3054.234	3058.546	me013	I mean, it's - it's - it's, uh, um -
+Bro014	3061.691	3073.877	me013	Don't know. But anyway it sounds like a reasonable way to go for a - for an initial thing, and we can look at - at exactly what you end up doing and - and then figure out if there's some - something that could be - be hurt by the end part of the process.
+Bro014	3074.084	3074.857	me026	O_K.
+Bro014	3075.046	3075.402	me013	O_K.
+Bro014	3079.320	3080.627	me013	So that's -
+Bro014	3081.230	3083.823	me026	That - Yeah, e- That's it, that's it. Uh-huh.
+Bro014	3081.597	3082.526	me013	That was it, huh? O_K.
+Bro014	3083.179	3083.594	me013	O_K.
+Bro014	3084.227	3086.502	me013	Um, anything to add?
+Bro014	3085.580	3086.080	me006	Um.
+Bro014	3086.810	3115.906	me006	Well, I've been continuing reading. I went off on a little tangent this past week, um, looking at, uh, uh, <query_term> modulation s- spectrum stuff </query_term>, um, and - and learning a bit about what - what, um - what it is, and, uh, the importance of it in speech recognition. <search> And I found some - some, uh, neat papers, um, historical papers from, um, <query_term> Kanedera, Hermansky, and Arai </query_term> </search>.
+Bro014	3115.906	3133.810	me006	And they - they did a lot of experiments where th- where, um, they take speech and, um, e- they modify the, uh - they - they - they measure the relative importance of having different, um, portions of the modulation spectrum intact.
+Bro014	3116.135	3116.629	me013	Yeah.
+Bro014	3133.810	3143.803	me006	And they find that the - the spectrum between one and sixteen hertz in the modulation is, uh - is im- important for speech recognition.
+Bro014	3133.858	3134.412	me013	Yeah.
+Bro014	3143.803	3144.689	me006	Um.
+Bro014	3143.946	3147.370	me013	Sure. I mean, this sort of goes back to earlier stuff by Drullman.
+Bro014	3146.989	3147.839	me006	Yeah.
+Bro014	3147.370	3158.189	me013	And - and, uh, the - the M_S_G features were sort of built up with this notion - But, I guess, I thought you had brought this up in the context of, um, targets somehow.
+Bro014	3150.345	3150.656	me006	Right.
+Bro014	3157.883	3159.465	me006	Right. Um -
+Bro014	3158.524	3167.040	me013	But i- m- i- it's not - I mean, they're sort of not in the same kind of category as, say, a phonetic target or a syllabic target or a - or a feature or something.
+Bro014	3159.841	3160.118	me006	Mmm.
+Bro014	3162.190	3162.591	me006	Mm-hmm.
+Bro014	3164.260	3171.325	me006	Um, I was thinking more like using them as - as the inputs to - to the detectors.
+Bro014	3171.640	3172.222	me013	Oh, I see.
+Bro014	3172.035	3172.352	me006	Yeah.
+Bro014	3172.222	3174.508	me013	Well, that's sort of what M_S_G does.
+Bro014	3174.330	3174.824	me006	Yeah.
+Bro014	3174.904	3176.209	me013	Right? So it's -
+Bro014	3175.240	3175.730	me006	Mm-hmm.
+Bro014	3176.209	3178.543	me013	But - but, uh -
+Bro014	3177.991	3178.347	me006	S-
+Bro014	3179.196	3179.574	me013	Yeah.
+Bro014	3179.752	3180.167	me006	Yeah.
+Bro014	3180.940	3183.127	me013	Anyway, we'll talk more about it later. Yeah.
+Bro014	3182.125	3183.905	me006	O_K. We can talk more about it later.
+Bro014	3183.393	3185.006	me013	Yeah. Yeah.
+Bro014	3184.340	3184.775	me006	Yeah.
+Bro014	3185.886	3189.802	me013	So maybe, le- let's do digits.
+Bro014	3187.040	3188.234	me018	Should we do digits?
+Bro014	3192.710	3194.369	me013	Let you - you start.
+Bro014	3193.402	3194.431	me026	Oh, O_K.
+Bro014	3197.034	3200.564	me026	Reading transcript L_ dash five six.
+Bro014	3201.632	3207.368	me026	One seven six eight, six six nine one, seven nine two one.
+Bro014	3208.497	3212.374	me026	Two O_ three, five O_, O_ one two five.
+Bro014	3213.303	3218.127	me026	Four zero five six, four, three three four.
+Bro014	3219.138	3224.182	me026	Nine two nine zero, three one one four, eight six two nine.
+Bro014	3224.875	3229.381	me026	Four one three, six two five, six six nine zero.
+Bro014	3230.425	3235.170	me026	Four three, six seven, six one, five two, nine eight.
+Bro014	3236.298	3240.886	me026	Seven six, three three, three seven, seven eight, two three.
+Bro014	3241.935	3245.544	me026	Eight four two, six one, four six two seven.
+Bro014	3246.520	3252.341	me013	Transcript L_ fifty-five, or transcript L_ five five.
+Bro014	3254.129	3257.610	me013	Six eight seven, seven one five, zero seven five.
+Bro014	3258.085	3261.199	me013	Eight nine six zero, three, eight six five.
+Bro014	3261.770	3265.073	me013	Five six six, two zero, zero two nine six.
+Bro014	3265.785	3268.187	me013	Eight four two eight, nine, one six four.
+Bro014	3269.008	3271.975	me013	One six eight, six two, four zero one three.
+Bro014	3272.945	3275.951	me013	Three one, two six, six one, nine nine, six zero.
+Bro014	3276.841	3279.867	me013	Eight three seven zero, eight, zero eight zero.
+Bro014	3280.679	3284.617	me013	Six two three six, four zero zero six, nine seven four three.
+Bro014	3285.316	3287.262	me018	Transcript L_ dash four nine.
+Bro014	3287.986	3291.430	me018	Eight eight four, two five nine, seven four five zero.
+Bro014	3292.637	3296.093	me018	Seven eight seven, zero one zero, six one five eight.
+Bro014	3296.989	3300.887	me018	Seven four, two two, five zero, three nine, seven zero.
+Bro014	3301.896	3305.535	me018	Eight five eight, zero three, four seven one four.
+Bro014	3306.623	3310.439	me018	Zero six zero, four four, two, zero zero one.
+Bro014	3311.540	3314.433	me018	Two two nine three, three, one two eight.
+Bro014	3315.363	3319.628	me018	Eight, five five eight, five five, eight six nine, one.
+Bro014	3320.288	3323.472	me018	Three five eight, two nine, four O_ one seven.
+Bro014	3324.340	3326.120	me006	Transcript L_ fifty.
+Bro014	3326.872	3331.555	me006	Um, nine O_ six seven, three, nine three three.
+Bro014	3332.232	3337.914	me006	O_, eight three O_, O_ eight, three four eight, one.
+Bro014	3338.883	3342.569	me006	Two one three, six five, three one five nine.
+Bro014	3343.470	3347.341	me006	Four O_, eight four, three O_, five two, one one.
+Bro014	3348.039	3352.179	me006	Nine two four, five eight four, five five zero four.
+Bro014	3352.846	3357.276	me006	Two two, two six, one six, eight one, five five.
+Bro014	3358.172	3366.691	me006	Seven O_ seven, O_ eight seven, eight four O_ two eight O_ three, one six O_, five O_, seven four.
+Bro014	3367.650	3370.914	mn007	Transcript L_ dash fifty three.
+Bro014	3371.804	3376.354	mn007	Five nine, five four, eight eight, three nine, one four.
+Bro014	3376.809	3380.430	mn007	Eight six zero, three one zero, nine seven five three.
+Bro014	3381.331	3385.542	mn007	Five five, five two, nine nine, three three, six five.
+Bro014	3386.413	3390.230	mn007	Three three seven, zero seven, four seven one zero.
+Bro014	3390.942	3394.443	mn007	Six four one eight, three, one six six.
+Bro014	3395.170	3398.523	mn007	Five seven six, eight nine five, nine one six.
+Bro014	3399.551	3403.975	mn007	Two two, eight three, three zero, five five, nine five.
+Bro014	3404.459	3409.163	mn007	Zero five nine, six one five, zero two five.
+Bro014	3412.166	3415.814	fn002	Transcript L_ dash f- fifty-four.
+Bro014	3416.248	3421.689	fn002	One four three one seven seven one O_ three two.
+Bro014	3422.542	3427.845	fn002	Nine eight two four eight eight eight one two.
+Bro014	3428.579	3434.475	fn002	One three one, zero five seven, six eight one two.
+Bro014	3435.267	3441.618	fn002	Six two eight eight, seven five, nine one, two zero.
+Bro014	3442.198	3446.267	fn002	Five two seven two, eight, six one seven.
+Bro014	3446.662	3451.609	fn002	Four nine eight, O_ O_ O_, seven zero nine.
+Bro014	3452.302	3457.566	fn002	Eight six two, four five, eight eight, nine two.
+Bro014	3458.318	3463.797	fn002	Two two one, one nine, six seven eight three.
+Bro014	3465.700	3470.815	mn007	Right.

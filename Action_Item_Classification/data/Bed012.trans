@@ -1,0 +1,761 @@
+Bed012	81.796	86.020	mn015	So I guess this is more or less now just to get you up to date, Johno.
+Bed012	86.830	88.680	mn015	This is what, uh,
+Bed012	89.295	90.680	me003	This is a meeting for me.
+Bed012	90.960	92.607	mn015	um,
+Bed012	92.607	93.542	mn015	Eva,
+Bed012	95.521	97.160	mn015	Bhaskara, and I did.
+Bed012	97.404	99.292	fn050	Did you add more stuff to it? later?
+Bed012	99.540	101.060	mn015	Um. Why?
+Bed012	100.992	101.909	fn050	Um.
+Bed012	101.909	102.402	fn050	I don't know.
+Bed012	102.402	104.457	fn050	There were, like, the - you know,  and all that stuff. But.
+Bed012	104.457	106.645	fn050	I thought you - you said you were adding stuff but I don't know.
+Bed012	106.101	108.221	mn015	Uh, no. This is -
+Bed012	109.962	110.880	mn015	Um,
+Bed012	112.412	112.875	mn015	Ha!
+Bed012	113.483	114.029	mn015	Very nice.
+Bed012	115.370	117.360	mn015	Um, so we thought that,
+Bed012	118.360	130.610	mn015	We can write up uh, an element, and - for each of the situation nodes that we observed in the Bayes-net?
+Bed012	132.239	133.420	mn015	So.
+Bed012	134.560	139.567	mn015	What's the situation like at the entity that is mentioned? if we know anything about it? Is it under construction?
+Bed012	139.567	149.531	mn015	Or is it on fire or something happening to it? Or is it stable? and so forth, going all the way um, f- through Parking,
+Bed012	149.531	152.050	mn015	Location, Hotel, Car, Restroom,
+Bed012	153.120	156.190	mn015	Riots, Fairs, Strikes, or
+Bed012	156.347	158.390	mn015	Disasters.
+Bed012	157.130	160.790	me003	So is - This is - A situation are - is all the things which can be happening right now?
+Bed012	161.450	164.430	me003	Or, what is the situation type?
+Bed012	165.729	171.273	mn015	That's basically just specifying the - the input for the - w- what's
+Bed012	171.980	174.600	me003	Oh, I see y- Why are you specifying it in X_M_L?
+Bed012	174.757	175.671	mn015	Um.
+Bed012	175.983	180.770	mn015	Just because it forces us to be specific about the values here?
+Bed012	181.719	182.403	me003	O_K.
+Bed012	182.640	186.806	mn015	And, also, I mean, this is a - what the input is going to be. Right?
+Bed012	186.990	188.140	mn015	So, we will, uh -
+Bed012	188.140	189.523	mn015	This is a schema. This is -
+Bed012	189.570	194.230	me003	Well, yeah. I just don't know if this is th- l- what the - Does - This is what Java Bayes takes? as a
+Bed012	194.054	196.319	mn015	No, because I mean if we -
+Bed012	194.560	195.268	me003	Bayes-net spec?
+Bed012	196.319	198.327	mn015	I mean we're sure gonna interface to -
+Bed012	198.327	201.240	mn015	We're gonna get an X_M_L document from somewhere.
+Bed012	201.570	203.614	mn015	Right? And that X_M_L document will say
+Bed012	204.190	211.790	mn015	"We are able to - We were able to observe that w- the element, um,  of the Location that the car is near. "
+Bed012	212.660	214.070	mn015	So that's gonna be -
+Bed012	215.315	216.210	mn015	Um.
+Bed012	216.320	221.510	me003	So this is the situational context, everything in it. Is that what Situation is short for, shi- situational context?
+Bed012	221.588	221.860	mn015	Yep.
+Bed012	222.080	222.840	me003	O_K.
+Bed012	224.000	234.931	mn015	So this is just, again, a- an X_M_L schemata which defines a set of possible, uh, permissible X_M_L structures, which we view as input into the Bayes-net.
+Bed012	238.062	238.947	mn015	Right?
+Bed012	238.750	244.355	me003	And then we can r- uh possibly run one of them uh transformations?
+Bed012	244.355	247.920	me003	That put it into the format that the Bayes n- or Java Bayes or whatever wants?
+Bed012	247.862	252.030	mn015	Yea- Are you talking - are you talking about the - the structure?
+Bed012	252.630	253.330	me003	Well it -
+Bed012	253.330	255.670	mn015	I mean when you observe a node.
+Bed012	254.420	259.870	me003	When you - when you say the input to the v- Java Bayes, it takes a certain format, right?
+Bed012	258.048	258.654	mn015	Um-hmm.
+Bed012	260.160	261.815	me003	Which I don't think is this.
+Bed012	261.815	263.000	me003	Although I don't know.
+Bed012	263.190	264.372	mn015	No, it's certainly not this.
+Bed012	264.372	264.810	mn015	Nuh.
+Bed012	265.260	267.390	me003	So you could just - Couldn't you just run a -
+Bed012	267.080	268.530	mn015	X_S_L . Yeah.
+Bed012	268.520	269.131	me003	Yeah.
+Bed012	269.478	271.930	me003	To convert it into the Java Bayes for- format?
+Bed012	271.500	271.940	mn015	Yep.
+Bed012	272.516	272.959	me003	O_K.
+Bed012	273.500	274.132	mn015	That's -
+Bed012	274.822	276.177	mn015	That's no problem, but
+Bed012	276.702	278.850	mn015	I even think that, um -
+Bed012	279.461	283.330	mn015	I mean, once - Once you have this sort of as - running as a module -
+Bed012	283.420	284.782	mn015	Right? What you want is -
+Bed012	285.267	293.220	mn015	You wanna say, "O_K, give me the posterior probabilities of the Go-there node, when this is happening."
+Bed012	293.250	298.830	mn015	Right? When the person said this, the car is there, it's raining, and this is happening.
+Bed012	299.340	305.530	mn015	And with this you can specify the - what's happening in the situation, and what's happening with the user.
+Bed012	305.710	306.604	mn015	So we get -
+Bed012	307.240	310.670	mn015	After we are done, through the Situation we get the User Vector.
+Bed012	312.450	314.180	mn015	So, this is a -
+Bed012	314.569	317.218	me003	So this is just a specification of all the possible inputs?
+Bed012	317.161	317.595	mn015	Yep.
+Bed012	318.770	322.690	mn015	And, all the possible outputs, too.
+Bed012	323.350	323.780	me003	O_K.
+Bed012	323.842	340.520	mn015	So, we have, um, for example, the, uh, Go-there decision node which has two elements, going-there and its posterior probability, and not-going-there and its posterior probability,
+Bed012	342.600	350.270	mn015	because the output is always gonna be all the decision nodes and all the - the - a- all the posterior probabilities for all the values.
+Bed012	351.552	357.294	me003	And then we would just look at the, eh, Struct that we wanna look at in terms of if - if we're only asking about one of the -
+Bed012	358.550	361.090	me003	So like, if I'm just interested in the going-there node,
+Bed012	361.780	367.720	me003	I would just pull that information out of the Struct that gets return- that would - that Java Bayes would output?
+Bed012	369.690	372.390	mn015	Um, pretty much, yes, but
+Bed012	372.390	375.490	mn015	I think it's a little bit more complex.
+Bed012	377.180	384.570	mn015	As, if I understand it correctly, it always gives you all the posterior probabilities for all the values of all decision nodes.
+Bed012	385.070	394.349	mn015	So, when we input something, we always get the, uh, posterior probabilities for all of these. Right?
+Bed012	394.400	394.885	me003	O_K.
+Bed012	395.540	400.660	mn015	So there is no way of telling it t- not to tell us about the EVA values.
+Bed012	400.477	403.390	me003	Yeah, wait I agree, that's - yeah, use - oh, uh Yeah, O_K.
+Bed012	403.820	419.159	mn015	So - so we get this whole list of - of, um, things, and the question is what to do with it, what to hand on, how to interpret it, in a sense.
+Bed012	420.110	426.871	mn015	So y- you said if you - "I'm only interested in whether he wants to go there or not", then I just look at that node, look which one -
+Bed012	426.362	428.600	me003	Look at that Struct in the output, right?
+Bed012	428.182	428.449	mn015	Yep.
+Bed012	429.595	432.190	mn015	Look at that Struct in the - the output, even though
+Bed012	432.360	434.230	mn015	I wouldn't call it a "Struct". But.
+Bed012	434.427	437.640	me003	Well i- well, it's an X_M_L Structure that's being res- returned, right?
+Bed012	436.731	437.909	mn015	Oh. Mm-hmm.
+Bed012	438.910	441.390	mn015	So every part of a structure is a "Struct".
+Bed012	441.390	441.987	mn015	Yeah.
+Bed012	442.040	447.520	me003	Yeah, I just uh - I just was - abbreviated it to Struct in my head, and started going with that.
+Bed012	448.910	450.134	mn015	That element or object,
+Bed012	450.134	450.864	mn015	I would say.
+Bed012	450.160	453.040	me003	Not a C_Struct. That's not what I was trying to k- though yeah.
+Bed012	451.470	451.843	mn015	Yeah.
+Bed012	453.980	454.554	mn015	O_K.
+Bed012	454.820	467.320	mn015	And, um, the reason is - why I think it's a little bit more complex or why - why we can even think about it as an interesting problem in and of itself is -
+Bed012	467.770	468.660	mn015	Um.
+Bed012	470.423	471.056	mn015	So.
+Bed012	471.505	472.556	mn015	The, uh -
+Bed012	474.640	476.320	mn015	Let's look at an example.
+Bed012	477.640	485.004	me003	Well, w- wouldn't we just take the structure that's outputted and then run another transformation on it, that would just dump the one that we wanted out?
+Bed012	489.200	490.980	mn015	Yeah. w- We'd need to prune.
+Bed012	491.664	492.210	mn015	Right?
+Bed012	493.367	494.353	mn015	Throw things away.
+Bed012	495.581	498.560	me003	Well, actually, you don't even need to do that with X_M_L. D- Can't you just look at one specific -
+Bed012	497.173	497.729	mn015	No-
+Bed012	498.560	500.200	mn015	Yeah, exactly. The -
+Bed012	500.540	504.976	mn015	Xerxes allows you to say, u- "Just give me the value of that, and that, and that."
+Bed012	506.690	512.781	mn015	But, we don't really know what we're interested in before we look at the complete - at - at the overall result.
+Bed012	513.189	516.050	mn015	So the person said, um,
+Bed012	516.980	531.250	mn015	"Where is X_?" and so, we want to know, um, is - Does he want info? o- on this? or know the location?
+Bed012	531.680	533.290	mn015	Or does he want to go there?
+Bed012	535.840	538.251	mn015	Let's assume this is our - our question.
+Bed012	537.210	538.220	me003	Sure.
+Bed012	538.430	538.737	mn015	Nuh?
+Bed012	539.450	539.965	mn015	So.
+Bed012	542.780	543.364	mn015	Um.
+Bed012	546.228	547.647	mn015	Do this in Perl.
+Bed012	564.659	566.320	mn015	So we get -
+Bed012	601.750	602.500	mn015	O_K .
+Bed012	617.230	619.190	mn015	Let's assume this is the output.
+Bed012	621.722	622.740	mn015	So.
+Bed012	623.060	625.690	mn015	We should con- be able to conclude from that that -
+Bed012	626.210	637.485	mn015	I mean. It's always gonna give us a value of how likely we think i- it is that he wants to go there and doesn't want to go there, or how likely it is that he wants to get information.
+Bed012	637.980	642.570	mn015	But, maybe w- we should just reverse this to make it a little bit more delicate.
+Bed012	644.035	646.840	mn015	So, does he wanna know where it is? or does he wanna go there?
+Bed012	653.870	655.028	me003	He wants to know where it is.
+Bed012	659.200	659.555	mn015	Right.
+Bed012	660.470	662.830	mn015	I - I - I tend to agree. And if it's -
+Bed012	662.830	663.224	mn015	If -
+Bed012	662.830	664.770	me003	Well now, y- I mean, you could -
+Bed012	664.050	671.004	mn015	And i- if there's sort of a clear winner here, and, um - and this is pretty, uh -
+Bed012	673.524	674.800	mn015	indifferent,
+Bed012	683.920	690.220	mn015	then we - then we might conclude that he actually wants to just know where, uh t- uh, he does want to go there.
+Bed012	691.070	709.540	me003	Uh, out of curiosity, is there a reason why we wouldn't combine these three nodes? into one smaller subnet? that would just basically be the question for - We have "where is X_?" is the question, right? That would just be Info-on or Location?
+Bed012	709.990	710.888	me003	Based upon -
+Bed012	712.670	716.530	mn015	Or Go-there. A lot of people ask that, if they actually just wanna go there.
+Bed012	717.710	719.944	mn015	People come up to you on campus and say, "Where's the library?"
+Bed012	719.944	722.506	mn015	You're gonna say - y- you're gonna say, g- "Go down that way."
+Bed012	722.506	726.850	mn015	You're not gonna say "It's - It's five hundred yards away from you" or "It's north of you", or -
+Bed012	726.850	727.756	mn015	"it's located -"
+Bed012	726.950	735.410	me003	Well, I mean - But the - there's - So you just have three decisions for the final node, that would link thes- these three nodes in the net together.
+Bed012	735.700	737.325	mn015	Um.
+Bed012	738.840	742.046	mn015	I don't know whether I understand what you mean. But. Again, in this -
+Bed012	742.850	763.929	mn015	Given this input, we, also in some situations, may wanna postulate an opinion whether that person wants to go there now the nicest way, use a cab, or so s- wants to know it - wants to know where it is because he wants something fixed there, because he wants to visit t- it or whatever.
+Bed012	764.520	771.620	mn015	So, it - n- I mean - a- All I'm saying is, whatever our input is, we're always gonna get the full output.
+Bed012	772.310	781.700	mn015	And some - some things will always be sort of too - not significant enough.
+Bed012	779.392	779.681	me003	Wha-
+Bed012	781.702	800.473	me003	Or i- or i- it'll be tight. You won't - it'll be hard to decide. But I mean, I guess - I guess the thing is, uh, this is another, smaller, case of reasoning in the case of an uncertainty, which makes me think Bayes-net should be the way to solve these things. So if you had - If for every construction, right? you could say, "Well, there - Here's the Where-Is construction."
+Bed012	783.481	784.031	mn015	Yep.
+Bed012	797.508	797.907	mn015	Oh!
+Bed012	800.798	812.259	me003	And for the Where-Is construction, we know we need to l- look at this node, that merges these three things together as for th- to decide the response. And since we have a finite number of constructions that we can deal with, we could have a finite number of nodes.
+Bed012	805.856	806.480	mn015	Mm-hmm.
+Bed012	812.838	813.356	mn015	O_K.
+Bed012	814.251	821.194	me003	Say, if we had to y- deal with arbitrary language, it wouldn't make any sense to do that, because there'd be no way to generate the nodes for every possible sentence.
+Bed012	814.718	815.280	mn015	Mm-hmm.
+Bed012	821.283	821.614	mn015	Mm-hmm.
+Bed012	821.650	823.667	me003	But since we can only deal with a finite amount of stuff -
+Bed012	824.630	830.750	mn015	So, basically, the idea is to f- to feed the output of that belief-net into another belief-net.
+Bed012	830.750	833.844	me003	Yeah, so basically take these three things and then put them into another belief-net.
+Bed012	833.870	836.846	mn015	But, why - why - why only those three? Why not the whol-
+Bed012	836.153	838.078	me003	Well, I mean, d- For the Where-Is question.
+Bed012	838.078	840.260	me003	So we'd have a node for the Where-Is question.
+Bed012	842.610	851.780	mn015	Yeah. But we believe that all the decision nodes are - can be relevant for the Where-Is, and the Where - How-do-I-get-to or the Tell-me-something-about.
+Bed012	852.781	858.345	me012	Is food not allowed in here?
+Bed012	856.390	857.223	me003	You can come in if you want.
+Bed012	859.140	860.110	mn015	Yes, it is allowed.
+Bed012	860.307	862.961	me003	As long as y- you're not wearing your h- your h- headphones.
+Bed012	863.833	865.233	me012	Alright. Just a second. I'll be back.
+Bed012	869.650	873.382	me003	Well, I do- I - See, I don't know if this is a good idea or not. I'm just throwing it out.
+Bed012	874.975	882.924	me003	But uh, it seems like we could have - I mea- or uh we could put all of the- all of the r- information that could also be relevant into the Where-Is node answer
+Bed012	880.442	880.885	mn015	Mm-hmm.
+Bed012	884.051	884.414	mn015	Yep.
+Bed012	885.130	887.950	me003	node thing stuff.
+Bed012	887.950	888.884	me003	And uh -
+Bed012	889.679	891.374	fn050	O_K.
+Bed012	893.210	893.920	mn015	I mean -
+Bed012	894.095	902.320	mn015	Let's not forget we're gonna get some very strong input from these sub- dis- from these discourse things, right?
+Bed012	902.429	903.450	mn015	So.
+Bed012	903.530	905.930	mn015	"Tell me the location of X_."
+Bed012	906.570	907.270	mn015	Nuh?
+Bed012	907.350	910.890	mn015	Or "Where is X_ located at?" Nuh?
+Bed012	909.482	910.185	me003	We u-
+Bed012	910.660	916.210	me003	Yeah, I know, but the Bayes-net would be able to - The weights on the - on the nodes in the Bayes-net would be able to do all that, wouldn't it?
+Bed012	915.609	916.139	mn015	Mm-hmm.
+Bed012	917.532	918.186	me003	Here's a k-
+Bed012	919.586	919.870	me003	Oh!
+Bed012	920.168	921.827	me003	Oh, I'll wait until you're plugged in.
+Bed012	922.680	923.978	me003	Oh, don't sit there. Sit here.
+Bed012	924.501	926.325	me003	You know how you don't like that one. It's O_K.
+Bed012	926.585	927.442	me012	Oh, do I not?
+Bed012	927.509	928.680	me003	That's the weird one.
+Bed012	929.064	932.222	me003	That's the one that's painful. That hurts. It hurts so bad.
+Bed012	935.820	937.800	me003	I'm h- I'm happy that they're recording that.
+Bed012	938.260	944.723	me003	That headphone. The headphone that you have to put on backwards, with the little - little thing - and the little - little foam block on it?
+Bed012	945.216	947.081	me003	It's a painful, painful microphone.
+Bed012	949.960	951.830	mn015	I think it's th- called "the Crown".
+Bed012	951.830	954.286	me003	The crown?
+Bed012	952.341	953.044	fn050	What?
+Bed012	953.075	954.800	mn015	Yeah, versus "the Sony".
+Bed012	956.568	957.500	me012	The Crown?
+Bed012	957.597	958.890	me012	Is that the actual name?
+Bed012	959.038	959.476	mn015	Mm-hmm.
+Bed012	959.394	959.742	me012	O_K.
+Bed012	960.510	961.345	mn015	The manufacturer.
+Bed012	962.440	964.070	me003	I don't see a manufacturer on it.
+Bed012	964.871	965.422	mn015	You w-
+Bed012	964.930	966.334	me003	Oh, wait, here it is. h- This thingy.
+Bed012	967.300	968.584	me003	Yeah, it's "The Crown".
+Bed012	969.070	970.613	me003	The crown of pain!
+Bed012	971.075	971.693	me012	Yes.
+Bed012	972.198	973.400	mn015	You're on-line?
+Bed012	973.570	975.999	me003	Are you - are your mike o- Is your mike on? O_K.
+Bed012	974.295	975.116	me012	Indeed.
+Bed012	976.680	979.583	me003	So you've been working with these guys? You know what's going on?
+Bed012	979.005	980.499	me012	Yes, I have.
+Bed012	980.924	982.170	me012	And, I do.
+Bed012	982.992	984.970	me012	Yeah, alright. s- So where are we?
+Bed012	983.140	984.744	me003	Excellent!
+Bed012	985.430	986.489	mn015	We're discussing this.
+Bed012	986.570	988.191	me012	I don't think it can handle French, but anyway.
+Bed012	990.975	991.521	mn015	So.
+Bed012	992.380	1001.180	mn015	Assume we have something coming in. A person says, "Where is X_?", and we get a certain - We have a Situation vector and a User vector and everything is fine?
+Bed012	1001.540	1004.130	mn015	An- an- and - and our - and our -
+Bed012	1002.752	1005.982	me003	Did you just sti- Did you just stick the m- the - the - the microphone actually in the tea?
+Bed012	1005.795	1008.322	me012	No.
+Bed012	1008.500	1009.530	mn015	And, um,
+Bed012	1009.475	1011.098	me012	I'm not drinking tea. What are you talking about?
+Bed012	1011.775	1012.746	me003	Oh, yeah. Sorry.
+Bed012	1013.580	1017.780	mn015	let's just assume our Bayes-net just has three decision nodes for the time being.
+Bed012	1017.790	1022.190	mn015	These three, he wants to know something about it, he wants to know where it is, he wants to go there.
+Bed012	1022.204	1025.900	me003	In terms of, these would be wha- how we would answer the question Where-Is, right?
+Bed012	1026.434	1027.059	me003	We u-
+Bed012	1028.301	1031.227	me003	This is - i- That's what you s- it seemed like, explained it to me earlier w-
+Bed012	1031.227	1034.248	me003	We - we're - we wanna know how to answer the question "Where is X_?"
+Bed012	1031.380	1033.174	mn015	Yeah, but, mmm.
+Bed012	1033.174	1034.220	mn015	Yeah.
+Bed012	1034.220	1037.795	mn015	No, I can - I can do the Timing node in here, too, and say "O_K."
+Bed012	1037.013	1041.274	me003	Well, yeah, but in the s- uh, let's just deal with the s- the simple case of we're not worrying about timing or anything.
+Bed012	1041.274	1043.738	me003	We just want to know how we should answer "Where is X_?"
+Bed012	1043.680	1044.090	mn015	O_K.
+Bed012	1045.220	1046.103	mn015	And, um,
+Bed012	1046.980	1048.399	mn015	O_K, and,
+Bed012	1050.720	1057.130	mn015	Go-there has two values, right?, Go-there and not-Go-there. Let's assume those are the posterior probabilities of that.
+Bed012	1056.463	1056.964	me012	Mm-hmm.
+Bed012	1057.150	1067.048	mn015	Info-on has True or False and Location. So, he wants to know something about it, and he wants to know something - he wants to know Where-it-is, has these values.
+Bed012	1063.450	1064.582	me012	Excuse me.
+Bed012	1068.060	1069.440	mn015	And, um,
+Bed012	1069.272	1071.657	me003	Oh, I see why we can't do that.
+Bed012	1071.670	1087.590	mn015	And, um, in this case we would probably all agree that he wants to go there. Our belief-net thinks he wants to go there, right? In the, uh, whatever, if we have something like this here, and
+Bed012	1079.576	1080.297	me012	Yeah.
+Bed012	1080.297	1080.907	me012	Mm-hmm.
+Bed012	1091.076	1094.250	mn015	this like that and maybe here also some -
+Bed012	1094.865	1097.790	me012	You should probably make them out of - Yeah.
+Bed012	1097.835	1099.715	me003	Well, it-
+Bed012	1098.830	1109.120	mn015	something like that, then we would guess, "Aha! He, our belief-net, has s- stronger beliefs that he wants to know where it is, than actually wants to go there."
+Bed012	1110.160	1110.880	mn015	Right?
+Bed012	1111.095	1113.587	me003	That it - Doesn't this assume, though, that they're evenly weighted?
+Bed012	1111.580	1112.341	fn050	True.
+Bed012	1114.047	1114.700	me003	Like -
+Bed012	1116.090	1117.680	me003	I guess they are evenly weighted.
+Bed012	1117.854	1119.585	me012	The different decision nodes, you mean?
+Bed012	1119.481	1121.839	me003	Yeah, the Go-there, the Info-on, and the Location?
+Bed012	1121.491	1123.142	me012	Well, d- yeah, this is making the assumption.
+Bed012	1125.387	1125.997	me012	Yes.
+Bed012	1127.011	1127.584	me003	Like -
+Bed012	1127.080	1130.430	mn015	What do you mean by "differently weighted"? They don't feed into anything really anymore.
+Bed012	1130.395	1131.511	me003	Or I jus-
+Bed012	1130.680	1131.902	me012	But I mean, why do we -
+Bed012	1132.642	1133.320	me003	Le-
+Bed012	1132.660	1138.470	me012	If we trusted the Go-there node more th- much more than we trusted the other ones, then we would conclude, even in this situation, that he wanted to go there.
+Bed012	1139.750	1143.586	me012	So, in that sense, we weight them equally right now.
+Bed012	1142.560	1144.210	mn015	O_K. Makes sense. Yeah.
+Bed012	1146.476	1153.025	me003	So the- But I guess the- k- the question - that I was as- er- wondering or maybe Robert was proposing to me is -
+Bed012	1146.555	1146.932	mn015	But -
+Bed012	1153.025	1156.655	me003	How do we d- make the decision on - as to - which one to listen to?
+Bed012	1157.866	1163.400	me012	Yeah, so, the final d- decision is the combination of these three. So again, it's - it's some kind of, uh -
+Bed012	1163.290	1164.093	me003	Bayes-net.
+Bed012	1164.350	1165.202	me012	Yeah, sure.
+Bed012	1165.946	1169.938	me003	O_K so, then, the question i- So then my question is t- to you then, would be -
+Bed012	1171.750	1177.258	me003	So is the only r- reason we can make all these smaller Bayes-nets, because we know we can only deal with a finite set of constructions?
+Bed012	1177.258	1182.714	me003	Cuz oth- If we're just taking arbitrary language in, we couldn't have a node for every possible question, you know?
+Bed012	1186.302	1188.517	me012	A decision node for every possible question, you mean?
+Bed012	1188.606	1190.404	me003	Well, I - like, in the case of - Yeah.
+Bed012	1190.404	1195.356	me003	In the ca- Any piece of language, we wouldn't be able to answer it with this system, b- if we just h-
+Bed012	1195.356	1200.140	me003	Cuz we wouldn't have the correct node. Basically, w- what you're s- proposing is a n- Where-Is node, right?
+Bed012	1200.099	1200.589	me012	Yeah.
+Bed012	1200.590	1209.530	me003	And - and if we - And if someone - says, you know, uh, something in Mandarin to the system, we'd- wouldn't know which node to look at to answer that question, right?
+Bed012	1202.309	1202.728	me012	So is -
+Bed012	1205.184	1205.471	me012	Yeah.
+Bed012	1209.453	1210.030	me012	Yeah.
+Bed012	1210.480	1210.731	mn015	Mmm?
+Bed012	1210.510	1212.606	me003	So, but - but if we have a finite - What?
+Bed012	1212.250	1224.764	mn015	I don't see your point. What - what - what I am thinking, or what we're about to propose here is we're always gonna get the whole list of values and their posterior probabilities.
+Bed012	1225.111	1232.720	mn015	And now we need an expert system or belief-net or something that interprets that, that looks at all the values and says,
+Bed012	1232.920	1234.590	mn015	"The winner is
+Bed012	1235.960	1237.600	mn015	Timing. Now, go there."
+Bed012	1237.770	1239.600	mn015	"Uh, go there, Timing, now."
+Bed012	1239.770	1242.290	mn015	Or, "The winner is Info-on,
+Bed012	1242.363	1243.630	mn015	Function-Off."
+Bed012	1244.039	1248.090	mn015	So, he wants to know something about it, and what it does.
+Bed012	1248.340	1248.559	mn015	Nuh?
+Bed012	1250.827	1254.750	mn015	Uh, regardless of - of - of the input. Wh- Regardle-
+Bed012	1252.058	1253.010	me003	Yeah, but-
+Bed012	1253.010	1262.390	me003	But how does the expert - but how does the expert system know - how- who- which one to declare the winner, if it doesn't know the question it is, and how that question should be answered?
+Bed012	1265.820	1274.753	mn015	Based on the k- what the question was, so what the discourse, the ontology, the situation and the user model gave us, we came up with these values for these decisions.
+Bed012	1274.650	1276.979	me003	Yeah I know. But how do we weight what we get out?
+Bed012	1279.010	1280.777	me003	As, which one i- Which ones are important?
+Bed012	1285.965	1295.745	me003	So my i- So, if we were to it with a Bayes-net, we'd have to have a node - for every question that we knew how to deal with, that would take all of the inputs and weight them appropriately for that question.
+Bed012	1296.496	1296.920	mn015	Mm-hmm.
+Bed012	1298.295	1299.257	me003	Does that make sense?
+Bed012	1300.063	1300.959	me003	Yay, nay?
+Bed012	1301.227	1306.329	me012	Um, I mean, are you saying that, what happens if you try to scale this up to the situation, or are we just dealing with arbitrary language?
+Bed012	1301.330	1301.758	me003	We -
+Bed012	1307.899	1308.979	me012	Is that your point?
+Bed012	1309.330	1310.914	me003	Well, no. I - I guess my question is,
+Bed012	1311.340	1318.610	me003	Is the reason that we can make a node f- or - O_K. So, lemme see if I'm confused. Are we going to make a node for every question? Does that make sense? - Or not.
+Bed012	1318.416	1320.025	me012	For every question? Like -
+Bed012	1319.882	1321.050	me003	Every construction.
+Bed012	1323.158	1324.279	me012	Hmm.
+Bed012	1325.730	1336.522	me012	I don't - Not necessarily, I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be a node for Go-there or not, and there's gonna be a node for Enter, View, Approach.
+Bed012	1332.813	1333.647	me003	Wel-
+Bed012	1335.062	1336.107	me003	W- O_K.
+Bed012	1336.530	1338.216	me003	So, someone asked a question.
+Bed012	1338.505	1338.778	me012	Yeah.
+Bed012	1338.918	1341.564	me003	How do we decide how to answer it?
+Bed012	1343.900	1346.410	mn015	Well, look at - look -
+Bed012	1346.410	1349.840	mn015	Face yourself with this pr- question. You get this -
+Bed012	1350.498	1352.560	mn015	You'll have - y- This is what you get.
+Bed012	1352.580	1355.350	mn015	And now you have to make a decision. What do we think?
+Bed012	1355.350	1356.559	mn015	What does this tell us?
+Bed012	1357.940	1369.782	mn015	And not knowing what was asked, and what happened, and whether the person was a tourist or a local, because all of these factors have presumably already gone into making these posterior probabilities.
+Bed012	1371.137	1371.994	me003	Yeah.
+Bed012	1371.300	1373.756	mn015	What - what we need is a - just a mechanism that says,
+Bed012	1374.890	1375.285	mn015	"Aha!
+Bed012	1375.713	1377.110	mn015	There is -"
+Bed012	1377.031	1380.644	me003	I just don't think a "winner-take-all" type of thing is the -
+Bed012	1380.992	1386.326	me012	I mean, in general, like, we won't just have those three, right? We'll have, uh, like, many, many nodes.
+Bed012	1386.124	1386.492	mn015	Yep.
+Bed012	1386.326	1392.576	me012	So we have to, like - So that it's no longer possible to just look at the nodes themselves and figure out what the person is trying to say.
+Bed012	1392.060	1393.810	mn015	Because there are interdependencies, right?
+Bed012	1394.166	1394.859	mn015	The uh -
+Bed012	1397.130	1418.930	mn015	Uh, no. So if - if for example, the Go-there posterior possibility is so high, um, uh, w- if it's - if it has reached - reached a certain height, then all of this becomes irrelevant. So. If - even if - if the function or the history or something is scoring pretty good on the true node, true value -
+Bed012	1418.465	1419.252	me003	Wel-
+Bed012	1419.706	1422.986	me003	I don't know about that, cuz that would suggest that - I mean -
+Bed012	1423.430	1426.215	mn015	He wants to go there and know something about it?
+Bed012	1423.466	1424.813	me003	Do they have to be mutual-
+Bed012	1425.092	1427.437	me003	Yeah. Do they have to be mutually exclusive?
+Bed012	1427.924	1430.582	mn015	I think to some extent they are.
+Bed012	1432.686	1434.300	mn015	Or maybe they're not.
+Bed012	1434.688	1440.075	me003	Cuz I, uh - The way you describe what they meant, they weren't mutu- uh, they didn't seem mutually exclusive to me.
+Bed012	1441.140	1447.141	mn015	Well, if he doesn't want to go there, even if the Enter posterior proba- So.
+Bed012	1447.464	1448.269	me003	Wel-
+Bed012	1448.350	1449.436	mn015	Go-there is No.
+Bed012	1450.090	1452.846	mn015	Enter is High, and Info-on is High.
+Bed012	1452.103	1457.709	me003	Well, yeah, just out of the other three, though, that you had in the - those three nodes. The- d- They didn't seem like they were mutually exclusive.
+Bed012	1454.474	1454.774	mn015	Hmm?
+Bed012	1456.767	1458.018	mn015	No, there's - No. But -
+Bed012	1459.316	1459.952	mn015	It's through the -
+Bed012	1459.471	1463.250	me003	So th- s- so, yeah, but some - So, some things would drop out, and some things would still be important.
+Bed012	1463.134	1463.530	mn015	Mm-hmm.
+Bed012	1471.532	1483.320	me003	But I guess what's confusing me is, if we have a Bayes-net to deal w- another Bayes-net to deal with this stuff, you know, uh, is the only reason - O_K, so,
+Bed012	1477.658	1478.085	me012	Mm-hmm.
+Bed012	1483.320	1492.484	me003	I guess, if we have a Ba- another Bayes-net to deal with this stuff, the only r- reason we can design it is cuz we know what each question is asking?
+Bed012	1493.030	1493.415	me012	Yeah.
+Bed012	1494.072	1494.941	me012	I think that's true.
+Bed012	1496.600	1509.446	me003	And then, so, the only reason - way we would know what question he's asking is based upon - Oh, so if - Let's say I had a construction parser, and I plug this in, I would know what each construction - the communicative intent of the construction was and so then I would know how to weight the nodes appropriately, in response.
+Bed012	1506.002	1506.458	me012	Mm-hmm.
+Bed012	1511.580	1515.034	me003	So no matter what they said, if I could map it onto a Where-Is construction,
+Bed012	1512.540	1512.783	me012	Ge-
+Bed012	1514.599	1515.000	me012	Mm-hmm.
+Bed012	1515.034	1519.682	me003	I could say, "ah! well the- the intent, here, was Where-Is", and I could look at those.
+Bed012	1517.946	1518.533	me012	O_K, right.
+Bed012	1520.349	1520.764	me012	Yeah.
+Bed012	1522.122	1528.862	me012	Yes, I mean. Sure. You do need to know - I mean, to have that kind of information.
+Bed012	1531.178	1531.481	mn015	Hmm.
+Bed012	1531.850	1535.496	mn015	Yeah, I'm also agreeing that a simple pru-
+Bed012	1535.496	1537.480	mn015	Take the ones where we have a clear winner.
+Bed012	1538.927	1542.693	mn015	Forget about the ones where it's all sort of middle ground.
+Bed012	1543.159	1546.590	mn015	Prune those out and just hand over the ones where we have a winner.
+Bed012	1547.420	1549.298	mn015	Yeah, because that would be the easiest way.
+Bed012	1549.298	1553.489	mn015	We just compose as an output an X_M_L mes- message that says.
+Bed012	1554.065	1555.804	mn015	"Go there now."
+Bed012	1556.940	1557.670	mn015	"Enter
+Bed012	1560.391	1561.624	mn015	historical information."
+Bed012	1562.650	1565.270	mn015	And not care whether that's consistent with anything.
+Bed012	1565.391	1565.687	mn015	Right?
+Bed012	1566.330	1576.240	mn015	But in this case if we say, " definitely he doesn't want to go there. He just wants to know where it is." or let's call this - this "Look-At-H-"
+Bed012	1576.240	1579.200	mn015	He wants to know something about the history of. So he said,
+Bed012	1579.230	1580.949	mn015	"Tell me something about the history of that."
+Bed012	1581.860	1589.156	mn015	Now, the e- But for some reason the Endpoint-Approach gets a really high score, too.
+Bed012	1590.020	1596.172	mn015	We can't expect this to be sort of at O_ point three, three, three, O_ point, three, three, three, O_ point, three, three, three. Right?
+Bed012	1598.130	1600.950	mn015	Somebody needs to zap that.
+Bed012	1601.900	1602.209	mn015	You know?
+Bed012	1602.209	1603.980	mn015	Or know -
+Bed012	1603.980	1605.780	mn015	There needs to be some knowledge that -
+Bed012	1606.637	1607.140	me003	We -
+Bed012	1607.140	1609.443	me003	Yeah, but, the Bayes-net that would merge -
+Bed012	1611.021	1615.001	me003	I just realized that I had my hand in between my mouth and my micr- er, my- and my microphone.
+Bed012	1615.001	1627.288	me003	So then, the Bayes-net that would merge there, that would make the decision between Go-there, Info-on, and Location, would have a node to tell you which one of those three you wanted, and based upon that node, then you would look at the other stuff.
+Bed012	1626.856	1627.182	mn015	Yep.
+Bed012	1629.000	1630.400	me003	I mean, it- i-
+Bed012	1629.050	1629.336	mn015	Yep.
+Bed012	1630.799	1632.224	me003	Does that make sense?
+Bed012	1631.890	1636.925	mn015	Yep. It's sort of one of those, that's - It's more like a decision tree, if - if you want.
+Bed012	1636.925	1639.784	mn015	You first look o- at the lowball ones, and then -
+Bed012	1638.342	1639.336	me003	Yeah, i-
+Bed012	1640.198	1642.638	me003	Yeah, I didn't intend to say that every possible - O_K.
+Bed012	1642.638	1649.420	me003	There was a confusion there, k- I didn't intend to say every possible thing should go into the Bayes-net, because some of the things aren't relevant in the Bayes-net for a specific question.
+Bed012	1651.504	1658.129	me003	Like the Endpoint is not necessarily relevant in the Bayes-net for Where-Is until after you've decided whether you wanna go there or not.
+Bed012	1657.941	1658.301	mn015	Mm-hmm.
+Bed012	1659.546	1660.119	me012	Right.
+Bed012	1663.810	1665.182	me003	Show us the way, Bhaskara.
+Bed012	1665.586	1669.356	me012	I guess the other thing is that um, yeah. I mean, when you're asked a specific question and you don't even -
+Bed012	1670.091	1676.764	me012	Like, if you're asked a Where-Is question, you may not even look - like, ask for the posterior probability of the, uh, E_V_A node, right?
+Bed012	1676.764	1685.133	me012	Cuz, that's what - I mean, in the Bayes-net you always ask for the posterior probability of a specific node. So, I mean, you may not even bother to compute things you don't need.
+Bed012	1682.770	1683.321	mn015	Um.
+Bed012	1685.960	1687.173	mn015	Aren't we always computing all?
+Bed012	1687.429	1688.165	me012	No.
+Bed012	1688.663	1695.738	me012	You can compute, uh, the posterior probability of one subset of the nodes, given some other nodes, but totally ignore some other nodes, also.
+Bed012	1695.738	1698.610	me012	Basically, things you ignore get marginalized over.
+Bed012	1698.610	1701.090	mn015	Yeah, but that's - that's just shifting the problem.
+Bed012	1701.130	1706.243	mn015	Then you would have to make a decision, "O_K, if it's a Where-Is question, which decision nodes do I query?"
+Bed012	1702.550	1703.432	me012	Yeah. So you have to make -
+Bed012	1704.762	1705.447	me012	Yeah.
+Bed012	1706.472	1707.196	me012	Yes.
+Bed012	1708.158	1708.864	mn015	That's un-
+Bed012	1708.330	1710.749	me012	But I would think that's what you want to do. Right?
+Bed012	1711.510	1713.178	mn015	Mmm.
+Bed012	1712.545	1716.972	fn050	Well, eventually, you still have to pick out which ones you look at. So it's pretty much the same problem, isn't it?
+Bed012	1714.810	1715.040	mn015	Yeah.
+Bed012	1716.280	1719.040	mn015	Yeah - it's - it's - it's apples and oranges. Nuh?
+Bed012	1720.570	1741.751	mn015	I mean, maybe it does make a difference in terms of performance, computational time. So either you always have it compute all the posterior possibilities for all the values for all nodes, and then prune the ones you think that are irrelevant, or you just make a p- a priori estimate of what you think might be relevant and query those.
+Bed012	1724.934	1725.589	me012	Mm-hmm.
+Bed012	1730.518	1730.947	me012	Mmm.
+Bed012	1742.862	1743.477	me012	Yeah.
+Bed012	1760.141	1763.820	me003	So basically, you'd have a decision tree query, Go-there.
+Bed012	1763.820	1768.966	me003	If k- if that's false, query this one. If that's true, query that one. And just basically do a binary search through the - ?
+Bed012	1769.702	1773.016	me012	I don't know if it would necessarily be that, uh, complicated. But, uh -
+Bed012	1775.067	1776.967	me012	I mean, it w-
+Bed012	1775.349	1785.261	me003	Well, in the case of Go-there, it would be. In the case - Cuz if you needed an- If y- If Go-there was true, you'd wanna know what endpoint was. And if it was false, you'd wanna d- look at either Lo- Income Info-on or History.
+Bed012	1786.171	1786.737	me012	Yeah.
+Bed012	1788.111	1791.520	me012	That's true, I guess. Yeah, so, in a way you would have that.
+Bed012	1799.787	1803.066	me003	Also, I'm somewhat boggled by that Hugin software.
+Bed012	1803.125	1804.217	me012	O_K, why's that?
+Bed012	1804.281	1808.469	me003	I can't figure out how to get the probabilities into it.
+Bed012	1808.469	1809.740	me003	Like, I'd look at -
+Bed012	1810.550	1810.908	me012	Mm-hmm.
+Bed012	1810.587	1812.441	me003	It's somewha- It's boggling me.
+Bed012	1812.395	1812.768	me012	O_K.
+Bed012	1814.012	1814.740	me012	Alright.
+Bed012	1815.227	1817.016	me012	Well, hopefully it's fixable.
+Bed012	1816.587	1816.777	me003	Ju-
+Bed012	1817.415	1824.417	me003	Oh yeah, yeah. I d- I just think I haven't figured out what - the terms in Hugin mean, versus what Java Bayes terms are.
+Bed012	1817.416	1818.319	me012	It's - there's a -
+Bed012	1823.757	1824.350	me012	O_K.
+Bed012	1826.090	1830.270	mn015	Um, by the way, are - <find_calendar_entry> Do we know whether <contact_name> Jerry </contact_name> and <contact_name> Nancy </contact_name> are coming </find_calendar_entry>? Or - ?
+Bed012	1826.568	1827.799	me012	So we can figure this out.
+Bed012	1830.163	1833.528	me012	They should come when they're done their stuff, basically, whenever that is.
+Bed012	1834.202	1834.855	me012	So.
+Bed012	1834.487	1836.205	me003	What d- what do they need to do left?
+Bed012	1837.395	1837.985	me012	Um,
+Bed012	1838.867	1839.441	me012	I guess,
+Bed012	1839.441	1842.482	me012	Jerry needs to enter marks, but I don't know if he's gonna do that now or later.
+Bed012	1842.482	1846.179	me012	But, uh, if he's gonna enter marks, it's gonna take him awhile, I guess, and he won't be here.
+Bed012	1846.668	1847.787	me003	And what's Nancy doing?
+Bed012	1847.994	1854.576	me012	Nancy? Um, she was sorta finishing up the, uh, calculation of marks and assigning of grades, but I don't know if she should be here.
+Bed012	1856.264	1860.392	me012	Well - or, she should be free after that, so - assuming she's coming to this meeting.
+Bed012	1862.167	1863.483	me012	I don't know if she knows about it.
+Bed012	1865.906	1867.638	me003	<find_email> <contact_name> She's </contact_name> on the email list, right </find_email>?
+Bed012	1867.477	1868.475	me012	Is she? O_K.
+Bed012	1867.889	1868.297	mn015	Mm-hmm.
+Bed012	1871.373	1871.950	mn015	O_K.
+Bed012	1872.532	1874.025	mn015	Because
+Bed012	1876.430	1896.116	mn015	<create_calendar_entry> basically, what - where we also have decided, prior to this meeting is that we would have a rerun of <contact_name> the three of us </contact_name> sitting together <start_date> sometime this week </start_date> again and <title> finish up the, uh, values of this </title> </create_calendar_entry>.
+Bed012	1886.603	1887.164	fn050	O_K.
+Bed012	1889.639	1890.437	me012	O_K.
+Bed012	1896.116	1899.510	mn015	So we have, uh -
+Bed012	1900.460	1902.980	mn015	Believe it or not, we have all the bottom ones here.
+Bed012	1903.940	1904.908	me003	Well, I -
+Bed012	1904.583	1906.563	fn050	You added a bunch of nodes, for - ?
+Bed012	1906.480	1906.770	mn015	Yep.
+Bed012	1907.670	1908.080	fn050	O_K.
+Bed012	1907.707	1910.780	mn015	We - we - we have - Actually what we have is this line.
+Bed012	1912.075	1916.871	me003	Uh, what do the, uh, structures do? So the - the - the -
+Bed012	1912.220	1912.650	mn015	Right?
+Bed012	1915.412	1915.858	mn015	Hmm?
+Bed012	1916.871	1919.467	me003	For instance, this Location node's got two inputs, that one you -
+Bed012	1918.996	1919.781	me012	Four inputs.
+Bed012	1919.011	1919.360	mn015	Hmm.
+Bed012	1919.930	1920.660	mn015	Four.
+Bed012	1920.443	1922.604	me012	Those are - The bottom things are inputs, also.
+Bed012	1922.198	1923.766	me003	Oh, I see.
+Bed012	1923.434	1923.892	me012	Yeah.
+Bed012	1925.780	1926.255	me003	O_K, that was-
+Bed012	1926.255	1926.747	me003	O_K.
+Bed012	1926.747	1928.364	me003	That makes a lot more sense to me now.
+Bed012	1928.423	1928.928	mn015	Yep.
+Bed012	1928.656	1931.113	me003	Cuz I thought it was like, that one in
+Bed012	1931.784	1934.235	me003	Stuart's book about, you know, the -
+Bed012	1933.850	1935.338	me012	Alarm in the dog?
+Bed012	1935.137	1935.977	me003	U- Yeah.
+Bed012	1935.753	1936.176	me012	Yeah.
+Bed012	1935.977	1937.479	me003	Or the earthquake and the alarm.
+Bed012	1937.598	1940.446	me012	Sorry. Yeah, I'm confusing two.
+Bed012	1939.220	1941.798	me003	Yeah, there's a dog one, too, but that's in Java Bayes, isn't it?
+Bed012	1941.303	1942.029	me012	Right.
+Bed012	1942.029	1942.519	me012	Maybe.
+Bed012	1942.780	1945.779	me003	But there's something about bowel problems or something with the dog.
+Bed012	1946.868	1947.126	me012	Yeah.
+Bed012	1947.560	1955.360	mn015	And we have all the top ones, all the ones to which no arrows are pointing.
+Bed012	1956.150	1964.660	mn015	What we're missing are the - these, where arrows are pointing, where we're combining top ones.
+Bed012	1966.170	1971.830	mn015	So, we have to come up with values for this, and this, this, this, and so forth.
+Bed012	1973.429	1977.450	mn015	And maybe just fiddle around with it a little bit more.
+Bed012	1980.703	1982.150	mn015	And, um.
+Bed012	1982.700	1990.371	mn015	And then it's just, uh, edges, many of edges.
+Bed012	1991.700	1996.837	mn015	<delete_calendar_entry> And, um, <contact_name> we </contact_name> won't meet <start_date> next Monday </start_date> </delete_calendar_entry>.
+Bed012	1997.254	1998.280	mn015	So.
+Bed012	1998.054	1999.584	me003	Cuz of Memorial Day?
+Bed012	2000.060	2000.502	mn015	Yep.
+Bed012	2000.243	2001.837	me012	<create_calendar_entry> <contact_name> We'll </contact_name> meet <start_date> next Tuesday </start_date>, I guess </create_calendar_entry>.
+Bed012	2002.139	2002.581	mn015	Yeah.
+Bed012	2002.843	2005.093	me003	<find_calendar_entry> When's <contact_name> Jerry </contact_name> <title> leaving for - Italia </title> </find_calendar_entry>?
+Bed012	2004.414	2005.990	mn015	On - on Friday.
+Bed012	2005.980	2006.796	me012	Which Friday?
+Bed012	2006.196	2007.162	mn015	This - this Friday.
+Bed012	2007.454	2008.127	me012	O_K.
+Bed012	2007.766	2009.109	fn050	Oh. This Friday?
+Bed012	2008.497	2008.912	me003	Ugh.
+Bed012	2009.134	2010.090	mn015	This Friday.
+Bed012	2009.199	2010.604	me003	As in, four days?
+Bed012	2010.489	2010.995	mn015	Yep.
+Bed012	2011.758	2012.680	me003	Or, three days?
+Bed012	2012.447	2014.565	me012	Is he - How long is he gone for?
+Bed012	2014.000	2015.080	mn015	Two weeks.
+Bed012	2017.610	2018.512	me012	Italy, huh?
+Bed012	2019.699	2021.445	me012	What's, uh - what's there?
+Bed012	2024.660	2025.840	mn015	Well, it's a country.
+Bed012	2026.130	2027.170	mn015	Buildings.
+Bed012	2027.170	2027.822	mn015	People.
+Bed012	2027.995	2030.218	me003	But it's not a conference or anything. He's just visiting.
+Bed012	2028.500	2029.142	me012	Pasta.
+Bed012	2029.410	2030.130	mn015	Hmm?
+Bed012	2030.387	2031.074	me012	Right.
+Bed012	2031.074	2031.890	me012	Just visiting.
+Bed012	2032.505	2033.490	mn015	Vacation.
+Bed012	2037.054	2041.388	me012	It's a pretty nice place, in my brief, uh, encounter with it.
+Bed012	2041.675	2048.480	mn015	Do you guys - Oh, yeah. So. Part of what we actually want to do is sort of schedule out what we want to surprise him with when - when he comes back.
+Bed012	2048.760	2050.150	mn015	Um, so -
+Bed012	2049.069	2050.810	me003	Oh, I think we should disappoint him.
+Bed012	2050.705	2056.620	mn015	Yeah? You - or have a finished construction parser and a working belief-net, and uh -
+Bed012	2056.671	2058.304	me003	That wouldn't be disappointing.
+Bed012	2058.304	2062.782	me003	I think w- we should do absolutely no work for the two weeks that he's gone.
+Bed012	2062.190	2069.240	mn015	Well, that's actually what I had planned, personally. I had - I - I had sort of scheduled out in my mind that you guys do a lot of work, and I do nothing.
+Bed012	2069.743	2074.900	mn015	And then, I sort of - sort of bask in - in your glory.
+Bed012	2070.510	2071.884	me003	Oh, yeah, that sounds good, too.
+Bed012	2079.220	2090.456	mn015	<find_calendar_entry> But, uh, i- do <contact_name> you guys </contact_name> have any <title> vacation </title> plans, because I myself am going to be, um, gone, but this is actually not really important </find_calendar_entry>. Just this weekend we're going camping.
+Bed012	2090.100	2092.009	me003	Yeah, I'm wanna be this - gone this weekend, too.
+Bed012	2091.907	2092.454	mn015	Ah.
+Bed012	2093.240	2095.630	mn015	<find_calendar_entry> But <contact_name> we're all </contact_name> going to be here on <start_date> Tuesday </start_date> again </find_calendar_entry>?
+Bed012	2096.532	2097.650	mn015	Looks like it?
+Bed012	2096.587	2096.917	fn050	Yeah.
+Bed012	2098.390	2100.940	mn015	O_K, then. <create_calendar_entry> Let's meet - meet again <start_date> next Tuesday </start_date> </create_calendar_entry>.
+Bed012	2101.328	2104.391	mn015	<add_agenda_item> And, um, <agenda_item> finish up this Bayes-net </agenda_item> </add_agenda_item>.
+Bed012	2104.850	2106.371	mn015	And once we have finished it,
+Bed012	2106.976	2123.319	mn015	I guess we can, um - and that's going to be more just you and me, because Bhaskara is doing probabilistic, recursive, structured, object-oriented, uh,
+Bed012	2122.731	2124.284	me003	Killing machines!
+Bed012	2125.890	2126.884	mn015	reasoning machines.
+Bed012	2126.921	2127.508	me012	Yes.
+Bed012	2127.623	2128.893	mn015	And, um -
+Bed012	2128.458	2131.030	me003	Killing, reasoning. What's the difference?
+Bed012	2130.307	2136.633	fn050	Wait. <find_calendar_entry>So you're saying, <start_date>next Tuesday</start_date>, is it the whole group meeting, or just us three working on it, or - or - ?</find_calendar_entry>
+Bed012	2134.246	2134.624	mn015	Uh.
+Bed012	2135.739	2136.751	mn015	<contact_name> The whole group </contact_name>.
+Bed012	2136.960	2141.210	mn015	<add_agenda_item> And <agenda_item> we present our results, our final, definite - </agenda_item> </add_agenda_item>
+Bed012	2139.930	2140.830	fn050	O_K.
+Bed012	2141.195	2145.542	fn050	So, when you were saying we need to do a re-run of, like -
+Bed012	2144.901	2146.046	me012	h- What?
+Bed012	2146.532	2148.850	fn050	What - Like, just working out the rest of the -
+Bed012	2148.370	2151.029	mn015	Yeah. We should do this th- the upcoming days.
+Bed012	2150.185	2150.895	fn050	This week?
+Bed012	2151.029	2151.910	mn015	So, this week, yeah.
+Bed012	2151.789	2152.346	fn050	O_K.
+Bed012	2151.807	2156.220	me003	When you say, "the whole group", you mean the four of us, and Keith?
+Bed012	2156.220	2157.590	mn015	And, Ami might.
+Bed012	2157.593	2160.930	me003	Ami might be here, and it's possible that Nancy'll be here?
+Bed012	2160.343	2160.782	mn015	Yep.
+Bed012	2166.825	2168.847	me003	So, yeah.
+Bed012	2170.613	2173.110	mn015	Because, th- you know, once we have the belief-net done -
+Bed012	2172.317	2176.000	me003	<add_agenda_item> <agenda_item> You're just gonna have to explain it to me, then, on Tuesday, how it's all gonna work out </agenda_item> </add_agenda_item>.
+Bed012	2176.530	2177.280	me003	You know.
+Bed012	2181.575	2182.670	mn015	We will.
+Bed012	2182.670	2196.300	mn015	O_K. Because then, once we have it sort of up and running, then we can start you know, defining the interfaces and then feed stuff into it and get stuff out of it, and then hook it up to some fake construction parser and -
+Bed012	2195.990	2199.500	me003	That you will have in about nine months or so. Yeah.
+Bed012	2198.870	2199.570	mn015	Yeah.
+Bed012	2200.239	2201.324	mn015	And, um,
+Bed012	2201.190	2203.670	me003	<create_single_reminder> <reminder_text> The first bad version'll be done in nine months </reminder_text> </create_single_reminder>.
+Bed012	2204.190	2218.750	mn015	Yeah, I can worry about the ontology interface and you can - Keith can worry about the discourse. I mean, this is pretty - Um, I mean, I - I - I hope everybody uh knows that these are just going to be uh dummy values, right? where the -
+Bed012	2217.671	2218.358	me012	Which -
+Bed012	2219.487	2220.431	me012	Which ones?
+Bed012	2219.566	2226.830	mn015	S- so - so if the endpoint - if the Go-there is Yes and No, then Go-there- discourse will just be fifty-fifty.
+Bed012	2227.120	2227.473	mn015	Right?
+Bed012	2228.307	2231.642	me012	Um, what do you mean? If the Go-there says No, then the Go-there is -
+Bed012	2229.167	2230.275	fn050	I don't get it.
+Bed012	2231.642	2232.822	me012	I don't u- understand.
+Bed012	2235.910	2236.426	mn015	Um.
+Bed012	2236.528	2239.088	me012	Like, the Go-there depends on all those four things.
+Bed012	2238.953	2239.343	mn015	Yep.
+Bed012	2239.633	2240.249	me012	Yeah.
+Bed012	2239.780	2242.630	mn015	But, what are the values of the Go-there- discourse?
+Bed012	2242.604	2245.752	me012	Well, it depends on the situation. If the discourse is strongly indicating that -
+Bed012	2245.730	2248.120	mn015	Yeah, but, uh, we have no discourse input.
+Bed012	2247.969	2253.979	me012	Oh, I see. The d- See, uh, specifically in our situation, D_ and O_ are gonna be, uh - Yeah. Sure. So, whatever.
+Bed012	2253.640	2255.068	fn050	So, so far we have -
+Bed012	2255.790	2257.590	fn050	Is that what the Keith node is?
+Bed012	2256.979	2257.462	mn015	Yep.
+Bed012	2257.636	2260.596	fn050	O_K. And you're taking it out? for now? Or - ?
+Bed012	2260.130	2261.700	mn015	Well, this is
+Bed012	2261.790	2262.670	mn015	D_ -
+Bed012	2262.680	2265.370	mn015	O_K, this, I can - I can get it in here.
+Bed012	2263.709	2264.948	fn050	All the D_ 's are -
+Bed012	2265.480	2273.730	mn015	I can get it in here, so th- We have the, uh, um, sk- let's - let's call it "Keith-Johno
+Bed012	2277.254	2278.280	mn015	node".
+Bed012	2277.335	2278.517	me012	Johno?
+Bed012	2278.520	2281.560	mn015	There is an H_ somewhere printed .
+Bed012	2281.150	2282.170	me003	There you go.
+Bed012	2282.157	2284.418	me012	Yeah. People have the same problem with my name.
+Bed012	2284.871	2285.730	mn015	Yeah.
+Bed012	2286.253	2286.676	me012	Oops.
+Bed012	2286.370	2287.970	mn015	And, um,
+Bed012	2288.289	2291.360	me003	Does th- th- does the H_ go b- before the A_ or after the A_?
+Bed012	2291.685	2293.416	me012	Oh, in my name? Before the A_.
+Bed012	2292.554	2293.256	me003	Yeah.
+Bed012	2293.920	2295.249	me003	O_K, good.
+Bed012	2295.249	2299.350	me003	Cuz you kn- When you said people have the same problem, I thought - Cuz my H_ goes after the uh e- e- e- the v-
+Bed012	2298.267	2300.043	me012	People have the inverse problem with my name.
+Bed012	2299.631	2300.311	me003	O_K.
+Bed012	2301.323	2306.747	me003	I always have to check, every time y- I send you an email, a past email of yours, to make sure I'm spelling your name correctly.
+Bed012	2307.168	2307.640	me012	Yeah.
+Bed012	2308.012	2308.797	me012	That's good.
+Bed012	2309.346	2310.475	me003	I worry about you.
+Bed012	2311.545	2312.452	me012	I appreciate that.
+Bed012	2313.979	2318.728	mn015	But, when you abbreviate yourself as the "Basman" , you don't use any H_'s.
+Bed012	2318.450	2323.028	me012	"Basman"? Yeah, it's because of the chessplayer named Michael Basman, who is my hero.
+Bed012	2322.847	2323.554	mn015	O_K.
+Bed012	2325.378	2326.465	me003	You're a geek.
+Bed012	2327.704	2329.720	me003	It's O_ K. I-
+Bed012	2330.293	2331.177	me003	How do you pronou-
+Bed012	2330.508	2330.957	mn015	O_K.
+Bed012	2331.177	2332.284	me003	How do you pronounce your name?
+Bed012	2332.265	2332.696	fn050	Eva.
+Bed012	2332.970	2333.650	me003	Eva?
+Bed012	2333.650	2334.018	fn050	Yeah.
+Bed012	2333.910	2334.551	me012	Not Eva?
+Bed012	2334.950	2336.925	me003	What if I were - What if I were to call you Eva?
+Bed012	2337.860	2339.650	fn050	I'd probably still respond to it.
+Bed012	2339.650	2342.136	fn050	I've had people call me Eva, but I don't know.
+Bed012	2342.559	2348.570	me003	No, not just Eva, Eva. Like if I u- take the V_ and s- pronounce it like it was a German V_ ?
+Bed012	2349.642	2350.700	mn015	Which is F_.
+Bed012	2350.619	2351.522	me003	Yeah.
+Bed012	2351.910	2353.723	fn050	Um, no idea then.
+Bed012	2353.380	2354.360	mn015	Voiced.
+Bed012	2355.840	2356.101	fn050	What?
+Bed012	2356.641	2359.823	me003	It sounds like an F_. There's also an F_ in German, which is why I -
+Bed012	2357.020	2357.443	fn050	I -
+Bed012	2358.234	2358.802	fn050	O_K.
+Bed012	2359.304	2361.370	mn015	Well, it's just the difference between voiced and unvoiced.
+Bed012	2361.242	2361.893	fn050	O_K.
+Bed012	2361.252	2361.933	me003	Yeah.
+Bed012	2368.636	2373.353	me003	As long as that's O_ K. I mean, I might slip out and say it accidentally. That's all I'm saying.
+Bed012	2368.670	2369.710	fn050	Um.
+Bed012	2371.812	2373.429	fn050	That's fine.
+Bed012	2374.190	2378.070	me012	Yeah. It doesn't matter what those nodes are, anyway, because we'll just make the weights "zero" for now.
+Bed012	2378.199	2378.657	mn015	Yep.
+Bed012	2379.580	2386.170	mn015	We'll make them zero for now, because it - who - who knows what they come up with, what's gonna come in there.
+Bed012	2386.990	2387.810	mn015	O_K.
+Bed012	2388.696	2401.945	mn015	<create_calendar_entry>And, um, then should we start on <start_date>Thursday</start_date>?</create_calendar_entry>
+Bed012	2402.805	2403.377	me012	O_K.
+Bed012	2402.860	2404.860	mn015	<delete_calendar_entry> And not meet <start_date> tomorrow </start_date> </delete_calendar_entry>?
+Bed012	2404.994	2405.413	me012	Sure.
+Bed012	2411.975	2412.606	mn015	O_K.
+Bed012	2414.160	2417.660	mn015	I'll send an email, make a time suggestion.
+Bed012	2417.456	2421.782	me003	Wait, maybe it's O_K, so that - that - that we can - that we have one node per construction.
+Bed012	2421.782	2426.772	me003	Cuz even in people, like, they don't know what you're talking about if you're using some sort of strange construction.
+Bed012	2428.733	2432.570	mn015	Yeah, they would still c- sort of get the closest, best fit.
+Bed012	2432.570	2442.052	me003	Well, yeah, but I mean, the - uh, I mean, that's what the construction parser would do. Uh, I mean, if you said something completely arbitrary, it would f- find the closest construction, right? But if you said something that was completel- er - h- theoretically the construction parser would do that -
+Bed012	2435.130	2435.880	mn015	Mm-hmm.
+Bed012	2438.219	2438.865	mn015	O_K.
+Bed012	2442.052	2447.966	me003	But if you said something for which there was no construction whatsoever, n- people wouldn't have any idea what you were talking about.
+Bed012	2447.660	2448.131	mn015	Mm-hmm.
+Bed012	2448.880	2450.938	me003	Like "Bus dog fried egg." I mean.
+Bed012	2451.551	2452.849	me003	You know.
+Bed012	2452.460	2455.201	mn015	Or, if even something Chinese, for example.
+Bed012	2454.636	2456.050	me003	Or, something in Mandarin, yeah.
+Bed012	2456.822	2458.974	me003	Or Cantonese, as the case may be.
+Bed012	2462.210	2463.575	me003	What do you think about that, Bhaskara?
+Bed012	2464.057	2465.049	me012	I mean -
+Bed012	2465.049	2465.995	me012	Well -
+Bed012	2467.293	2471.110	me012	But how many constructions do - could we possibly have nodes for?
+Bed012	2473.100	2474.644	me003	In this system, or in r-
+Bed012	2474.694	2476.893	me012	No, we. Like, when people do this kind of thing.
+Bed012	2476.340	2478.469	me003	Oh, when p- How many constructions do people have?
+Bed012	2478.380	2478.753	me012	Yeah.
+Bed012	2478.783	2480.930	me003	I have not the slightest idea.
+Bed012	2480.846	2485.105	me012	Is it considered to be like in - are they considered to be like very, uh, sort of s- abstract things?
+Bed012	2483.804	2485.357	me003	Every noun is a construction.
+Bed012	2485.320	2487.859	me012	O_K, so it's like in the thousands.
+Bed012	2486.360	2487.320	me003	The - Yeah.
+Bed012	2487.810	2490.793	me003	Any - any form- meaning pair, to my understanding, is a construction.
+Bed012	2490.856	2491.300	me012	O_K.
+Bed012	2491.209	2491.709	mn015	So.
+Bed012	2491.614	2496.423	me003	And form u- starts at the level of noun - Or actually, maybe even sounds. Yeah.
+Bed012	2494.950	2496.360	mn015	Phoneme. Yep.
+Bed012	2496.806	2501.749	me003	And goes upwards until you get the ditransitive construction.
+Bed012	2501.749	2503.784	me003	And then, of course, the c- I guess, maybe there can be the -
+Bed012	2501.939	2502.311	me012	S-
+Bed012	2503.784	2505.462	me003	Can there be combinations of the dit-
+Bed012	2504.427	2506.512	me012	Discourse-level constructions.
+Bed012	2505.462	2507.185	me003	Yeah.
+Bed012	2507.185	2509.392	me003	The "giving a speech" construction,
+Bed012	2509.830	2511.740	mn015	Rhetorical constructions. Yeah.
+Bed012	2511.291	2511.992	me012	Yes.
+Bed012	2518.760	2523.610	mn015	But, I mean, you know, you can probably count - count the ways.
+Bed012	2523.610	2524.403	mn015	I mean.
+Bed012	2523.621	2525.800	me003	It's probab- Yeah, I would s- definitely say it's finite.
+Bed012	2525.410	2525.878	mn015	Yeah.
+Bed012	2525.800	2530.380	me003	And at least in compilers, that's all that really matters, as long as your analysis is finite.
+Bed012	2531.523	2533.386	me012	How's that? How it can be finite, again?
+Bed012	2534.379	2536.407	me003	Nah, I can't think of a way it would be infinite.
+Bed012	2537.267	2539.354	mn015	Well, you can come up with new constructions.
+Bed012	2539.627	2540.772	me003	Yeah.
+Bed012	2540.772	2549.187	me003	If the - if your - if your brain was totally non-deterministic, then perhaps there's a way to get, uh, infin- an infinite number of constructions that you'd have to worry about.
+Bed012	2550.218	2552.213	me012	But, I mean, in the practical sense, it's impossible.
+Bed012	2552.750	2554.790	me003	Right. Cuz if we have a fixed number of neurons - ?
+Bed012	2554.699	2555.186	me012	Yeah.
+Bed012	2558.990	2564.544	me003	So the best-case scenario would be the number of constructions - or, the worst-case scenario is the number of constructions equals the number of neurons.
+Bed012	2564.006	2565.684	me012	Well, two to the power of the number of neurons.
+Bed012	2565.720	2566.490	me003	Right.
+Bed012	2567.280	2568.769	me003	But still finite.
+Bed012	2576.036	2576.685	mn015	O_K.
+Bed012	2577.172	2578.467	me003	No, wait. Not necessarily, is it?
+Bed012	2578.467	2579.918	me003	We can end the meeting. I just -
+Bed012	2580.130	2588.184	me003	Can't you use different var- different levels of activation? across, uh - lots of different neurons, to specify different values?
+Bed012	2584.276	2584.767	mn015	Mm-hmm.
+Bed012	2588.913	2593.262	me012	Um, yeah, but there's, like, a certain level of -
+Bed012	2593.060	2595.244	me003	There's a bandwidth issue, right? Yeah.
+Bed012	2594.100	2596.385	me012	Bandw- Yeah, so you can't do better than something.
+Bed012	2595.541	2598.980	mn015	Turn off the mikes. Otherwise it gets really tough for the tr-

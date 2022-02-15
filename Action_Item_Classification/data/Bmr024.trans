@@ -1,0 +1,1350 @@
+Bmr024	0.000	0.320	me001	st-
+Bmr024	0.537	1.002	me001	Yeah.
+Bmr024	1.030	2.072	me011	So we're on.
+Bmr024	1.322	1.903	me001	That's better.
+Bmr024	3.367	5.140	me011	<open_agenda> And, somewhere is my agenda </open_agenda>.
+Bmr024	5.379	10.101	me011	<add_agenda_item> I think the most important thing is Morgan wanted to talk about, uh, <agenda_item> the ARPA demo </agenda_item> </add_agenda_item>.
+Bmr024	11.028	13.448	me013	Well, so, here's the thing.
+Bmr024	13.519	16.622	me013	Um, why don't we s- again start off with - with, uh, -n-
+Bmr024	16.873	17.536	me013	Yeah, I'll get it.
+Bmr024	17.698	18.469	me013	I'll get the door.
+Bmr024	19.095	19.489	me013	Um,
+Bmr024	19.651	22.070	me013	I think we want to start off with the agenda.
+Bmr024	22.070	31.906	me013	And then, given that, uh, Liz and Andreas are gonna be ten, fifteen minutes late, we can try to figure out what we can do most effectively without them here. So -
+Bmr024	31.547	32.544	me011	O_K. So, uh -
+Bmr024	32.426	34.703	me013	<add_agenda_item> So - so, one thing is, yeah, talk about <agenda_item> demo </agenda_item> </add_agenda_item>,
+Bmr024	36.170	38.220	me011	<add_agenda_item> uh, <agenda_item> I_B_M transcription status </agenda_item> </add_agenda_item>,
+Bmr024	39.397	41.050	me013	<agenda_item> I_B_M transcription </agenda_item>.
+Bmr024	44.467	46.041	me013	Uh, what else?
+Bmr024	45.802	46.736	me011	<add_agenda_item> <agenda_item> SmartKom </agenda_item> </add_agenda_item>.
+Bmr024	46.810	47.874	me013	<agenda_item> SmartKom </agenda_item>.
+Bmr024	48.532	49.209	me013	<agenda_item> SmartKom </agenda_item>.
+Bmr024	49.508	50.253	me013	<search> What's <query_term> SmartKom </query_term> </search>?
+Bmr024	50.590	55.868	me011	<add_agenda_item> Uh, we wanna talk about <agenda_item> if w- if we wanna add the data to the mar- Meeting Recorder corpus </agenda_item> </add_agenda_item>.
+Bmr024	52.676	53.321	mn014	The data.
+Bmr024	56.580	57.936	mn014	The data which we are collecting here.
+Bmr024	60.952	62.152	me013	What - what - what are we collecting here?
+Bmr024	62.796	63.290	mn014	Data?
+Bmr024	63.049	66.326	me011	<add_agenda_item> So why don't we have that on the agenda and we'll - we'll get to it and talk about <agenda_item> it </agenda_item> </add_agenda_item>?
+Bmr024	63.597	66.034	mn014	<agenda_item> The SmartKom data </agenda_item>?
+Bmr024	66.555	67.013	me013	Yeah, right.
+Bmr024	67.017	67.227	mn014	Yeah.
+Bmr024	67.491	69.364	me013	Uh, right.
+Bmr024	70.998	72.074	me013	Uh.
+Bmr024	72.570	74.561	me011	<add_agenda_item> Uh, <agenda_item> reorganization status </agenda_item> </add_agenda_item>.
+Bmr024	75.923	78.650	me013	<agenda_item> Reorganization status </agenda_item>.
+Bmr024	77.828	78.169	fe008	Oh.
+Bmr024	78.388	79.504	fe008	<add_agenda_item> <agenda_item> Files and directories </agenda_item> </add_agenda_item>?
+Bmr024	79.467	80.643	me013	<agenda_item> Files and directories </agenda_item>.
+Bmr024	79.641	79.900	me011	Yep.
+Bmr024	81.912	82.510	me011	Uh-huh.
+Bmr024	82.888	86.874	me011	<add_agenda_item> <agenda_item> Absinthe, which is the multiprocessor UNIX - Linux </agenda_item> </add_agenda_item>.
+Bmr024	90.930	94.472	me011	<add_agenda_item> I think it was Andreas wanted to talk about <agenda_item> segmentation and recognition </agenda_item> </add_agenda_item>,
+Bmr024	101.193	104.074	me011	<add_agenda_item> and <agenda_item> update on S_R_I recognition experiments </agenda_item> </add_agenda_item>.
+Bmr024	106.709	107.326	me013	Um -
+Bmr024	110.022	114.724	me011	<add_agenda_item> And then if ti- if there's time I wanted to talk about <agenda_item> digits </agenda_item>, but it looked like we were pretty full, so I can wait till next week </add_agenda_item>.
+Bmr024	115.097	115.475	me013	Right.
+Bmr024	117.388	117.727	me013	O_K.
+Bmr024	119.439	120.037	me013	Well, let's see.
+Bmr024	120.316	127.329	me013	I think the a- certainly the segmentation and recognition we wanna maybe focus on when An- Andreas is here since that was particularly his thing.
+Bmr024	126.499	129.190	mn014	And also the SmartKom thing should b-
+Bmr024	128.202	129.657	me013	SmartKom also,
+Bmr024	130.114	130.891	me013	Andreas.
+Bmr024	131.329	135.314	me013	Absinthe, I think also he has sort of been involved in a lot of those things. Yeah.
+Bmr024	134.438	136.973	me011	At least, yeah , he'll t- he'll probably be interested.
+Bmr024	137.033	137.312	me011	But.
+Bmr024	137.047	137.414	me013	Yeah.
+Bmr024	138.191	138.854	me013	Um
+Bmr024	139.591	153.359	me013	So, I mean, I think they'll be inter- I'll be interested in all this, but - but, uh, probably, if we had to pick something that we would talk on for ten minutes or so while they're coming here. Or I guess it would be, you think, reorganization status, or - ?
+Bmr024	153.957	154.732	me011	Yeah. I mean, I think,
+Bmr024	154.732	159.375	me011	Chuck was the one who added out the agenda item. I don't really have anything to say other than that we still haven't done it.
+Bmr024	159.494	159.833	me011	So.
+Bmr024	159.625	170.350	me018	Well, I mean, I uh - just basically that - maybe I said - maybe we said this before - just that we met and we talked about it and we sort of have a plan for getting things organized and -
+Bmr024	170.631	179.483	fe008	And I - and I think a crucial part of that is the idea of - of not wanting to do it until right before the next level zero back-up so that there won't be huge number of - of added, uh -
+Bmr024	177.371	177.827	me018	Right.
+Bmr024	179.724	180.034	me011	Right.
+Bmr024	181.370	183.058	me018	That - that was basically it. Not - not much  -
+Bmr024	182.322	187.997	me011	Although Dave basically said that if we wanna do it, just tell him and he'll do a d- level zero then.
+Bmr024	183.008	183.367	fe008	Yeah.
+Bmr024	185.698	185.997	fe008	Uh-huh.
+Bmr024	187.851	189.105	fe008	Oh, excellent.
+Bmr024	188.770	189.266	me011	So.
+Bmr024	189.158	191.679	me018	Oh, so maybe we should just go ahead and get everything ready, and -
+Bmr024	189.284	190.258	fe008	Oh, good.
+Bmr024	191.803	192.061	me011	Yep.
+Bmr024	192.855	194.819	me011	So, I think we do need to talk a little bit about -
+Bmr024	195.057	198.050	me011	Well, we don't need to do it during this meeting. We have a little more to discuss.
+Bmr024	196.824	197.112	me018	Yeah.
+Bmr024	198.149	200.686	me011	But, uh, we're - we're basically ready to do it.
+Bmr024	203.053	206.735	me011	And, uh, I have some web pages on ts- more of the background.
+Bmr024	207.350	211.551	me011	So, naming conventions and things like that, that I've been trying to keep actually up to date.
+Bmr024	211.670	212.086	me011	So.
+Bmr024	212.790	215.623	me011	And I've been sharing them with U_d- U_W folks also.
+Bmr024	217.852	218.848	me013	O_K.
+Bmr024	218.137	220.824	fe008	I'm sorry, you've been what? Showing them? Sharing them. O_K.
+Bmr024	219.473	221.695	me011	Sharing them with the U_W folks.
+Bmr024	221.376	221.615	fe008	O_K.
+Bmr024	223.709	224.208	me013	O_K.
+Bmr024	224.686	232.441	me013	Well, maybe uh, since that - that was a pretty short one, maybe we should talk about the I_B_M transcription status. Someone can fill in Liz and Andreas later. Uh
+Bmr024	231.964	239.251	me011	O_K. So, we, uh - we did another version of the beeps, where we separated each beeps with a spoken digit.
+Bmr024	239.489	248.545	me011	Chuck came up here and recorded some di- himself speaking some digits, and so it just goes "beep one beep" and then the phrase, and then "beep two beep" and then the phrase.
+Bmr024	248.905	250.094	me011	And that seems pretty good.
+Bmr024	250.193	250.768	me011	Um,
+Bmr024	250.847	254.455	me011	I think they'll have a b- easier time keeping track of where they are in the file.
+Bmr024	254.633	257.640	mn014	And we have done that on the automatic segmentations.
+Bmr024	256.953	261.195	me011	And we did it with the automatic segmentation, and I don't think - We ne- we didn't look at it in detail.
+Bmr024	261.294	263.831	me011	We just sent it to I_B_M. We - we sorta spot-checked it.
+Bmr024	264.017	269.068	me018	I listened to probably, uh, five or ten minutes of it from the beginning.
+Bmr024	264.029	264.452	mn014	Yeah.
+Bmr024	269.210	270.234	me011	Oh, really? O_K.
+Bmr024	269.776	270.100	me018	Yeah.
+Bmr024	270.325	270.780	me018	And -
+Bmr024	270.373	273.009	me011	I sorta spot-checked here and there and it sounded pretty good.
+Bmr024	273.723	274.139	me011	So.
+Bmr024	275.045	275.464	me013	O_K.
+Bmr024	275.383	276.583	me011	I think it'll work.
+Bmr024	277.753	280.451	me011	And, uh, we'll just hafta see what we get back from them.
+Bmr024	280.808	281.323	me011	Uh -
+Bmr024	281.393	286.701	me018	And the main thing will be if we can align what they give us with what we sent them.
+Bmr024	287.193	289.131	me018	I mean, that's the crucial part.
+Bmr024	289.313	289.689	me011	Right.
+Bmr024	289.947	294.137	me018	And I think we'll be able to do that at - with this new beep format.
+Bmr024	294.078	294.375	me011	Yep.
+Bmr024	295.867	300.247	me011	Well, I think it's also they are much less likely to d- have errors.
+Bmr024	300.364	300.751	me018	Mm-hmm.
+Bmr024	301.000	308.129	me011	I mean, so the problem wi- last time is that there were errors in the transcripts where they put beeps where there weren't any, or - and they put in extraneous beeps.
+Bmr024	305.695	306.079	me018	Right.
+Bmr024	308.251	308.599	me018	Yeah.
+Bmr024	308.803	310.765	me011	And with the numbers there, it's much less likely.
+Bmr024	311.583	323.781	me018	Yeah, one interesting note is - uh, or problem - I dunno if this was just because of how I play it back, I say, uh, S_N_D-play and then the file, every once in a while, uh, like a beep sounds like it's cut into two beeps.
+Bmr024	322.941	324.393	mn014	Yeah. Into two pieces. Yeah.
+Bmr024	324.429	325.167	me018	Yeah, and
+Bmr024	324.807	325.085	mn014	Yep.
+Bmr024	325.335	329.871	me018	I - I dunno if that's an, uh, artifact of playback - bu- uh, I don't think it's probably in the original file.
+Bmr024	329.871	331.885	me018	Um, but, uh -
+Bmr024	330.007	330.981	mn014	I recognize that, too.
+Bmr024	330.981	331.182	mn014	Yeah.
+Bmr024	331.340	332.813	me011	Ha. That's interesting. I didn't hear that.
+Bmr024	332.809	333.337	me018	Yeah.
+Bmr024	333.840	339.756	me018	But with this new format, um, that hopefully they're not hearing that, and if they are, it shouldn't throw them.
+Bmr024	338.538	338.889	mn014	Yep.
+Bmr024	340.860	341.740	me018	So.
+Bmr024	341.823	343.961	me011	Well, maybe we better listen to it again, make sure, but,
+Bmr024	344.258	347.113	me011	I mean, certainly the software shouldn't do that, so.
+Bmr024	346.225	353.469	me018	Yeah. That's what I thought. I- it's probably just, you know, mmm, somehow the audio device gets hung for a second, or -
+Bmr024	347.268	347.685	fe008	Mm-hmm.
+Bmr024	351.531	353.098	mn014	Yeah. Some latency or something. Yeah?
+Bmr024	351.963	352.756	me011	Hiccups.
+Bmr024	353.506	353.705	mn014	Yeah.
+Bmr024	353.602	358.703	fe008	As long as they have one number, and they know that there's only one beep maximum that goes with that number.
+Bmr024	357.229	357.550	mn014	Yeah.
+Bmr024	357.623	357.923	me018	Yeah.
+Bmr024	358.303	361.673	me011	Yeah. The only - the only part that might be confusing is when Chuck is reading digits.
+Bmr024	358.480	358.744	me018	Right.
+Bmr024	362.013	362.292	mn014	Yep.
+Bmr024	362.067	362.463	me018	Right.
+Bmr024	362.895	365.139	me018	So th-
+Bmr024	364.449	366.523	fe008	Well, you know, actually, are we having them -
+Bmr024	365.421	368.513	me011	"Seven four eight beep seven beep eight three two".
+Bmr024	368.209	370.001	fe008	Yeah, but are we having them do digits?
+Bmr024	369.207	369.742	me011	Yes.
+Bmr024	369.960	372.259	me011	Because, uh, we don't - we didn't -
+Bmr024	370.783	372.343	me018	We - we didn't cut those out.
+Bmr024	371.530	371.791	mn014	Yeah.
+Bmr024	372.714	374.168	mn014	They are not transcribed yet. So. Yeah.
+Bmr024	372.774	374.643	me011	In order to cut them out we'd have to listen to it.
+Bmr024	374.487	374.726	mn014	Yeah.
+Bmr024	374.742	377.973	me011	And we wanted to avoid doing that, so we - they are transcribing the digits.
+Bmr024	374.891	375.218	fe008	O_K.
+Bmr024	376.390	376.683	fe008	O_K.
+Bmr024	378.059	378.224	fe008	O_K.
+Bmr024	378.250	383.772	me011	Although we could tell them - we could tell them, if you hear someone reading a digits string just say
+Bmr024	378.475	381.067	me018	We can - we can ignore it when we get it back, huh.
+Bmr024	383.911	388.701	me011	"bracket digit bracket" and don't bother actually computing the di- writing down the digits.
+Bmr024	387.743	388.122	me018	Yeah.
+Bmr024	388.990	393.197	fe008	That'd be great. That'd be what I'm having the transcribers here do, cuz it can be extracted later.
+Bmr024	393.244	393.523	me011	Yep.
+Bmr024	393.700	400.714	me011	And then I wanted to talk about - but as I said I - we may not have time - what we should do about digits. We have a whole pile of digits that haven't been transcribed.
+Bmr024	400.390	406.580	me013	Le- let's talk about it, because that's - that's something that I - I know Andreas is less interested in than Liz is, so, you know.
+Bmr024	405.032	405.550	me011	O_K.
+Bmr024	406.256	408.149	me011	Do we have anything else to say about transcription?
+Bmr024	406.697	406.996	me013	It's good -
+Bmr024	408.726	409.822	me011	About I_B_M stuff?
+Bmr024	409.710	410.661	me018	Uh, Brian - I -
+Bmr024	410.817	416.703	me018	I sent bresset - sent Brian a message about the meeting and I haven't heard back yet.
+Bmr024	416.799	417.087	me018	So.
+Bmr024	417.132	417.531	me011	O_K.
+Bmr024	418.179	422.591	me018	I g- hope he got it and hopefully he's - maybe he's gone, I dunno. He didn't even reply to my message. So.
+Bmr024	418.439	418.611	fe008	Hmm.
+Bmr024	423.371	427.150	me018	I should probably ping him just to make sure that he got it.
+Bmr024	427.410	427.771	me011	Alright.
+Bmr024	429.000	432.341	me011	So, we have a whole bunch of digits, if we wanna move on to digits.
+Bmr024	432.340	437.301	me013	Actually, maybe I - One - one relate- more related thing in transcription. So that's the I_B_M stuff. We've got that sorted out.
+Bmr024	437.420	439.231	me013	Um, how're we doing on the - on the rest of it?
+Bmr024	439.403	440.063	fe008	We're doing well.
+Bmr024	440.063	444.088	fe008	I - I hire - I've hired two extra people already, expect to hire two more.
+Bmr024	440.349	440.548	me011	Hmm.
+Bmr024	444.520	445.309	fe008	And, um,
+Bmr024	445.688	460.832	fe008	I've prepared, um, uh, a set of five which I'm - which I'm calling set two, which are now being edited by my head transcriber, in terms of spelling errors and all that. She's also checking through and mar- and - and monitoring, um, the transcription of another transcriber.
+Bmr024	461.021	463.055	fe008	You know, I mean, she's going through and doing these kinds of checks.
+Bmr024	461.176	461.494	me013	Uh-huh.
+Bmr024	463.500	463.860	fe008	And,
+Bmr024	463.860	472.902	fe008	I've moved on now to what I'm calling set three. I sort of thought if I do it in sets - groups of five, then I can have, like, sort of a - a parallel processing through - through the - the current.
+Bmr024	470.322	470.701	me013	Uh-huh.
+Bmr024	473.163	481.481	fe008	And - and you indicated to me that we have a g- a goal now, for the - for the, um, the, uh, DARPA demo, of twenty hours.
+Bmr024	481.765	492.922	fe008	So, I'm gonna go up to twenty hours, be sure that everything gets processed, and released, and - and that's - that's what my goal is. Package of twenty hours right now, and then once that's done, move on to the next.
+Bmr024	493.242	506.725	me013	Yeah, uh, so twenty hours. But I guess the other thing is that, um, that - that's kinda twenty hours A_SAP because the longer before the demo we actually have the twenty hours, the more time it'll be for people to actually do cool things with it.
+Bmr024	506.634	506.918	fe008	Mm-hmm.
+Bmr024	507.064	507.382	me013	So.
+Bmr024	507.066	507.412	fe008	Good.
+Bmr024	507.480	509.751	fe008	I'm - I'm hiring people who, uh, really are -
+Bmr024	508.618	508.936	me013	O_K.
+Bmr024	509.876	511.943	fe008	They would like to do it full-time, several of these people.
+Bmr024	512.204	512.602	me013	Mm-hmm.
+Bmr024	512.352	519.660	fe008	And - and I don't think it's possible, really, to do this full-time, but, that - what it shows is motivation to do as many hours as possible.
+Bmr024	517.498	518.676	me011	It'll keep your accuracy up.
+Bmr024	518.815	519.094	me011	Yep.
+Bmr024	519.502	519.861	me013	Yeah.
+Bmr024	520.399	520.686	me013	Yeah.
+Bmr024	520.544	521.588	fe008	And they're really excellent.
+Bmr024	520.825	521.323	me013	Well, that's good.
+Bmr024	521.884	522.237	fe008	Yeah.
+Bmr024	522.658	523.872	me013	Yeah, I mean, I guess the -
+Bmr024	522.988	524.031	fe008	Got a good core group now.
+Bmr024	524.131	537.224	me013	So the difference if - if, um, if the I_B_M stuff works out, the difference in the job would be that they p- primarily would be checking through things that were already done by someone else? Is that most of what it - ?
+Bmr024	527.654	528.006	fe008	Again.
+Bmr024	533.383	533.633	fe008	Mm-hmm.
+Bmr024	536.400	537.232	me011	And correcting.
+Bmr024	537.224	537.682	me013	I mean -
+Bmr024	537.682	538.214	me013	Correcting.
+Bmr024	537.750	542.193	me011	Correcting. We'll - we'll expect that they'll have to move some time bins and do some corrections.
+Bmr024	542.508	544.371	fe008	And I - you know, I've also d- uh, discovered -
+Bmr024	544.530	546.881	fe008	So with the new transcriber I'm - um -
+Bmr024	546.971	547.210	fe008	So -
+Bmr024	547.551	549.504	fe008	Uh, lemme say that my, uh -
+Bmr024	550.816	551.856	fe008	So, um -
+Bmr024	552.367	556.894	fe008	At present, um, the people have been doing these transcriptions a channel at a time.
+Bmr024	556.894	563.239	fe008	And, that sort of, um, is useful, and t- you know, and then once in a while they'll have to refer to the other channels to clear something up.
+Bmr024	563.739	564.205	fe008	O_K. Well,
+Bmr024	564.613	577.490	fe008	I realize that, um, w- i- we- we're using the pre-segmented version, and, um, the pre-segmented version is extremely useful, and wouldn't it be, useful also to have the visual representation of those segments?
+Bmr024	577.842	591.093	fe008	And so I've - uh, I, uh, uh, I've trained the new one - uh, the new- the newest one, to, um, use the visual from the channel that is gonna be transcribed at any given time.
+Bmr024	591.430	593.079	fe008	And that's just amazingly helpful.
+Bmr024	593.329	599.016	fe008	Because what happens then, is you scan across the signal and once in a while you'll find a blip that didn't show up in the pre-segmentation.
+Bmr024	598.752	599.945	me011	Oh, right. I see what you mean.
+Bmr024	599.402	600.512	fe008	And that'll be something like -
+Bmr024	600.773	602.079	fe008	I- it's ver- - it's interesting.
+Bmr024	601.579	602.675	me011	A backchannel, or -
+Bmr024	602.325	607.327	fe008	Once in a while it's a backchannel. Sometimes it seems to be, um, similar to the ones that are being picked up.
+Bmr024	602.891	603.204	mn014	Yep.
+Bmr024	607.375	607.813	me011	Mm-hmm.
+Bmr024	607.929	615.965	fe008	And they're rare events, but you can really go through a meeting very quickly. You just - you just, you know, yo- you s- you scroll from screen to screen, looking for blips.
+Bmr024	616.450	616.849	fe008	And,
+Bmr024	616.717	617.193	me013	Yeah.
+Bmr024	616.849	627.640	fe008	I think that we're gonna end up with, uh better coverage of the backchannels, but at the same time we're benefitting tremendously from the pre-segmentation because there are huge places where there is just absolutely no activity at all.
+Bmr024	627.793	628.291	me013	Mm-hmm.
+Bmr024	628.144	630.009	fe008	And, uh, the audio quality is so good -
+Bmr024	629.288	632.734	me018	So they can - they can, um, scroll through that pretty quick?
+Bmr024	632.841	633.159	fe008	Yeah.
+Bmr024	633.235	633.546	fe008	Mm-hmm.
+Bmr024	633.315	633.916	me018	That's great.
+Bmr024	633.975	634.294	fe008	Yeah.
+Bmr024	635.370	640.361	fe008	So I think that that's gonna, also eh, you know, speed the efficiency of this part of the process.
+Bmr024	643.083	643.701	me013	Hmm. O_K.
+Bmr024	645.494	646.510	me013	Uh, yeah.
+Bmr024	648.721	650.076	me013	So, uh -
+Bmr024	650.754	652.766	me013	Yeah. So let's talk about the digits, since they're not here yet.
+Bmr024	653.098	665.140	me011	Uh, so, we have a whole bunch of digits that we've read and we have the forms and so on, um, but only a small number of that ha- well, not a small number - only a subset of that has been transcribed. And so we need to decide what we wanna do.
+Bmr024	665.585	666.462	me011	And, uh,
+Bmr024	666.462	672.423	me011	Liz and Andreas - actually they're not here, but, they did say at one point that they thought they could do a pretty good job of just doing a forced alignment.
+Bmr024	673.277	681.028	me011	And, again, I don't think we'll be able to do with that alone, because, um, sometimes people correct themselves and things like that.
+Bmr024	681.826	691.000	me011	But - so, I was just wondering what people thought about how automated can we make the process of finding where the people read the digits, doing a forced alignment, and doing the timing.
+Bmr024	691.614	694.654	me013	Well, forced alignment would be one thing. What about just actually doing recognition?
+Bmr024	695.273	698.168	me011	Well, we - we know what they read, because we have the forms.
+Bmr024	697.797	698.976	me013	No, they make mistakes.
+Bmr024	699.319	699.753	me011	Right.
+Bmr024	700.125	704.586	me011	But, the point is that we wanna get a set of clean digits.
+Bmr024	706.188	706.658	me013	Right.
+Bmr024	706.363	708.373	me018	You're talking about as a pre-processing step. Right, Morgan?
+Bmr024	709.108	709.666	me013	Um -
+Bmr024	710.474	711.175	me018	Is that what you're - ?
+Bmr024	710.572	712.760	me013	Yeah, I'm - I'm not quite sure what I'm talking about. I mean -
+Bmr024	712.760	713.537	me013	I -
+Bmr024	713.597	722.330	me013	I mean, uh, we're talking about digits now. And - and so, um, there's a bunch of stuff that hasn't been marked yet.
+Bmr024	722.529	723.027	me013	Uh.
+Bmr024	723.027	730.566	me013	And, um, there's the issue that - that they - we know what - what was said, but do we? Because people make mistakes and stuff.
+Bmr024	723.959	725.068	me011	I mean, so one option i-
+Bmr024	730.865	741.768	me013	I was just asking, just out of curiosity, if - if with, uh - uh, the S_R_I recognizer getting one percent word error, uh, would we - would we do better - ?
+Bmr024	742.127	753.870	me013	So, if you do a forced alignment but the force- but the - but the transcription you have is wrong because they actually made mistakes, uh, or false starts, it's - it's much less c- it's much less common than one percent?
+Bmr024	748.187	749.509	me011	But that's pretty uncommon.
+Bmr024	755.355	758.045	me011	Um, if we could really get one percent on -
+Bmr024	759.209	759.618	me011	Well,
+Bmr024	759.589	760.565	me013	We should be able to. Right?
+Bmr024	759.618	763.239	me011	I guess - yeah, I guess if we segmented it, we could get one percent on digits.
+Bmr024	760.862	761.263	me018	Yeah.
+Bmr024	763.374	763.613	me013	Yeah.
+Bmr024	764.330	767.544	me013	So that's just my question. I'm not saying it should be one way or the other, but it's - If -
+Bmr024	765.050	765.332	me011	But,
+Bmr024	767.023	775.596	me011	Well, there - there're a couple different of doing it. We could use the tools I've already developed and transcribe it. Hire some people, or use the transcribers to do it. We could let I_B_M transcribe it.
+Bmr024	776.434	779.759	me011	You know, they're doing it anyway, and unless we tell them different, they're gonna transcribe it.
+Bmr024	780.725	783.083	me011	Um, or we could try some automated methods.
+Bmr024	784.718	791.789	me011	And my - my tendency right now is, well, if I_B_M comes back with this meeting and the transcript is good, just let them do it.
+Bmr024	784.819	785.216	me013	Well -
+Bmr024	792.471	799.356	me013	Yeah, it's - Y- you raised a point, kind of, uh, euphemistically - but, I mean, m- maybe it is a serious problem. Ho- what will they do when they go - hear
+Bmr024	799.516	804.356	me013	"beep seven beep seven three five two" - I mean, you think they'll - we'll get - ?
+Bmr024	803.419	804.571	me011	It's pretty distinct.
+Bmr024	804.571	806.409	me011	The beeps are pre-recorded.
+Bmr024	804.694	804.993	me013	Yeah?
+Bmr024	805.480	807.058	me018	It'll only be a problem for m- for mine.
+Bmr024	807.751	808.073	mn014	Yeah.
+Bmr024	808.648	812.364	fe008	Well it - it - well, it'd be preceded by "I'm reading transcript so-and-so"?
+Bmr024	812.414	812.795	me018	Yeah.
+Bmr024	812.538	813.204	me011	Yes.
+Bmr024	813.280	813.600	fe008	So,
+Bmr024	813.824	815.430	fe008	I think if they're processing it at -
+Bmr024	814.462	816.888	me011	I mean, it'll be - it will be in the midst of a digit string.
+Bmr024	816.888	817.376	me011	So -
+Bmr024	817.172	817.571	me013	Yeah.
+Bmr024	818.029	820.064	me011	I mean it - sure, there - there might be a place where it's
+Bmr024	820.210	825.710	me011	"beep seven beep eight beep eight beep".
+Bmr024	826.088	829.268	me011	But, you know, they - they're - they're gonna macros for inserting the beep marks.
+Bmr024	830.048	833.695	me011	And so, I - I don't think it'll be a problem. We'll have to see, but I don't think it's gonna be a problem.
+Bmr024	834.613	834.951	me013	O_K.
+Bmr024	835.071	848.939	me013	Well, I - I - I dunno, I - I think that that's - if they are in fact going to transcribe these things, uh, certainly any process that we'd have to correct them, or whatever is - needs to be much less elaborate for digits than for other stuff. So, why not?
+Bmr024	846.999	847.295	me011	Right.
+Bmr024	848.999	849.338	me013	Sure.
+Bmr024	852.223	852.582	me013	That was it?
+Bmr024	852.690	853.080	me011	That was it.
+Bmr024	853.275	858.051	me011	Just, what do we do with digits? We have so many of them, and it'd be nice to actually do something with them.
+Bmr024	854.216	854.614	me013	O_K.
+Bmr024	855.730	857.443	me013	Well, we - we - we wanna have them.
+Bmr024	858.015	858.915	mn017	You mean there're more than ten?
+Bmr024	858.121	858.479	me013	Yeah, I -
+Bmr024	859.036	859.536	me011	Anything else?
+Bmr024	861.339	862.815	me011	Your mike is a little low there.
+Bmr024	862.800	863.767	me013	I- in Berkeley, yeah.
+Bmr024	864.365	867.101	me013	So, uh
+Bmr024	867.380	869.093	me013	You - you have to go a little early, right?
+Bmr024	869.250	872.489	mn017	Well, I can stay till about, uh, three forty.
+Bmr024	869.651	870.790	me013	At twenty -
+Bmr024	873.105	877.267	me013	Alright. So le- let's make sure we do the ones that - that, uh, saved you. So there was some -
+Bmr024	873.605	873.852	mn017	Yeah.
+Bmr024	874.912	875.232	mn017	Mm-hmm.
+Bmr024	877.546	878.044	me013	Uh
+Bmr024	878.502	879.404	me013	In - in -
+Bmr024	879.623	883.745	me013	Adam's agenda list, he had something from you about segmentation this last recognition?
+Bmr024	884.260	890.118	mn017	Well, yeah. So this is just partly to inform everybody, um, and - and of course to get, um, input.
+Bmr024	885.978	886.465	me011	Oops.
+Bmr024	890.798	894.354	mn017	Um, so, uh, we had a discussion -
+Bmr024	895.373	895.909	mn017	Don and
+Bmr024	896.184	922.058	mn017	Liz and I had discussion last week about how to proceed with, uh, you know, with Don's work, and - and - and, uh, one of the obvious things that occur to us was that we're - since we now have Thilo's segmenter and it works, you know, amazingly well, um, we should actually basically re-evaluate the recognition, um, results using - you know, without cheating on the segmentations.
+Bmr024	900.303	900.622	mn014	Ch-
+Bmr024	922.895	924.509	mn017	And, that should be fairly -
+Bmr024	923.243	923.793	mn014	So -
+Bmr024	924.710	928.234	mn014	And how do we find the transcripts for those so that - ?
+Bmr024	928.533	928.812	mn014	Yeah.
+Bmr024	928.773	929.519	mn017	Oh, O_K.
+Bmr024	928.972	931.084	mn014	The references for - for those segments?
+Bmr024	929.759	931.113	mn017	So, there's actually -
+Bmr024	931.761	933.773	mn014	It's not that -
+Bmr024	931.930	932.408	mn017	Why do you ask?
+Bmr024	933.026	934.520	mn017	No, actually, um,
+Bmr024	933.034	933.569	me011	I could -
+Bmr024	934.029	934.535	fe016	Well -
+Bmr024	934.239	934.946	me011	Hand ones.
+Bmr024	934.748	945.222	mn017	NIST has, um m- a fairly sophisticated scoring program that you can give a, um - a time, uh -
+Bmr024	939.252	939.671	mn014	O_K.
+Bmr024	946.512	957.017	mn017	You know, you basically just give two time-marked sequences of words, and it computes the um - the, uh - you know, the - the - th- it does all the work for you.
+Bmr024	955.196	956.304	me018	It does all the work for you.
+Bmr024	957.165	957.486	me018	Yeah.
+Bmr024	957.290	957.689	mn014	O_K.
+Bmr024	957.994	962.006	mn017	So, it - we just - and we use that actually in Hub-five to do the scoring.
+Bmr024	962.655	966.696	mn017	Um. So what we've been using so far was sort of a simplified version of the scoring.
+Bmr024	967.206	970.724	mn017	And we can - we can handle the - the - the type of problem we have here.
+Bmr024	971.138	971.741	mn017	So, we ha-
+Bmr024	971.214	976.624	mn014	So, basically you give some time constraints for - for the references and for - for the hypothesis, and - Yeah, O_K.
+Bmr024	973.789	974.019	mn017	Yeah.
+Bmr024	974.701	974.903	mn017	Right.
+Bmr024	975.630	975.820	mn017	Right.
+Bmr024	975.862	979.791	fe016	Yeah. Maybe the start of your speech and the end of it, or stuff like that.
+Bmr024	976.368	976.726	mn017	So do-
+Bmr024	979.282	979.601	mn014	O_K.
+Bmr024	979.725	979.893	mn017	Right.
+Bmr024	979.982	981.749	mn017	It does time-constrained word-alignment.
+Bmr024	981.830	982.211	mn014	O_K.
+Bmr024	982.114	982.427	mn017	So.
+Bmr024	984.397	985.739	mn017	So that should be possible.
+Bmr024	985.963	987.227	mn017	I mean that shouldn't be a problem.
+Bmr024	988.078	991.103	mn017	Uh, so that was the one thing, and the other was that, um -
+Bmr024	992.335	993.340	mn017	What was the other problem? Oh!
+Bmr024	993.693	993.872	mn017	That
+Bmr024	994.510	999.430	mn017	Thilo wanted to use the recognizer alignments to train up his, um, speech detector.
+Bmr024	999.672	1000.047	mn014	Yeah.
+Bmr024	1000.194	1009.837	mn017	Um, so that we could use, uh - you know there wouldn't be so much hand labeling needed to, uh - to generate training data for - for the speech detector.
+Bmr024	1009.232	1011.334	mn014	Yeah. I'm just in progress of - of doing that. So.
+Bmr024	1011.314	1014.355	mn017	And I think you're in the process of doing that. So, you can - you can -
+Bmr024	1012.823	1013.082	mn014	Yeah.
+Bmr024	1013.757	1015.218	me018	It'll give you a lot more data, too. Won't it?
+Bmr024	1015.174	1015.393	mn014	Yeah.
+Bmr024	1015.851	1017.296	mn014	So, it's basically - s-
+Bmr024	1017.405	1025.407	mn014	I think, eight meetings or something which - which I'm using, and, it's - before it was twenty minutes of one meeting. So - should be a little bit better.
+Bmr024	1019.927	1020.284	mn017	Mm-hmm.
+Bmr024	1023.942	1024.155	mn017	Right.
+Bmr024	1024.983	1030.797	mn017	That won't be perfect - the alignments aren't perfect, but, um, it's probably still better to have all this extra data, than - Yeah.
+Bmr024	1024.994	1025.415	me018	Great.
+Bmr024	1027.216	1027.738	mn014	Yeah. But -
+Bmr024	1027.823	1028.369	fe016	Yeah.
+Bmr024	1029.306	1029.530	mn014	Yeah.
+Bmr024	1030.276	1030.538	mn014	Yep.
+Bmr024	1031.618	1032.682	mn014	We'll see that.
+Bmr024	1032.619	1032.798	mn017	Yeah.
+Bmr024	1035.790	1036.308	me013	O_K.
+Bmr024	1036.187	1048.273	fe016	Actually, I had a question about that. If you find that you can lower the false alarms that you get where there's no speech, that would be useful for us to know. So, um -
+Bmr024	1047.878	1049.612	mn014	There were the false alarms.
+Bmr024	1049.201	1064.436	fe016	Yeah. So, r- right now you get f- fal- you know, false - false, uh, speech regions when it's just like, um, breath or something like that, and I'd be interested to know the - wha- if you retrain um, do those actually go down or not? Because of -
+Bmr024	1052.109	1052.484	mn014	O_K.
+Bmr024	1055.059	1055.302	mn014	Yeah.
+Bmr024	1057.578	1057.765	mn014	Yep.
+Bmr024	1061.548	1061.809	mn014	Yeah.
+Bmr024	1063.489	1069.563	mn014	Yeah. I'll - can make - an- can, like, make a c- comparison of - of the old system to the - to the new one, and then - Yeah.
+Bmr024	1068.041	1072.990	fe016	Yeah, just to see if by doing nothing in the modeling of - just having that training data wh- what happens.
+Bmr024	1071.754	1072.053	mn014	Yeah.
+Bmr024	1072.834	1073.114	mn014	Yep.
+Bmr024	1075.877	1077.343	me013	Um another one that we had on
+Bmr024	1078.120	1081.904	me013	Adam's agenda that definitely involved you was s- something about SmartKom?
+Bmr024	1082.791	1083.461	me011	Right. So,
+Bmr024	1083.522	1086.218	me011	Rob Porzel - eh, Porzel? and the, uh -
+Bmr024	1085.788	1086.261	mn017	Porzel.
+Bmr024	1086.433	1088.145	me011	Porzel - and the, uh,
+Bmr024	1086.988	1088.129	mn017	Porzel.
+Bmr024	1088.454	1097.015	me011	SmartKom group are collecting some dialogues. Basically they have one person sitting in here, looking at a picture, and a wizard sitting in another room somewhere.
+Bmr024	1097.648	1099.821	me011	And, uh, they're doing a travel task.
+Bmr024	1100.199	1104.322	me011	And, uh, it involves starting - I believe starting with a -
+Bmr024	1104.711	1111.631	me011	It's - it's always the wizard, but it starts where the wizard is pretending to be a computer and it goes through a, uh, speech generation system.
+Bmr024	1111.595	1115.064	mn014	Yeah. Actually, it's changed to a synthesis for - for the first part now. Yeah.
+Bmr024	1113.520	1114.544	me011	Synthesis system.
+Bmr024	1115.333	1125.149	me011	Um, and then, it goes to a real wizard and they're evaluating that. And they wanted to use this equipment, and so the w- question came up, is - well, here's some more data. Should this be part of the corpus or not?
+Bmr024	1126.110	1133.273	me011	And my attitude was yes, because there might be people who are using this corpus for acoustics, as opposed to just for language.
+Bmr024	1133.989	1136.499	me011	Um, or also for dialogue of various sorts.
+Bmr024	1137.206	1141.526	me011	Um, so it's not a meeting. Right? Because it's two people and they're not face to face.
+Bmr024	1141.501	1142.120	me013	Wait a minute. So,
+Bmr024	1141.759	1142.039	mn014	Yeah.
+Bmr024	1142.120	1143.475	me013	I just wanted to understand it, cuz I -
+Bmr024	1143.475	1147.684	me013	I'm - uh, hadn't quite followed this process. Um.
+Bmr024	1148.182	1156.244	me013	So, it's wizard in the sen- usual sense that the person who is asking the questions doesn't know that it's, uh, a machi- not a machine?
+Bmr024	1154.605	1155.008	mn017	Right.
+Bmr024	1155.455	1160.563	mn017	Actually - actually, w- w- the - the - We do this - I dunno who came up with it, but I think it's a really clever idea.
+Bmr024	1155.568	1156.389	me011	At the beginning.
+Bmr024	1160.977	1169.622	mn017	We simulate a computer breakdown halfway through the session, and so then after that, the person's told that they're now talking to a, uh - to a human.
+Bmr024	1163.204	1163.574	me013	Yeah.
+Bmr024	1168.396	1169.631	mn014	It's a human operator.
+Bmr024	1169.877	1170.027	mn014	Yeah.
+Bmr024	1170.082	1170.414	me013	Yeah.
+Bmr024	1170.228	1172.876	me011	But of course they don't know that it's the same person both times.
+Bmr024	1170.282	1176.883	mn017	So, we - we collect - we collect both human-computer and human-human data, essentially, in the same session.
+Bmr024	1177.786	1186.152	me013	You might wanna try collecting it the other way around sometime, saying that th- the computer isn't up yet and then - so then you can separate it out whether it's the beginning or end kind of effects. But, yeah.
+Bmr024	1181.262	1181.425	fe008	Hmm.
+Bmr024	1184.922	1185.627	mn017	That's an idea.
+Bmr024	1185.636	1185.916	me011	Yep.
+Bmr024	1185.884	1186.231	mn017	Yeah.
+Bmr024	1186.426	1187.084	fe008	That's a good idea.
+Bmr024	1187.001	1189.036	me011	"I have to go now. You can talk to the computer."
+Bmr024	1189.097	1189.988	me011	"No!"
+Bmr024	1189.125	1193.377	me018	It's a lot more believable, too, if you tell them that they're - the computer part is running on a Windows machine.
+Bmr024	1193.798	1195.941	me018	And the whole breakdown thing kinda makes sense.
+Bmr024	1195.464	1195.632	mn017	O-
+Bmr024	1195.934	1197.208	mn017	Just - just reboot it.
+Bmr024	1197.286	1200.742	me011	Abort - abort, retry, fail?
+Bmr024	1200.760	1205.818	fe016	So did they actually save the far-field data? Cuz at first they weren't - they weren't sa- O_K.
+Bmr024	1203.252	1213.025	me011	Well, this was - this was the question. So - so they were saying they were not going to, and I said, "well that's silly, if - if we're gonna try to do it for a corpus, there might be people who are interested in acoustics."
+Bmr024	1203.260	1204.280	mn014	Yes.
+Bmr024	1203.503	1203.953	mn017	Yeah.
+Bmr024	1205.159	1205.420	mn014	Yeah.
+Bmr024	1207.474	1208.073	fe016	Yeah.
+Bmr024	1209.429	1209.737	mn017	Wow.
+Bmr024	1210.093	1210.355	mn014	No.
+Bmr024	1211.821	1212.294	fe016	Or -
+Bmr024	1212.911	1213.471	mn014	projector
+Bmr024	1213.128	1213.546	fe016	Yeah.
+Bmr024	1213.842	1214.313	me013	S-
+Bmr024	1213.975	1216.681	mn014	We were not saying we are not doing it. We wer- we just wanted to do -
+Bmr024	1215.038	1218.636	mn017	No, the - the question is do we save one or two far-field channels or all of them?
+Bmr024	1215.675	1216.056	fe016	Right.
+Bmr024	1217.556	1217.761	mn014	Yeah.
+Bmr024	1218.692	1218.916	mn014	Yeah.
+Bmr024	1218.910	1220.693	me011	I - I see no reason not to do all of them.
+Bmr024	1220.724	1227.348	me011	That - that if we have someone who is doing acoustic studies, uh, it's nice to have the same for every recording.
+Bmr024	1220.955	1221.214	me013	Um -
+Bmr024	1221.149	1221.585	fe016	Nnn.
+Bmr024	1221.672	1221.862	mn017	Hmm.
+Bmr024	1222.095	1222.657	fe016	Yeah.
+Bmr024	1227.523	1229.600	me013	So, what is the purpose of this recording?
+Bmr024	1227.845	1228.359	mn017	Mm-hmm.
+Bmr024	1230.317	1237.049	me013	This is to get acoustic and language model training data for SmartKom.
+Bmr024	1230.447	1234.912	mn017	It's to be traini- to b- training data and development data for the SmartKom system.
+Bmr024	1232.193	1233.986	mn014	The English system?
+Bmr024	1235.306	1235.608	mn017	Yeah.
+Bmr024	1235.796	1236.002	mn014	Yeah.
+Bmr024	1236.447	1236.702	mn017	Right.
+Bmr024	1237.000	1237.310	mn017	Right.
+Bmr024	1237.448	1237.886	me013	O_K.
+Bmr024	1237.683	1238.574	me018	Where does this - ?
+Bmr024	1237.731	1242.002	fe016	Maybe we can have him vary the microphones, too, or they're different s- speakers.
+Bmr024	1240.100	1242.628	me013	Well, so why not - ?
+Bmr024	1240.368	1240.648	mn014	B-
+Bmr024	1241.022	1243.520	me011	Right. So - so - so for their usage, they don't need anything.
+Bmr024	1243.746	1254.252	mn014	Yeah. But - but I'm not sure about the legal aspect of - of that. Is - is there some contract with SmartKom or something about the data? What they - or, is - is that our data which we are collecting here, or - ?
+Bmr024	1243.884	1244.201	me011	Right?
+Bmr024	1248.467	1248.842	mn017	Yeah.
+Bmr024	1253.312	1257.196	me013	We've never signed anything that said that we couldn't use anything that we did.
+Bmr024	1254.625	1255.091	mn014	O_K.
+Bmr024	1256.286	1256.754	mn014	O_K.
+Bmr024	1256.345	1258.065	mn017	We weren't supposed to collect any data.
+Bmr024	1256.754	1257.127	mn014	So.
+Bmr024	1258.154	1258.573	mn014	O_K.
+Bmr024	1258.659	1259.472	mn017	This was all -
+Bmr024	1258.761	1259.159	me013	Yeah.
+Bmr024	1258.983	1261.963	mn014	So. Yeah, th- th- that was the question. If - if - ? Yeah.
+Bmr024	1261.692	1261.990	mn017	Yeah.
+Bmr024	1262.467	1262.933	mn014	Basically.
+Bmr024	1262.467	1275.657	me013	No that's not a problem. I - L- look, it seems to me that if we're doing it anyway and we're doing it for these - these purposes that we have, and we have these distant mikes, we definitely should re- should save it all as long as we've got disk space, and disk is pretty cheap. So should we save it?
+Bmr024	1268.893	1269.204	mn017	Mm-hmm.
+Bmr024	1274.132	1274.471	mn017	O_K.
+Bmr024	1275.123	1275.541	me011	And then -
+Bmr024	1276.016	1276.554	me013	Now th- Yeah.
+Bmr024	1276.973	1279.483	me013	So we save it because it's - it - it's potentially useful.
+Bmr024	1279.456	1279.748	me011	Right.
+Bmr024	1279.881	1282.890	me013	And now, what do we do with it is - is a s- separate question.
+Bmr024	1282.990	1290.853	me013	I mean, anybody who's training something up could choose to put it - eh, to u- include this or not. I - I would not say it was part of the meetings corpus. It isn't.
+Bmr024	1286.322	1286.742	mn017	Right.
+Bmr024	1291.690	1296.914	me013	But it's some other data we have, and if somebody doing experiment wants to train up including that then they can. Right?
+Bmr024	1296.669	1297.008	mn017	Mm-hmm.
+Bmr024	1297.285	1297.748	me011	So it's -
+Bmr024	1299.490	1300.039	me011	It - it -
+Bmr024	1300.855	1311.844	me011	I guess it - the - begs the question of what is the meeting corpus. So if, at U_W they start recording two-person hallway conversations is that part of the meeting corpus?
+Bmr024	1308.964	1309.725	me013	I think it's - I -
+Bmr024	1311.702	1315.469	me013	I think - I th- think the idea of two or more people conversing with one another is key.
+Bmr024	1316.222	1319.719	me011	Well, this has two or more people conversing with each other. They're just not face to face.
+Bmr024	1317.461	1318.424	me013	Nnn, well
+Bmr024	1317.888	1318.242	mn014	Yeah.
+Bmr024	1318.315	1321.979	fe016	What if we just give it a - a name like we give these meetings a name?
+Bmr024	1318.648	1319.038	fe008	Well this -
+Bmr024	1318.962	1320.834	me013	No, it doesn't. Right? It has -
+Bmr024	1321.461	1322.814	me011	I mean, that was my intention.
+Bmr024	1322.270	1326.236	fe016	And then later on some people will consider it a meeting and some people won't, and -
+Bmr024	1325.492	1326.190	me013	Yeah.
+Bmr024	1325.615	1345.975	me011	That was my intention. So - so - s- so part of the reason that I wanted to bring this up is, do we wanna handle it as a special case or do we wanna fold it in, we- give everyone who's involved as their own user I_D, give it session I_Ds, let all the tools that handle Meeting Recorder handle it, or do we wanna special case it? And if we were gonna special case it, who's gonna do that?
+Bmr024	1325.642	1326.203	fe008	Well this -
+Bmr024	1326.418	1329.048	fe016	Just give it a title.
+Bmr024	1332.928	1333.450	fe008	Oh.
+Bmr024	1333.592	1334.551	me013	I think it is a s-
+Bmr024	1344.782	1357.984	mn017	Well, it - it makes sense to handle it with the same infrastructure, since we don't want to duplicate things unnecessarily. But as far as distributing it, we shouldn't label it as part of this meeting corpus. We should let it be its own corp-
+Bmr024	1345.089	1346.200	mn014	So. It - it - it -
+Bmr024	1346.089	1346.457	fe008	I think -
+Bmr024	1356.064	1356.414	me013	Yeah.
+Bmr024	1357.334	1359.544	me011	I don't see why not. It's just a different topic.
+Bmr024	1357.352	1358.859	fe008	Well it's - it - well, because -
+Bmr024	1359.091	1361.933	fe008	I ha- I have an extra point, which is the naturalness issue.
+Bmr024	1362.378	1371.277	fe008	Because we have, like, meetings that have a reason. That's one of the reasons that we were talking about this. And - and those - and this sounds like it's more of an experimental setup. It's got a different purpose.
+Bmr024	1366.652	1367.120	me013	Yeah.
+Bmr024	1369.562	1382.932	me013	It's scenario-based, it's - it's human-computer interface - it's really pretty different. But I- I - I have no problem with somebody folding it in for some experiment they're gonna do, but I don't think i- it - it doesn't match anything that we've described about meetings.
+Bmr024	1375.105	1375.473	fe008	Yeah.
+Bmr024	1382.228	1382.618	me011	Mm-hmm.
+Bmr024	1383.211	1387.874	me013	Whereas everything that we talked about them doing at - at U_W and so forth really does. They're actually talking -
+Bmr024	1386.810	1390.461	me011	O_K. So w- so what does that mean for how we are gonna organize things?
+Bmr024	1388.721	1388.914	fe008	Hmm.
+Bmr024	1390.344	1390.587	mn014	Yeah.
+Bmr024	1390.883	1402.557	me013	You can - you can - Again, as - as I think Andreas was saying, if you wanna use the same tools and the same conventions, there's no problem with that. It's just that it's, you know, different directory, it's called something different, it's - you know.
+Bmr024	1402.856	1403.613	me013	It is different.
+Bmr024	1403.892	1406.460	me013	You can't just fold it in as if it's - I mean, digits are different, too. Right?
+Bmr024	1406.327	1408.248	mn017	It might also be potentially confusing.
+Bmr024	1406.680	1419.880	me011	Yeah, but those are folded in, and it's just - you just mark the transcripts differently. So - so one option is you fold it in, and just simply in the file you mark somewhere that this is this type of interaction, rather than another type of interaction.
+Bmr024	1410.468	1410.671	mn017	Right.
+Bmr024	1417.418	1417.905	mn017	Yeah, I th-
+Bmr024	1419.240	1422.533	me013	Well, I don- I wouldn't call reading digits "meetings".
+Bmr024	1423.111	1425.009	me013	Right? I mean, we - we - we were doing -
+Bmr024	1424.300	1424.994	me011	Well, but - but,
+Bmr024	1425.445	1429.685	me011	I put it under the same directory tree. You know, it's in "user doctor speech data M_R".
+Bmr024	1427.258	1427.617	me013	Well -
+Bmr024	1427.835	1431.049	fe016	Can we just have a directory called, like, "other stuff"?
+Bmr024	1431.049	1431.436	fe016	And -
+Bmr024	1431.277	1431.960	me011	Other.
+Bmr024	1431.836	1433.182	fe016	Well - or, I dunno.
+Bmr024	1432.971	1436.014	me013	I mean, I don't care what directory tree you have it under. Right? I mean that's just a -
+Bmr024	1433.837	1438.095	fe016	And - and just, um, store it there. I mean -
+Bmr024	1435.760	1441.159	me011	O_K. My preference is to have a single procedure so that I don't have to think too much about things.
+Bmr024	1436.011	1436.295	mn017	Yes.
+Bmr024	1441.354	1442.767	me011	And, just have a marking.
+Bmr024	1441.397	1441.851	me013	Yeah.
+Bmr024	1443.547	1448.087	me011	If we do it any other way that means that we need a separate procedure, and someone has to do that.
+Bmr024	1443.624	1443.803	me013	O_-
+Bmr024	1446.672	1453.524	me013	You - you can use whatever procedure you want that's p- convenient for you. All I'm saying is that there's no way that we're gonna tell people that reading digits is meetings.
+Bmr024	1453.995	1454.287	me011	Right.
+Bmr024	1454.055	1458.957	me013	And similarly we're not gonna tell them that someone talking to a computer to get travel information is meetings.
+Bmr024	1459.415	1460.232	me013	Those aren't meetings.
+Bmr024	1460.471	1465.871	me013	But if it makes it easier for you to pu- fold them in the same procedures and have them under the same directory tree, knock yourself out. You know?
+Bmr024	1465.601	1471.391	me018	There's a couple other questions that I have too, and - and one of them is, what about, uh, consent issues?
+Bmr024	1471.851	1473.492	me018	And the other one is, what about transcription?
+Bmr024	1473.724	1475.347	mn014	Transcription is done in Munich.
+Bmr024	1473.833	1474.153	me018	Are - ?
+Bmr024	1475.456	1477.543	me018	O_K. So we don't have to worry about transcribing it?
+Bmr024	1476.596	1476.783	mn014	Yeah.
+Bmr024	1476.984	1477.423	me013	Alright.
+Bmr024	1477.085	1479.540	me011	So, w- we will hafta worry about format.
+Bmr024	1478.295	1484.561	mn017	That's a - that's another argument to keep it separate, because it's gonna follow the SmartKom transcription conventions and not the
+Bmr024	1482.912	1483.610	me011	Oh, O_K.
+Bmr024	1483.368	1483.629	mn014	Yeah.
+Bmr024	1484.737	1486.739	mn017	ICSI meeting transcription conventions.
+Bmr024	1485.223	1485.687	me013	Ah.
+Bmr024	1485.620	1487.677	me011	O_K. Well, I didn't realize that. That's - that's a -
+Bmr024	1485.986	1486.504	me013	Good point.
+Bmr024	1488.197	1488.715	me013	Good point.
+Bmr024	1489.412	1494.393	me013	But I'm sure no one would have a problem with our folding it in for some acoustic modeling or - or some things.
+Bmr024	1495.156	1495.675	me013	Um.
+Bmr024	1496.232	1498.659	me013	Do we h- do we have, uh, um,
+Bmr024	1499.279	1501.514	me013	American-born folk, uh, reading German -
+Bmr024	1501.734	1504.483	me013	German, uh, pla- uh, place names and so forth? Is that - ?
+Bmr024	1503.864	1504.126	mn014	Yeah.
+Bmr024	1504.081	1504.713	mn017	Exactly.
+Bmr024	1504.723	1505.021	mn014	Yeah.
+Bmr024	1504.764	1504.983	me011	Yep.
+Bmr024	1505.001	1505.539	me013	Yeah, great.
+Bmr024	1505.009	1505.267	mn017	Yeah.
+Bmr024	1506.066	1508.345	me011	They - they even have a reading list. It's pretty funny.
+Bmr024	1506.953	1508.235	me018	I bet that sounds good, huh?
+Bmr024	1507.731	1508.229	me013	Yeah.
+Bmr024	1508.013	1508.365	mn017	Yeah.
+Bmr024	1509.162	1511.882	mn014	You can do that if you want.
+Bmr024	1509.958	1511.140	me018	O_K.
+Bmr024	1510.442	1511.060	me013	Yeah.
+Bmr024	1511.521	1512.663	me018	I dunno if you want that.
+Bmr024	1511.804	1512.065	mn017	Yeah.
+Bmr024	1511.891	1512.329	me013	Right.
+Bmr024	1513.397	1514.067	me011	So -
+Bmr024	1513.804	1514.210	fe008	Hmm.
+Bmr024	1513.842	1514.978	me013	Heidelberg
+Bmr024	1516.857	1517.209	mn017	Exactly
+Bmr024	1518.259	1530.841	me011	Disk might eventually be an issue so we might - we - we might need to, uh, get some more disk pretty soon. We're about - we're about half - halfway through our disk right now.
+Bmr024	1518.886	1519.739	mn017	Do you wanna be a subject?
+Bmr024	1521.666	1522.663	me013	Yeah, I be pretty good.
+Bmr024	1525.492	1525.765	mn017	We -
+Bmr024	1525.927	1526.442	mn017	Yeah.
+Bmr024	1527.415	1528.769	mn017	That was one of our concerns.
+Bmr024	1527.419	1528.033	me018	Yeah.
+Bmr024	1531.010	1532.800	me018	Are we only half? I thought we were more than that.
+Bmr024	1532.522	1536.214	me011	We're probably a little more than that because we're using up some space that we shouldn't be on.
+Bmr024	1537.100	1542.973	me011	So, once everything gets converted over to the disks we're supposed to be using we'll be probably, uh, seventy-five percent.
+Bmr024	1543.198	1547.869	me018	Well, when I was looking for space for Thilo, I found one disk that had, uh,
+Bmr024	1548.049	1550.693	me018	I think it was nine gigs and another one had seventeen.
+Bmr024	1550.641	1550.909	me011	Yep.
+Bmr024	1551.795	1553.683	me018	And everything else was sorta committed.
+Bmr024	1554.084	1554.550	me018	Uh -
+Bmr024	1554.528	1557.062	me011	Were those backed-up or non-backed-up?
+Bmr024	1557.456	1559.058	me018	Those were non-backed-up.
+Bmr024	1557.857	1559.241	mn014	Non-back-up.
+Bmr024	1558.778	1559.785	me011	Right. So that's different.
+Bmr024	1560.901	1562.140	me018	S- oh, you're talking about backed-up.
+Bmr024	1561.829	1563.754	me011	I'm much more concerned about the backed-up.
+Bmr024	1564.047	1573.044	me011	The non-backed-up, yeah, i- is cheap. I mean, if we need to we can buy a disk, hang it off a s- uh, workstation. If it's not backed-up the sysadmins don't care too much.
+Bmr024	1564.556	1566.287	me018	I haven't looked to see how much of that we have.
+Bmr024	1573.170	1576.956	me013	Yeah. So, I mean, pretty much anytime we need a disk, we can get it at the rate that we're -
+Bmr024	1575.668	1576.169	mn017	You can -
+Bmr024	1578.295	1586.396	mn017	I shouldn't be saying this, but, you can just - you know, since the back-ups are every night, you can recycle the backed-up diskspace.
+Bmr024	1585.848	1588.407	me011	Yeah. But that's - that's - that's risky.
+Bmr024	1589.565	1590.641	me013	Yeah. You really shouldn't be saying -
+Bmr024	1589.932	1590.976	me011	Mmm. Mmm.
+Bmr024	1590.194	1593.877	mn017	I didn't say that. I didn't say that.
+Bmr024	1590.976	1592.839	me011	Yeah, that's right. Beep that out.
+Bmr024	1592.832	1597.813	me013	Da- we had allowed Dave to listen to these - these, uh, recordings. Um -
+Bmr024	1594.723	1595.831	mn017	Right.
+Bmr024	1598.479	1604.643	me013	Yeah, I me- and there's been this conversation going on about getting another file server, and - and we can do that.
+Bmr024	1603.130	1603.521	mn017	Mm-hmm.
+Bmr024	1604.643	1609.050	me013	We'll take the opportunity and get another big raft of - of disk, I guess.
+Bmr024	1607.849	1608.201	me011	Yeah.
+Bmr024	1609.502	1609.777	mn017	Well,
+Bmr024	1609.991	1612.793	me011	It's really the back-up issue rather than the file server issue.
+Bmr024	1610.005	1610.364	mn017	I think -
+Bmr024	1611.017	1625.431	mn017	I think there's an argument for having - you know, you could use our old file server for - for disks that have data that is very rarely accessed, and then have a fast new file server for data that is, um, heavily accessed.
+Bmr024	1622.728	1623.032	me011	Yeah.
+Bmr024	1624.775	1630.127	me011	My understanding is, the issue isn't really the file server. We could always put more disks on. It's the back-up system.
+Bmr024	1625.548	1625.871	mn017	Yeah.
+Bmr024	1627.227	1627.653	mn017	Yeah.
+Bmr024	1628.150	1630.191	mn017	It's the back- it's the back-up capaci- Yeah.
+Bmr024	1630.919	1633.110	me011	So - which is near saturation, apparently.
+Bmr024	1634.470	1634.898	me011	So.
+Bmr024	1635.020	1635.503	me013	Soon.
+Bmr024	1635.067	1648.271	me018	I think - I think the file server could become an issue as we get a whole bunch more new compute machines. And we've got, you know, fifty machines trying to access data off of Abbott at once.
+Bmr024	1647.460	1651.897	me011	Well, we're alright for now because the network's so slow.
+Bmr024	1650.628	1655.803	mn017	I mean, I think - I think we've raised this before and someone said this is not a reliable way to do it, but the -
+Bmr024	1656.228	1660.665	mn017	What about putting the stuff on, like, C_- C_D-ROM or D_V_D or something?
+Bmr024	1658.300	1659.021	me011	Yeah. That was me.
+Bmr024	1660.090	1663.118	me011	I was the one who said it was not reliable. The- they - they wear out.
+Bmr024	1661.500	1662.043	mn017	O_K.
+Bmr024	1663.553	1664.081	mn017	Oh, O_K.
+Bmr024	1664.216	1665.118	me011	Yeah. The - the - th-
+Bmr024	1664.492	1666.662	mn017	But they wear out just from sitting on the shelf?
+Bmr024	1666.263	1666.458	me011	Yep.
+Bmr024	1666.820	1667.514	me011	Absolutely.
+Bmr024	1666.970	1668.670	mn017	Or from being read and read?
+Bmr024	1667.989	1668.220	me011	No.
+Bmr024	1668.852	1671.057	me011	Read and write don't hurt them too much unless you scratch them.
+Bmr024	1669.784	1670.386	mn017	Oh, O_K.
+Bmr024	1671.557	1675.216	me011	But the r- the write once, and the read-writes, don't last.
+Bmr024	1676.364	1681.034	me011	So you don't wa- you don't wanna put ir- un- reproduceable data on them.
+Bmr024	1681.376	1681.837	mn017	Uh-huh.
+Bmr024	1681.985	1683.654	me018	Wear out after what amount of time?
+Bmr024	1683.714	1684.359	me011	Year or two.
+Bmr024	1685.689	1686.307	fe008	Would it be - ?
+Bmr024	1685.910	1686.690	me013	Year or two?
+Bmr024	1686.734	1686.917	me011	Yep.
+Bmr024	1687.940	1688.245	me013	Wow.
+Bmr024	1688.858	1689.225	fe008	Hmm.
+Bmr024	1688.950	1695.196	mn017	But if that - then you would think you'd hear much more clamoring about data loss and -
+Bmr024	1692.131	1692.486	mn014	Yeah.
+Bmr024	1696.513	1697.489	me013	I mean, yeah, all the L_-
+Bmr024	1696.585	1698.780	me011	I - I don't know many people who do it on C_D.
+Bmr024	1699.401	1701.192	me011	I mean, they're - the most - fo-
+Bmr024	1700.542	1703.155	me013	L_D_C- all the L_D_C distributions are on C_D-ROM.
+Bmr024	1701.409	1701.821	fe016	Yeah.
+Bmr024	1702.830	1706.879	me011	They're on C_D, but they're not - tha- that's not the only source. They have them on disk.
+Bmr024	1703.192	1703.556	fe016	Like -
+Bmr024	1707.025	1710.119	me011	And they burn new ones every once in a while. But if you go - if you go k-
+Bmr024	1708.424	1709.439	mn017	But, you know, we have -
+Bmr024	1709.487	1712.756	fe016	But we have like thirty you know, from ten years ago? No.
+Bmr024	1712.572	1714.732	me013	We have all sorts of C_D-ROMs from a long time ago.
+Bmr024	1712.756	1715.320	fe016	Yeah! Ten years ago. Ninety-one, and they're still all fine.
+Bmr024	1712.852	1713.087	mn017	Right.
+Bmr024	1713.072	1713.576	mn014	Yeah.
+Bmr024	1713.228	1714.363	me011	Well, th- th-
+Bmr024	1714.553	1716.068	me001	Were they burned or were they pressed?
+Bmr024	1714.871	1715.130	me013	Yeah.
+Bmr024	1715.920	1719.068	fe016	Uh, both. I've burned them and they're still O_K. I mean, usually they're -
+Bmr024	1716.852	1717.240	me001	Yeah.
+Bmr024	1717.952	1722.229	me011	O_K. The - the pressed ones last for- well, not forever, they've been finding even those degrade.
+Bmr024	1721.593	1722.290	me013	Oh, I see.
+Bmr024	1722.544	1726.614	me011	But, uh, the burned ones - I mean, when I say two or three years what I'm saying is that
+Bmr024	1725.033	1725.725	fe016	That's what I -
+Bmr024	1726.821	1728.844	me011	I have had disks which are gone in a year.
+Bmr024	1729.866	1732.535	me011	On the average, it'll probably be three or four years.
+Bmr024	1733.144	1739.148	me011	But, uh - I - I - you don't want to per- p- have your only copy on a media that fails.
+Bmr024	1739.421	1739.832	mn017	Mmm.
+Bmr024	1740.232	1740.847	me011	And they do.
+Bmr024	1740.791	1741.348	mn017	So how about - ?
+Bmr024	1741.103	1744.720	me011	Um, if you have them professionally pressed, y- you know, they're good for decades.
+Bmr024	1744.267	1751.691	mn017	So - so how about putting them on that plus, like on a - on - on DAT or some other medium that isn't risky ?
+Bmr024	1750.776	1753.663	me011	I think th- um, we can already put them on tape.
+Bmr024	1753.950	1754.406	mn017	O_K.
+Bmr024	1754.357	1756.496	me011	And the tape is hi- is very reliable.
+Bmr024	1756.541	1756.976	mn017	Mm-hmm.
+Bmr024	1757.080	1759.712	me011	So the - the only issue is then if we need access to them.
+Bmr024	1760.106	1760.376	mn017	Right.
+Bmr024	1760.236	1762.150	me011	So that's fine f- if we don't need access to them.
+Bmr024	1762.490	1764.402	mn017	Well, if - if - if you - if they last -
+Bmr024	1764.402	1774.473	mn017	Say, they actually last, like, five years, huh, in - in the typical case, and - and occasionally you might need to recreate one, and then you get your tape out, but otherwise you don't.
+Bmr024	1776.582	1778.396	mn017	Can't you just - you just put them on - ?
+Bmr024	1779.023	1782.690	me001	So you just archive it on the tape, and then put it on C_D as well?
+Bmr024	1780.982	1781.413	mn017	Yeah.
+Bmr024	1782.797	1783.137	mn017	Right.
+Bmr024	1784.302	1788.210	me011	Oh. So you're just saying put them on C_Ds for normal access.
+Bmr024	1787.932	1788.351	mn017	Right.
+Bmr024	1788.006	1788.394	me001	Yeah.
+Bmr024	1788.734	1789.015	me011	Yeah.
+Bmr024	1789.015	1792.438	me011	I mean, you can do that but that's pretty annoying, because the C_Ds are so slow.
+Bmr024	1789.071	1789.723	me018	What you -
+Bmr024	1791.834	1792.162	fe016	See -
+Bmr024	1792.417	1792.824	me001	Yeah.
+Bmr024	1792.433	1793.318	mn017	Mmm.
+Bmr024	1792.653	1793.505	fe016	Yeah.
+Bmr024	1793.765	1797.611	me018	What'd be nice is a system that re-burned the C_Ds every year.
+Bmr024	1797.126	1800.562	fe016	H- everytime it was a "gonna" - "gonna die".
+Bmr024	1798.025	1799.114	mn014	Yeah.
+Bmr024	1798.042	1801.052	me011	Well, I mean, the C_Ds are - are an op-
+Bmr024	1798.405	1798.844	me013	Well -
+Bmr024	1799.638	1801.815	mn017	It's like - like dynamic ra- D_RAM.
+Bmr024	1800.862	1805.037	mn014	Just before.
+Bmr024	1801.527	1805.972	fe016	Just before they- be- before it goes bad, it burns them in.
+Bmr024	1801.944	1802.465	me018	Yeah.
+Bmr024	1803.672	1808.911	me011	The - the C_D is an alternative to tape. ICSI already has a perfectly good tape system and it's more reliable.
+Bmr024	1803.971	1805.090	me001	Yeah.
+Bmr024	1809.152	1809.730	me013	You know -
+Bmr024	1809.179	1810.787	me011	So for archiving, we'll just use tape.
+Bmr024	1810.314	1822.703	mn017	One - one thing I don't understand is, if you have the data - if - if you- if the meeting data is put on disk exactly once, then it's backed-up once and the back-up system should never have to bother with it, uh, more than once.
+Bmr024	1810.972	1811.550	me013	I would think -
+Bmr024	1821.197	1842.034	me011	Well, regardless - Well, first of all there was, um, a problem with the archive in that I was every once in a while doing a chmod on all the directories an- or recursive chmod and chown, because they weren't getting set correctly every once in a while, and I was just, doing a minus R_ star, not realizing that that caused it to be re-backed-up.
+Bmr024	1833.997	1834.423	mn017	Mm-hmm.
+Bmr024	1838.755	1839.254	mn017	Mm-hmm.
+Bmr024	1839.621	1840.610	fe016	Ah.
+Bmr024	1842.948	1844.377	me011	But normally you're correct.
+Bmr024	1844.584	1847.484	me011	But even without that, the back-up system is becoming saturated.
+Bmr024	1848.484	1853.732	mn017	But - but this back-up system is smart enough to figure out that something hasn't changed and doesn't need to be backed-up again.
+Bmr024	1852.996	1858.022	me011	Sure, but we still have enough changed that the nightly back-ups are starting to take too long.
+Bmr024	1853.422	1853.701	me013	The b-
+Bmr024	1858.289	1864.000	me013	I think th- the - at least the once tha- that you put it on, it would - it would kill that. So.
+Bmr024	1862.210	1865.439	mn017	O_K. So - so then, if - So - so then, let's - Right.
+Bmr024	1863.199	1867.736	me011	It has nothing to do with the meeting. It's just the general ICSI back-up system is becoming saturated.
+Bmr024	1866.320	1866.730	mn017	O_K.
+Bmr024	1867.626	1867.885	mn017	Right.
+Bmr024	1867.922	1872.542	mn017	So, what if we buy, uh - uh, what - what do they call these, um high density - ?
+Bmr024	1871.631	1875.542	me011	Well, why don't you have this - have a - this conversation with Dave Johnson tha- rather than with me?
+Bmr024	1875.046	1880.126	mn017	No, no. Because this is maybe something that we can do without involving Dave, and - and, putting more burden on him.
+Bmr024	1880.521	1884.128	mn017	How about we buy, uh - uh - uh, one of these high density tape drives?
+Bmr024	1884.619	1888.149	mn017	And we put the data actually on non-backed-up disks.
+Bmr024	1888.819	1893.461	mn017	And we do our own back-up once and for all - all, and then - and we don't have to bother this  up?
+Bmr024	1892.605	1895.151	me011	Actually, you know, we could do that just with the tape - with the current tape.
+Bmr024	1895.413	1898.187	mn017	I dunno what the- these tapes - uh, at some point these -
+Bmr024	1898.239	1900.390	mn017	I dunno. What kind of tape drive is it? Is it - is - ?
+Bmr024	1899.745	1902.380	me011	I dunno but it's an automatic robot so it's very convenient.
+Bmr024	1902.733	1902.932	me013	Wh-
+Bmr024	1902.964	1903.354	mn017	Right.
+Bmr024	1903.038	1904.637	me011	You just run a program to restore them.
+Bmr024	1903.068	1905.527	me013	The o- the one that we have?
+Bmr024	1905.545	1905.776	me011	Yeah.
+Bmr024	1905.830	1908.325	mn017	But it might interfere with their back-up schedule, eh.
+Bmr024	1905.846	1906.543	me013	The - I mean -
+Bmr024	1906.613	1906.961	fe016	But -
+Bmr024	1907.660	1912.837	me013	No, we have s- we - Don't we have our own? Something wi- th- that doesn't - that isn't used by the back-up gang?
+Bmr024	1912.837	1915.068	me013	Don't we have something downstairs?
+Bmr024	1914.269	1914.688	fe008	Well they -
+Bmr024	1915.101	1916.029	me018	What kinda tape drive?
+Bmr024	1915.347	1915.786	me013	Just in - ?
+Bmr024	1916.188	1922.303	me011	Well - but - no, but Andreas's point is a good one. And we don't have to do anything ourselves to do that. They're already right now on tape.
+Bmr024	1916.224	1916.623	me013	Yeah.
+Bmr024	1920.303	1920.641	mn017	Right.
+Bmr024	1923.349	1927.650	me011	Right. So your - your point is, and I think it's a good one, that we could just get more disk and put it there.
+Bmr024	1925.380	1925.651	mn017	Mmm.
+Bmr024	1927.398	1930.523	mn017	On an X_H - uh, X_ - X_ whatever partition. Yeah.
+Bmr024	1928.674	1929.144	me011	Yeah.
+Bmr024	1930.086	1931.183	me011	That's not a bad idea.
+Bmr024	1931.314	1938.026	me013	Yeah, that's basically what I was gonna say, is that a disk is - is so cheap it's es- essentially, you know, close to free.
+Bmr024	1937.925	1939.085	me011	So once it's on tape -
+Bmr024	1938.239	1938.635	mn017	Right.
+Bmr024	1938.465	1948.933	me013	And the only thing that costs is the back-up issue, eh, to first order. And we can take care of that by putting it on non-back- up drives and just backing it up once onto this tape.
+Bmr024	1940.517	1940.888	mn017	Right.
+Bmr024	1945.775	1946.211	mn017	Mm-hmm.
+Bmr024	1948.578	1949.527	me011	I think that's a good idea.
+Bmr024	1948.927	1949.131	mn017	Right.
+Bmr024	1949.611	1950.029	me013	Oh. Yeah.
+Bmr024	1949.671	1950.028	mn017	O_K.
+Bmr024	1950.328	1950.571	me013	Good.
+Bmr024	1950.850	1951.269	me013	It's good.
+Bmr024	1950.940	1953.758	fe016	So, who's gonna do these back-ups? The people that collect it?
+Bmr024	1953.994	1954.765	me011	Uh
+Bmr024	1956.300	1960.837	me011	Well, I'll talk to Dave, and - and see what th- how - what the best way of doing that is.
+Bmr024	1960.694	1962.414	me018	It's probably gonna n-
+Bmr024	1961.137	1966.100	me011	There's a little utility that will manually burn a tape for you, and that's probably the right way to do it.
+Bmr024	1966.110	1969.684	me018	Yeah, and we should probably make that part of the procedure for recording the meetings.
+Bmr024	1968.054	1968.436	fe016	Well, s-
+Bmr024	1968.592	1968.873	me011	Yep.
+Bmr024	1968.636	1971.111	fe016	Yeah. That's what I'm wondering, if -
+Bmr024	1971.017	1975.340	me011	Well we're g- we're gonna automate that. My intention is to do a script that'll do everything.
+Bmr024	1971.691	1972.109	fe016	O_K.
+Bmr024	1973.747	1976.443	fe016	I mean, you don't have to physically put a tape in the drive? Or s- ?
+Bmr024	1976.052	1976.308	me011	No.
+Bmr024	1976.443	1976.876	fe016	Oh, O_K.
+Bmr024	1976.625	1979.682	me011	It's all tape robot, so you just sit down at your computer and you type a command.
+Bmr024	1977.222	1977.932	fe016	So it's just -
+Bmr024	1978.860	1979.351	fe016	Oh, O_K.
+Bmr024	1979.539	1982.710	mn017	Yeah, but then you're effectively using the resources of the back-up system.
+Bmr024	1982.980	1984.399	mn017	Or is that a different tape robot?
+Bmr024	1983.877	1985.325	fe016	But not at the same time.
+Bmr024	1984.349	1985.799	me011	Yeah. But y- but you would be anyway.
+Bmr024	1987.110	1987.935	mn017	No, no. See -
+Bmr024	1987.272	1988.639	me011	Right? Because -
+Bmr024	1987.550	1989.874	me018	No, no, no. He's saying get a whole different drive.
+Bmr024	1989.528	1990.653	mn017	Yeah, just give a dedi-
+Bmr024	1989.604	1990.866	me011	But there's no reason to do that.
+Bmr024	1991.053	1997.127	mn017	Well, I'm saying is i- if you go to Dave, and - and - and ask him "can I use your tape robot?", he will say,
+Bmr024	1991.348	1993.302	me011	It - we already have it there and it - it's -
+Bmr024	1997.666	2000.155	mn017	"well that's gonna screw up our back-up operation."
+Bmr024	1999.344	1999.842	me011	No, we won't.
+Bmr024	2000.360	2000.881	me011	He'll say
+Bmr024	2001.301	2005.857	me011	"if - if that means that it's not gonna be backed-up standardly, great."
+Bmr024	2007.074	2007.509	me013	He- I -
+Bmr024	2007.669	2012.389	me013	Dave has - has promoted this in the past. So I don't think he's actually against it. Yeah.
+Bmr024	2010.224	2011.868	me011	Yeah. It's - it's definitely no problem.
+Bmr024	2010.872	2011.823	mn017	Oh, O_K. Alright.
+Bmr024	2011.885	2012.336	mn017	Alright.
+Bmr024	2013.211	2013.501	mn017	Good.
+Bmr024	2013.325	2013.704	me013	O_K.
+Bmr024	2014.171	2019.246	fe016	What about if the times overlap with the normal back-up time?
+Bmr024	2020.068	2022.974	me011	Um, it's - it's just - it's just a utility which queues up.
+Bmr024	2023.303	2023.879	fe016	O_K.
+Bmr024	2023.617	2026.375	me011	It just queues it up and - and when it's available, it will copy it.
+Bmr024	2026.681	2026.980	me013	Yeah.
+Bmr024	2026.858	2034.487	me011	And then you can tell it to then remove it from the disk or you can, you know, do it a- a few days later or whatever you wanna do, after you confirm that it's really backed-up.
+Bmr024	2032.665	2033.281	fe016	O_K.
+Bmr024	2037.020	2038.079	me011	N_W - ?
+Bmr024	2038.358	2039.614	fe008	You saying N_W archive?
+Bmr024	2039.499	2041.430	me011	N_W archive. That's what it is.
+Bmr024	2040.490	2040.849	fe008	Yep
+Bmr024	2041.729	2041.997	me013	O_K.
+Bmr024	2042.441	2045.469	fe008	And if you did that during the day it would never make it to the nightly back-ups.
+Bmr024	2044.860	2045.188	me011	Right.
+Bmr024	2045.748	2047.740	fe008	And then there wouldn't be this extra load.
+Bmr024	2047.426	2051.511	mn017	Well, it - if he - you have to put the data on a - on a non-backed-up disk to begin with.
+Bmr024	2053.057	2056.028	mn017	So that - so that - otherwise you don't - you -
+Bmr024	2053.145	2053.410	me011	Right.
+Bmr024	2053.616	2062.563	fe008	Well, but you can have it N_W archive to - you can have, uh, a non-backed-up disk N_W archived, and it'll never show up on the nightly back-ups.
+Bmr024	2060.069	2060.335	me011	Right.
+Bmr024	2060.616	2061.363	me011	And then it never -
+Bmr024	2060.648	2061.042	mn017	Right.
+Bmr024	2061.415	2061.895	mn017	Right.
+Bmr024	2062.002	2062.315	me011	Right.
+Bmr024	2062.829	2065.324	me011	Which I'm sure would make ever- the sysadmins very happy.
+Bmr024	2062.926	2063.320	mn017	Right.
+Bmr024	2065.450	2065.749	fe008	Yeah.
+Bmr024	2065.885	2066.877	me011	So, I think that's a good idea.
+Bmr024	2065.970	2066.271	mn017	O_K.
+Bmr024	2067.080	2067.937	me011	That's what we should do.
+Bmr024	2067.179	2067.476	mn017	O_K.
+Bmr024	2068.591	2074.274	me011	So, that means we'll probably wanna convert all - all those files - filesystems to non-backed-up media.
+Bmr024	2075.542	2076.289	me018	That sounds good.
+Bmr024	2076.359	2076.609	me011	Yep.
+Bmr024	2076.566	2076.725	me013	Yeah.
+Bmr024	2078.010	2080.580	me013	Um, another, thing on the agenda said
+Bmr024	2080.679	2082.672	me013	S_R_I recognition experiments?
+Bmr024	2083.792	2084.251	me013	What's that?
+Bmr024	2084.136	2085.406	mn017	S_R_I recognition? Oh.
+Bmr024	2085.590	2086.339	me011	That wasn't me.
+Bmr024	2086.657	2091.309	mn017	Um. well, we have lots of them.
+Bmr024	2086.918	2087.595	me013	Uh. Who's that?
+Bmr024	2091.578	2092.096	mn017	Uh,
+Bmr024	2092.158	2094.272	mn017	I dunno. Chuck, do you have any - any updates?
+Bmr024	2094.164	2097.651	me018	N- I'm successfully, uh, increasing the error rate.
+Bmr024	2097.798	2098.259	me018	Uh -
+Bmr024	2098.189	2098.828	me011	That's good.
+Bmr024	2098.290	2098.702	mn017	Oh.
+Bmr024	2098.372	2098.945	me001	Mmm.
+Bmr024	2100.102	2101.343	fe016	Lift the Herve approach.
+Bmr024	2101.290	2101.791	me018	Yeah.
+Bmr024	2102.111	2107.240	me018	So, I mean I'm just playing with, um, the number of Gaussians that we use in the - the recognizer, and -
+Bmr024	2107.260	2111.432	mn017	Well, you have to sa- you have to tell people that you're - you're doing - you're trying the tandem features.
+Bmr024	2111.434	2113.503	me018	Yes, I'm using tandem features.
+Bmr024	2112.550	2113.419	me011	Oh you are? Cool.
+Bmr024	2112.820	2116.423	mn017	A- and I'm still tinkering with the P_L_P features.
+Bmr024	2113.503	2116.108	me018	And -
+Bmr024	2116.670	2123.522	me013	Yeah, I got confused by the results. It sai- because - uh, the meeting before, you said "O_K, we got it down to where they're - they're within a tenth of a percent".
+Bmr024	2122.178	2123.300	me018	That was on males.
+Bmr024	2122.191	2122.524	mn017	Right.
+Bmr024	2122.905	2125.121	mn017	That was - that was before I tried it on the females.
+Bmr024	2125.116	2125.708	me013	Oh.
+Bmr024	2125.121	2129.139	mn017	See, women are nothi- are, trouble. Right? As we all know. So.
+Bmr024	2125.967	2127.495	me013	It's the women are the problem. O_K.
+Bmr024	2129.746	2131.700	fe016	Well, let's just say that men are simple.
+Bmr024	2133.267	2135.438	mn017	So - so, when -
+Bmr024	2135.558	2136.813	mn017	So I - I had -
+Bmr024	2136.657	2137.965	me011	That was a quick response.
+Bmr024	2137.291	2137.962	mn017	I ha-
+Bmr024	2137.962	2164.754	mn017	So, we had reached the point where - we had reached the point where, um, on the male portion of the development set, the, um - or one of the development sets, I should say - the, um - the male error rate with, uh, ICSI P_L_P features was pretty much identical with, uh, S_R_I features. which are M_F_C_C. So, um, then I thought, "Oh, great.
+Bmr024	2139.220	2140.644	fe016	I'm well rehearsed.
+Bmr024	2140.455	2141.093	me013	Yeah.
+Bmr024	2164.853	2171.189	mn017	I'll j- I'll - just let's make sure everything works on the females." And the error rate - you know, there was a three percent difference.
+Bmr024	2168.861	2169.508	me013	Oh.
+Bmr024	2171.376	2171.782	me013	Uh-huh.
+Bmr024	2171.388	2173.361	mn017	So, uh -
+Bmr024	2172.947	2174.350	fe016	Is there less training data?
+Bmr024	2175.083	2176.525	mn017	No, actually there's more training data.
+Bmr024	2175.087	2175.685	fe016	I mean, we don-
+Bmr024	2176.462	2177.956	fe016	This is on just digits?
+Bmr024	2178.139	2178.684	mn017	No, no.
+Bmr024	2178.514	2180.626	fe016	Oh, sorry. O_K. This is on - Oh, O_K.
+Bmr024	2178.587	2179.032	me013	No.
+Bmr024	2178.648	2179.710	me011	No. It's, uh, Swi-
+Bmr024	2179.100	2179.864	me018	Hub-five.
+Bmr024	2179.313	2180.250	mn017	This is Hub-five.
+Bmr024	2180.438	2181.061	me011	Hub-five. Yeah.
+Bmr024	2181.086	2181.425	mn017	Yeah.
+Bmr024	2182.122	2184.611	mn017	Um, and the test data is CallHome and Switchboard.
+Bmr024	2185.148	2188.715	mn017	So, uh - so then um -
+Bmr024	2188.795	2194.363	mn017	Oh, and plus the - the vocal tract length normalization didn't - actually made things worse.
+Bmr024	2194.363	2196.455	mn017	So something's really seriously wrong. So -
+Bmr024	2197.389	2198.049	mn017	Um -
+Bmr024	2198.095	2198.807	me013	Aha!
+Bmr024	2199.366	2200.462	mn017	Hhh.
+Bmr024	2200.462	2201.097	mn017	So -
+Bmr024	2200.575	2201.227	me013	O_K.
+Bmr024	2201.274	2202.074	mn017	So -
+Bmr024	2201.381	2212.469	me013	So - but you see, now, between - between the males and the females, there's certainly a much bigger difference in the scaling range, than there is, say, just within the males.
+Bmr024	2212.971	2219.138	me013	And what you were using before was scaling factors that were just from the - the m- the S_R_I front-end.
+Bmr024	2219.525	2221.331	me013	And that worked - that worked fine.
+Bmr024	2219.653	2220.313	mn017	That's true.
+Bmr024	2221.190	2221.554	mn017	Yeah.
+Bmr024	2222.143	2226.491	me013	Uh, but now you're looking over a larger range and it may not be so fine.
+Bmr024	2227.232	2228.069	mn017	Well, um -
+Bmr024	2228.149	2228.587	mn017	So -
+Bmr024	2228.806	2236.064	mn017	I just - d- so the one thing that I then tried was to put in the low-pass filter, which we have in the -
+Bmr024	2236.500	2237.855	mn017	So, most - most
+Bmr024	2238.114	2245.489	mn017	Hub-five systems actually band-limit the - uh, at about, uh, thirty-seven hundred, um, hertz.
+Bmr024	2244.205	2244.586	me013	Uh-huh.
+Bmr024	2245.489	2250.651	mn017	Although, you know, normally, I mean, the channel goes to four - four thousand. Right? So, um -
+Bmr024	2251.229	2254.474	mn017	And that actually helped, uh - uh, a little bit.
+Bmr024	2253.034	2253.421	me013	Uh-huh.
+Bmr024	2255.109	2258.449	mn017	Um and it didn't hurt on the males either. So, um -
+Bmr024	2258.897	2262.184	mn017	And I'm now, uh, trying the -
+Bmr024	2262.445	2267.204	mn017	Oh, and suddenly, also the v- the vocal tract length normalization only in the test se- on the test data.
+Bmr024	2267.969	2273.217	mn017	So, you can do vocal tract length normalization on the test data only or on both the training and the test.
+Bmr024	2269.282	2269.551	me013	Yeah.
+Bmr024	2274.004	2279.907	mn017	And you expect it to help a little bit if you do it only on the test, and s- more if you do it on both training and test.
+Bmr024	2279.468	2279.816	me013	Yeah.
+Bmr024	2280.467	2282.545	mn017	And so the -
+Bmr024	2282.900	2285.624	mn017	It now helps, if you do it only on the test, and
+Bmr024	2285.717	2293.536	mn017	I'm currently retraining another set of models where it's both in the training and the test, and then we'll - we'll have, hopefully, even better results. So -
+Bmr024	2293.690	2294.080	mn017	But there's -
+Bmr024	2294.337	2304.345	mn017	It looks like there will still be some difference, maybe between one and two percent, um, for the females. And so, um, you know, I'm open to suggestions.
+Bmr024	2300.016	2300.343	me013	Huh.
+Bmr024	2304.647	2308.123	mn017	And it is true that the, uh - that the - you know, we are using the -
+Bmr024	2304.676	2305.175	me011	Mm-hmm.
+Bmr024	2309.119	2310.837	mn017	But - it can't be just the
+Bmr024	2310.908	2319.570	mn017	V_T_L, because if you don't do V_T_L in both systems, uh, you know, the - the females are considerably worse in the - with the P_L_P features.
+Bmr024	2310.917	2311.297	me013	Uh-huh.
+Bmr024	2312.298	2313.576	me013	No - no. I - I remember that.
+Bmr024	2313.710	2314.472	me011	It's much worse.
+Bmr024	2314.565	2315.095	me011	Yeah.
+Bmr024	2319.570	2321.414	mn017	So there must be some - something else going on.
+Bmr024	2321.981	2323.074	fe016	Well, what's the standard - ?
+Bmr024	2323.447	2326.635	fe016	Yeah, so I thought the performance was actually a little better on females than males.
+Bmr024	2326.583	2327.471	me011	That's what I thought, too.
+Bmr024	2327.817	2334.170	mn017	Um, that ye- overall, yes, but on this particular development test set, they're actually a little worse.
+Bmr024	2335.149	2340.107	mn017	But that's beside the point. We're looking at the discrepancy between the S_R_I system and the
+Bmr024	2340.428	2342.579	mn017	S_R_I system when trained with ICSI features.
+Bmr024	2343.462	2351.935	fe016	Right. I'm just wondering if that - if - if you have any indication of your standard features, you know, if that's also different or in the same direction or not.
+Bmr024	2345.897	2346.855	me011	What's - Are the freq- ?
+Bmr024	2350.929	2351.103	me013	You're -
+Bmr024	2352.089	2356.729	me013	This is - lemme ask a q- more basic que- I mean, is this, uh - uh, iterative,
+Bmr024	2352.532	2353.228	fe016	Cuz -
+Bmr024	2353.739	2354.012	mn017	Mm-hmm.
+Bmr024	2356.960	2359.699	me013	Baum-Welch training? Or is it Viterbi training? Or - ?
+Bmr024	2359.436	2360.656	mn017	It's Baum-Welch training.
+Bmr024	2360.653	2361.594	me013	Baum-Welch training.
+Bmr024	2361.729	2364.494	me013	And how do you determine when to - to stop iterating?
+Bmr024	2366.117	2366.727	mn017	Um -
+Bmr024	2367.842	2373.343	mn017	Well, actually, we - we just basically do a s- a fixed number of iterations.
+Bmr024	2373.600	2374.021	me011	Hmm.
+Bmr024	2373.907	2375.272	mn017	Uh, in this case four.
+Bmr024	2376.170	2377.502	mn017	Um, which -
+Bmr024	2377.727	2381.163	mn017	Eh, we used to do only three, and then we found out we can squeeze -
+Bmr024	2381.293	2390.800	mn017	And it was basically, we're s- we're keeping it on the safe side. But you're d- Right. It might be that one more iteration would - would help, but it's sort of you know.
+Bmr024	2390.405	2393.815	me013	Or maybe - or maybe you're doing one too many. I mean it's - it's -
+Bmr024	2393.440	2398.048	mn017	No, but with <query_term> Baum-Welch </query_term>, there shouldn't be an over-fitting issue, really.
+Bmr024	2396.807	2399.552	me013	Uh. Well, there can be. Sure.
+Bmr024	2399.868	2400.431	mn017	Um.
+Bmr024	2400.189	2402.852	me011	Well, you can try each one on a <query_term> cross-validation set </query_term>, can't you?
+Bmr024	2401.123	2406.766	me013	<search> It d- if you - if you remember some years ago <query_term> Bill Byrne </query_term> did a thing where he was - he was looking at that, and he showed that you could get it. </search> So.
+Bmr024	2405.646	2406.076	mn017	Yeah.
+Bmr024	2406.978	2409.791	me013	But - but - but, um -
+Bmr024	2407.390	2408.589	mn017	Well, yeah. We can -
+Bmr024	2410.233	2414.996	mn017	Well, that's - that's the easy one to check, because we save all the intermediate models and we can -
+Bmr024	2412.376	2412.767	me013	Yeah.
+Bmr024	2412.682	2413.196	me011	Do you - ?
+Bmr024	2415.147	2427.028	me013	And in each case, ho- um, I'm sorry - in each case how do you determine, you know, the - the usual fudge factors? The, uh - the, uh, language, uh, scaling, acoustic scaling, uh, uh -
+Bmr024	2415.533	2415.704	me011	What - ?
+Bmr024	2426.307	2427.761	mn017	Um I uh -
+Bmr024	2428.347	2430.486	mn017	I'm actually re-optimizing them.
+Bmr024	2431.899	2435.176	mn017	Although that hasn't shown to make a big difference.
+Bmr024	2434.853	2440.035	me013	O_K. And the pru- the question he was asking at one point about pruning, uh -
+Bmr024	2442.855	2443.509	mn017	Pruning - ?
+Bmr024	2443.001	2443.681	me013	Remember that one?
+Bmr024	2443.920	2444.693	mn017	Pruning in the - ?
+Bmr024	2443.997	2453.787	me013	Well, he was - he's - it looked like the probabil- at one point he was looking at the probabilities he was getting out - at the likelihoods he was getting out of P_L_P versus mel cepstrum, and they looked pretty different, as I recall.
+Bmr024	2452.973	2454.693	me018	Yeah, the likelihoods were lower
+Bmr024	2454.110	2455.551	fe016	Oh.
+Bmr024	2455.260	2457.441	me013	And so, uh, there's the question -
+Bmr024	2456.974	2457.595	me018	for the P_L_P.
+Bmr024	2457.806	2460.653	mn017	I- you mean - did you see this in the S_R_I system?
+Bmr024	2461.118	2461.499	me018	Mm-hmm.
+Bmr024	2461.553	2462.087	mn017	Um.
+Bmr024	2461.665	2463.943	me018	Was just looking through the log files, and -
+Bmr024	2463.127	2464.803	mn017	Well, the likelihoods are -
+Bmr024	2465.106	2470.889	mn017	You can't directly compare them, because, for every set of models you compute a new normalization.
+Bmr024	2471.770	2479.236	mn017	And so these log probabilities, they aren't directly comparable because you have a different normalization constants for each model you train. So -
+Bmr024	2475.304	2476.069	me018	Oh.
+Bmr024	2479.194	2479.668	me018	Hmm.
+Bmr024	2479.351	2483.925	me013	But, still it's a question - if you have some threshold somewhere in terms of beam search or something, or - ?
+Bmr024	2483.294	2485.064	me018	Well, yeah. That's what I was wondering.
+Bmr024	2484.189	2485.272	mn017	W- yeah. I mean -
+Bmr024	2486.442	2487.390	mn017	Uh -
+Bmr024	2487.366	2492.400	me018	I mean, if you have one threshold that works well because the range of your likelihoods is in this area -
+Bmr024	2491.766	2500.554	mn017	We prune very conservatively. I mean, as we saw with the meeting data, um we could probably tighten the pruning without really -
+Bmr024	2500.770	2503.139	mn017	So we- we basically we have a very open beam.
+Bmr024	2502.997	2508.585	me013	But, you're only talking about a percent or two. Right? Here we're- we're saying that we- there - gee, there's this b- eh, there's this difference here.
+Bmr024	2503.527	2503.813	me018	Yeah.
+Bmr024	2509.127	2509.638	me013	And it -
+Bmr024	2509.939	2531.015	me013	See cuz, i- i- there could be lots of things. Right? But - but - but - but, um, let's suppose just for a second that, uh, we've sort of taken out a lot of the - the major differences, uh, between the two. I mean, we're already sort of using the mel scale and we're using the same style filter integration, and and, well, we're making sure that low and high -
+Bmr024	2512.106	2512.530	mn017	Right.
+Bmr024	2512.805	2513.137	mn017	Course.
+Bmr024	2520.690	2521.008	mn017	Mm-hmm.
+Bmr024	2522.287	2522.624	mn017	Right.
+Bmr024	2529.370	2538.290	mn017	Actually, there is - the difference in that. So, for the P_L_P features we use the triangular filter shapes. And for the - in the S_R_I front-end we use the trapezoidal one.
+Bmr024	2538.535	2540.151	me011	And what's the top frequency of each?
+Bmr024	2540.884	2541.907	mn017	Well, now it's the same.
+Bmr024	2542.066	2544.565	mn017	It's thirty - thirty to seven hundred and sixty hertz.
+Bmr024	2543.589	2546.441	me011	Yeah. Exp- one's triangular, one's trapezoidal. So -
+Bmr024	2546.328	2546.866	mn017	No, no. But -
+Bmr024	2547.224	2552.730	me013	Before we - i- i- th- with straight P_L_P, it's trapezoidal also. But then we had a slight difference in the - in the scale.
+Bmr024	2547.270	2547.689	mn017	Well -
+Bmr024	2548.195	2548.498	mn017	But -
+Bmr024	2553.481	2554.533	me013	Uh, so.
+Bmr024	2555.114	2560.878	mn017	Since currently the Feacalc program doesn't allow me to change the filter shape independently of the scale.
+Bmr024	2560.919	2561.323	me011	Uh-huh.
+Bmr024	2561.701	2562.133	mn017	And,
+Bmr024	2562.234	2568.357	mn017	I did the experiment on the S_R_I front-end where I tried the - y- where the standard used to be to use trapezoidal filters.
+Bmr024	2568.976	2571.879	mn017	You can actually continuously vary it between the two. And so I wen-
+Bmr024	2572.255	2574.811	mn017	I swi- I tried the trap- eh, triangular ones.
+Bmr024	2575.274	2577.881	mn017	And it did slightly worse, but it's really a small difference.
+Bmr024	2576.440	2576.783	me011	Hmm.
+Bmr024	2577.881	2578.271	mn017	So -
+Bmr024	2578.043	2578.291	me013	Coup-
+Bmr024	2578.366	2580.017	me013	Couple tenths of a percent or something. Right.
+Bmr024	2579.030	2582.554	me011	O_K. So it's not just losing some frequency range.
+Bmr024	2579.167	2585.470	mn017	Yeah, exactly. So, it's not - I don't think the filter shape by itself will make a huge difference.
+Bmr024	2583.236	2583.567	me013	Yeah.
+Bmr024	2584.806	2588.312	me013	Right. So the oth- the other thing that - So, f- i-
+Bmr024	2585.139	2585.404	me011	Yeah.
+Bmr024	2588.790	2596.012	me013	We've always viewed it, anyway, as the major difference between the two, is actually in the smoothing, that the - that the, um,
+Bmr024	2594.164	2594.540	mn017	Mm-hmm.
+Bmr024	2596.493	2602.555	me013	P_L_P, and - and the reason P_L_P has been advantageous in, uh, slightly noisy situations is because,
+Bmr024	2601.081	2601.414	mn017	Mm-hmm.
+Bmr024	2603.022	2610.996	me013	P_L_P does the smoothing at the end by an auto-regressive model, and mel cepstrum does it by just computing the lower cepstral coefficients.
+Bmr024	2611.097	2611.458	mn017	Mm-hmm.
+Bmr024	2611.804	2612.486	me013	Um.
+Bmr024	2612.782	2614.350	me013	So, um -
+Bmr024	2614.362	2620.865	mn017	O_K. So one thing I haven't done yet is to actually do all of this with a much larger - with our full training set.
+Bmr024	2621.674	2623.209	mn017	So right now, we're using a -
+Bmr024	2624.390	2625.604	mn017	I don't know, forty?
+Bmr024	2628.724	2662.935	mn017	I- i- it's - it's - eh it's a f- training set that's about, um, you know, by a factor of four smaller than what we use when we train the full system. So, some of these smoothing issues are over-fitting for that matter. And the Baum-Welch should be much less of a factor, if you go full - whole hog. And so, w- so, just um - so the strategy is to first sort of treat things with fast turn-around on a smaller training set and then, when you've sort of, narrowed it down, you try it on a larger training set. And so, we haven't done that yet.
+Bmr024	2639.220	2639.697	me013	Mm-hmm.
+Bmr024	2642.537	2642.955	me013	Mm-hmm.
+Bmr024	2647.876	2648.554	me013	Could be. Yeah.
+Bmr024	2660.573	2660.947	me013	Yeah.
+Bmr024	2663.172	2668.709	me013	Now the other que- related question, though, is - is, uh, what's the boot models for these things?
+Bmr024	2669.033	2672.898	mn017	Th- th- the boot models are trained from scratch. So we compute, um -
+Bmr024	2674.078	2683.117	mn017	So, we start with a, um, alil- alignment that we computed with the b- sort of the best system we have.
+Bmr024	2683.862	2688.854	mn017	And - and then we train from scratch. So we com- we do a, you know, w- um -
+Bmr024	2689.840	2699.066	mn017	We collect the - uh, the observations from those alignments under each of the feature sets that - that we train.
+Bmr024	2699.978	2702.456	mn017	And then, from there we do, um -
+Bmr024	2702.521	2703.496	mn017	There's a lot of, actually -
+Bmr024	2703.821	2707.240	mn017	The way it works, you first train a phonetically-tied mixture model.
+Bmr024	2707.930	2708.476	mn017	Um.
+Bmr024	2708.723	2709.905	mn017	You do a total of -
+Bmr024	2709.983	2711.842	mn017	First you do a context-independent
+Bmr024	2711.997	2714.298	mn017	P_T_M model. Then you switch to a context -
+Bmr024	2714.298	2715.624	mn017	You do two iterations of that.
+Bmr024	2716.043	2720.515	mn017	Then you do two iterations of - of - of context- dependent phonetically-tied mixtures.
+Bmr024	2721.100	2732.851	mn017	And then from that you - you do the - you - you go to a state-clustered model, and you do four iterations of that. So there's a lot of iterations overall between your original boot models and the final models. I don't think that -
+Bmr024	2725.471	2725.912	me013	Yeah.
+Bmr024	2733.628	2734.112	mn017	Hmm.
+Bmr024	2734.593	2737.818	mn017	We have never seen big differences. Once I thought "oh, I can -
+Bmr024	2738.442	2743.238	mn017	Now I have these much better models. I'll re-generate my initial alignments. Then I'll get much better models at the end."
+Bmr024	2743.407	2744.967	mn017	Made no difference whatsoever. It's -
+Bmr024	2745.351	2745.844	me013	Right.
+Bmr024	2745.500	2747.904	mn017	I think it's - eh, i- the boot models are recur-
+Bmr024	2746.870	2761.248	me013	Well, mis- for making things better. Yeah. But, this for making things worse. This it migh- Th- the thought is - is - is possible - another possible partial cause is if the boot models used a comple- used a different feature set, that -
+Bmr024	2753.441	2753.817	mn017	Mm-hmm.
+Bmr024	2759.017	2759.433	mn017	Mm-hmm.
+Bmr024	2760.265	2761.840	mn017	But there are no boot models, in fact.
+Bmr024	2762.113	2765.311	mn017	You - you're not booting from initial models. You're booting from initial alignments.
+Bmr024	2765.232	2767.034	me013	Which you got from a different feature set.
+Bmr024	2768.093	2768.882	mn017	That's correct.
+Bmr024	2768.845	2771.335	me013	So, those features look at the data differently, actually.
+Bmr024	2769.090	2769.636	mn017	Yeah, but -
+Bmr024	2771.993	2777.504	me013	I mean, you know, they - they will find boundaries a little differently, though - You know, all th- all that sort of thing is actually slightly different.
+Bmr024	2778.659	2780.487	me013	I'd expect it to be a minor effect, but -
+Bmr024	2779.070	2780.821	mn017	But - but - but, what I'm - what I'm saying is -
+Bmr024	2781.146	2784.605	mn017	So, we e- w- f- w-
+Bmr024	2784.605	2797.823	mn017	For a long time we had used boot alignments that had been trained with a - with the same front-end but with acoustic models that were, like, fifteen percent worse than what we use now.
+Bmr024	2797.030	2797.488	me013	Mm-hmm.
+Bmr024	2798.486	2804.951	mn017	And with a dict- different dictionary - with a considerably different dictionary, which was much less detailed and much less well-suited.
+Bmr024	2802.091	2802.589	me013	Mm-hmm.
+Bmr024	2804.302	2804.701	me013	Yeah.
+Bmr024	2805.523	2813.385	mn017	And so, then we switched to new boot alignments, which - which now had the benefit of all these improvements that we've made over two years in the system.
+Bmr024	2813.602	2813.946	me013	Right.
+Bmr024	2814.251	2816.878	mn017	And, the result in the end was no different.
+Bmr024	2817.333	2817.652	me013	Right.
+Bmr024	2817.344	2823.999	mn017	So, what I'm saying is, the exact nature of these boot alignments is probably not a big factor in the quality of the final models.
+Bmr024	2825.382	2826.083	me013	Yeah, maybe not.
+Bmr024	2826.243	2845.150	me013	But it - it - I st- still see it as - I mean, there's - there's a history to this, too, but I - uh, I don't wanna go into, but - but I - I - I th- I think it could be the things that it - the data is being viewed in a certain way, uh, that a beginning is here rather than there and so forth, because the actual signal-processing you're doing is slightly different.
+Bmr024	2826.287	2826.638	mn017	Yeah.
+Bmr024	2831.084	2831.448	mn017	Mm-hmm.
+Bmr024	2832.410	2832.683	mn017	Yeah.
+Bmr024	2838.805	2839.104	mn017	Right.
+Bmr024	2844.239	2844.538	mn017	Right.
+Bmr024	2845.252	2847.525	me013	But, it's - it's - that's probably not it.
+Bmr024	2845.760	2846.033	mn017	Yeah.
+Bmr024	2847.277	2858.500	mn017	Anyway, I - I - I should really reserve, uh, any conclusions until we've done it on the large training set, um, and until we've seen the results with the - with the V_T_L in training.
+Bmr024	2858.641	2859.057	mn017	So.
+Bmr024	2858.791	2871.879	me013	Yeah. At some point you also might wanna take the same thing and try it on, uh, some Broadcast News data or something else that actually has - has some noisy - noisy components, so we can see if any conclusions we come to holds across different data.
+Bmr024	2859.902	2860.239	mn017	Yeah.
+Bmr024	2870.734	2871.020	mn017	Right.
+Bmr024	2873.689	2875.420	me013	Uh -
+Bmr024	2873.962	2876.492	mn017	And, uh, with this, I have to leave.
+Bmr024	2876.027	2876.613	me001	Hmm!
+Bmr024	2876.159	2876.522	me013	O_K.
+Bmr024	2876.492	2877.428	mn017	With this said.
+Bmr024	2876.522	2879.140	me013	So, is there something quick about Absinthe that you - ?
+Bmr024	2878.620	2892.396	me011	Uh. Just what we were talking about before, which is that I ported a Blass library to Absinthe, and then got - got it working with fast-forward, and got a speedup roughly proportional to the number of processors times the clock cycle. So, that's pretty good.
+Bmr024	2886.267	2886.572	mn017	Oh.
+Bmr024	2891.649	2892.038	mn017	Oh!
+Bmr024	2892.350	2892.648	mn017	Cool.
+Bmr024	2892.912	2897.991	me011	Um, I'm in the process of doing it for Quicknet, but there's something going wrong and it's about half the speed that
+Bmr024	2898.100	2900.405	me011	I was estimating it should be, and I'm not sure why.
+Bmr024	2899.499	2899.915	mn017	Mm-hmm.
+Bmr024	2900.826	2907.302	me011	But I'll keep working on it. But the - what it means is that it's likely that for net training and forward passes, we'll -
+Bmr024	2907.380	2908.720	me011	Absinthe will be a good machine.
+Bmr024	2909.218	2912.147	me011	Especially if we get a few more processors and upgrade the processors.
+Bmr024	2912.793	2914.958	mn017	A few more processors? How many are you shooting for?
+Bmr024	2914.545	2916.181	me011	There're five now. It can hold eight.
+Bmr024	2916.462	2917.011	mn017	Oh, O_K.
+Bmr024	2917.253	2918.754	me013	Yeah, we'll just go buy them, I guess .
+Bmr024	2918.106	2920.722	me011	And it's also five-fifty megahertz and you can get a gigahertz.
+Bmr024	2918.405	2918.724	mn017	Yeah.
+Bmr024	2920.881	2921.539	me011	So.
+Bmr024	2921.612	2924.382	mn017	Can you mix t- uh, processors of different speed?
+Bmr024	2923.611	2925.782	me011	I don't think so. I think we'd have to do all -
+Bmr024	2924.721	2925.179	mn017	O_K.
+Bmr024	2925.650	2926.922	me013	Probably just throw away the old ones, and -
+Bmr024	2926.611	2926.930	me011	Yep.
+Bmr024	2928.192	2929.685	me013	Thank you for the box, and -
+Bmr024	2929.409	2930.106	mn017	Oh, O_K.
+Bmr024	2929.685	2932.306	me013	I'll just go buy their process.
+Bmr024	2930.402	2930.692	me001	Hmm!
+Bmr024	2931.341	2933.513	mn017	Maybe we can stick them in another system. I dunno.
+Bmr024	2934.202	2937.744	me011	We'd have to get a - almost certainly have to get a, uh, Netfinity server.
+Bmr024	2937.837	2938.375	mn017	I see.
+Bmr024	2938.401	2940.334	me011	They're pretty - pretty specialized.
+Bmr024	2940.562	2941.090	me013	Yeah.
+Bmr024	2941.742	2942.160	mn017	O_K.
+Bmr024	2942.182	2942.586	me013	O_K.
+Bmr024	2943.021	2944.668	me013	<find_calendar_entry> Is - is <contact_name> Liz </contact_name> <title> coming back </title>, do you know, or - </find_calendar_entry>?
+Bmr024	2944.795	2945.508	mn017	I don't know.
+Bmr024	2944.926	2945.297	me013	I dunno.
+Bmr024	2945.458	2946.638	me013	Yeah. Oh, you don't. O_K.
+Bmr024	2947.964	2949.632	mn017	Uh, I - I will.
+Bmr024	2947.994	2948.316	me013	Alright.
+Bmr024	2949.927	2951.977	mn017	I - I actually have to run this stuff.
+Bmr024	2952.238	2952.529	me013	Alright.
+Bmr024	2952.876	2953.417	mn017	O_K.
+Bmr024	2953.545	2953.900	me013	See you.
+Bmr024	2955.955	2956.351	me013	Um.
+Bmr024	2958.586	2959.773	me013	Alright. So -
+Bmr024	2960.838	2965.388	me013	Uh, they're having tea out there. So I guess the other thing that we were gonna talk about is - is, uh, demo.
+Bmr024	2966.212	2974.055	me013	<find_calendar_entry> And, um, so, these are the demos for the uh, <start_date> July </start_date>, uh, <entry_type> meeting </entry_type> and, um - </find_calendar_entry>
+Bmr024	2974.410	2975.024	me011	<start_date> July </start_date> what?
+Bmr024	2976.832	2977.445	me013	<title> DARPA </title> mee-
+Bmr024	2976.895	2978.110	me011	<start_date> Early July </start_date>? <start_date> Late July </start_date>?
+Bmr024	2979.114	2981.599	me013	Oh, I think it's <start_date> July fifteenth </start_date>. Is that it?
+Bmr024	2979.910	2981.358	fe008	<start_date> Sixteen to eighteen </start_date>, I think.
+Bmr024	2981.599	2982.874	me013	Yeah, <start_date> sixteenth, eighteenth </start_date>.
+Bmr024	2981.900	2982.336	fe008	Roughly.
+Bmr024	2983.713	2990.601	me013	Yeah. So, we talked about getting something together for that, but maybe, uh - maybe we'll just put that off for now, given that -
+Bmr024	2991.554	2993.813	me013	But I think maybe we should have a - a sub-meeting,
+Bmr024	2993.813	2996.652	me013	I think, uh, probably, uh,
+Bmr024	2996.797	3002.376	me013	<create_calendar_entry> <contact_name> Adam </contact_name> and - and, uh, <contact_name> Chuck </contact_name> and <contact_name> me </contact_name> should talk about - should get together and talk about <title> that </title> <start_date> sometime soon </start_date> </create_calendar_entry>.
+Bmr024	3002.168	3003.365	me011	Over a cappuccino <start_date> tomorrow </start_date>?
+Bmr024	3003.441	3010.362	me013	Yeah something like that. Um, uh, you know, maybe - maybe we'll involve <contact_name> Dan Ellis </contact_name> at some - some level as well.
+Bmr024	3009.162	3009.523	me011	Mm-hmm.
+Bmr024	3011.572	3012.062	me013	Um.
+Bmr024	3012.821	3019.998	me013	O_K. The - the tea is - is going, so, uh, I suggest we do, uh - uh, a unison.
+Bmr024	3020.142	3021.266	me011	A unison digits?
+Bmr024	3021.263	3021.642	fe008	O_K.
+Bmr024	3021.384	3021.733	me013	Yeah.
+Bmr024	3021.784	3025.311	me011	Which is gonna be a little hard for a couple people because we have different digits forms.
+Bmr024	3022.104	3022.717	me013	Gets our -
+Bmr024	3024.918	3027.427	mn014	Oops.
+Bmr024	3025.510	3025.968	me011	We have a -
+Bmr024	3026.905	3028.678	me011	I found a couple of old ones.
+Bmr024	3028.660	3028.923	me001	Hmm.
+Bmr024	3028.963	3029.350	me013	Oh.
+Bmr024	3029.560	3032.069	me013	Well, that'll be interesting. So, uh -
+Bmr024	3031.864	3033.079	me011	Have you done digits before?
+Bmr024	3033.034	3033.421	me013	No.
+Bmr024	3033.898	3034.535	me051	I haven't done it.
+Bmr024	3034.710	3040.909	me011	O_K. So, uh, the idea is just to read each line with a short pause between lines, not between -
+Bmr024	3039.303	3039.699	me051	Alright.
+Bmr024	3041.526	3046.064	me011	And, uh, since we're in a hurry, we were just gonna read everyone all at once. So, if you sorta plug your ears and read -
+Bmr024	3046.169	3046.468	me051	O_K.
+Bmr024	3046.375	3049.818	me011	So first read the transcript number, and then start reading the digits.
+Bmr024	3050.007	3050.451	me051	Sure.
+Bmr024	3050.587	3051.113	me011	O_K?
+Bmr024	3052.130	3053.696	me011	One, two, three.
+Bmr024	3054.277	3055.351	me011	L_ one fifty.
+Bmr024	3054.290	3056.127	fe008	Transcript L_ one four nine.
+Bmr024	3054.547	3056.827	me001	Transcript L_ dash one four seven.
+Bmr024	3054.580	3057.790	me018	Transcript one four three one dash one four five zero.
+Bmr024	3054.677	3056.904	mn014	Transcript L_ one forty eight.
+Bmr024	3054.828	3061.132	me013	Transcript two two five one dash two two seven zero. nine seven one
+Bmr024	3055.080	3059.902	me051	Two one nine one, dash two two one zero.
+Bmr024	3056.150	3060.221	me011	Two, four six nine, four eight, eight two eight, two.
+Bmr024	3056.847	3063.891	fe008	One eight four one, seven seven zero zero, seven zero s- two seven. Seven zero two seven.
+Bmr024	3057.012	3060.870	mn014	One three one, three seven four, nine three nine three.
+Bmr024	3057.481	3062.065	me001	Two one, five four, eight five, six two, five six.
+Bmr024	3058.572	3059.602	me018	Eight three one.
+Bmr024	3060.152	3061.234	me018	Nine six four.
+Bmr024	3060.653	3063.555	me011	Three O_ four, two eight t- O_, O_ seven one.
+Bmr024	3061.361	3071.574	mn014	Zero, six six four, two four, three nine seven, eight. one nine five three, five two zero nine, four seven nine one
+Bmr024	3061.382	3093.458	me013	O_ zero one zero two nine seven nine nine three one two eight seven four four. four six six five three six eight seven seven O_ five two eight nine zero zero three one two two seven one three eight O_ five five O_ three four five six O_ nine O_ eight two four O_ one seven eight nine two O_ four six.
+Bmr024	3061.580	3062.081	me018	O_.
+Bmr024	3062.662	3064.053	me018	Zero nine nine zero.
+Bmr024	3062.697	3066.467	me001	One eight, three nine, seven, six three four.
+Bmr024	3062.762	3063.958	me051	Six.
+Bmr024	3064.126	3065.268	me051	Eight one nine.
+Bmr024	3064.191	3067.377	me011	One three seven one, O_, five one two.
+Bmr024	3064.338	3065.750	fe008	Six five one - Lemme do that again.
+Bmr024	3064.585	3065.347	me018	One zero.
+Bmr024	3065.718	3066.159	me018	Two.
+Bmr024	3065.860	3067.085	me051	Nine three zero.
+Bmr024	3066.003	3070.387	fe008	One eight four one, seven seven zero zero, seven zero two seven.
+Bmr024	3066.539	3067.703	me018	Four one two.
+Bmr024	3066.912	3070.758	me001	Six eight eight eight, nine, seven eight zero.
+Bmr024	3067.849	3071.255	me011	Eight five six, three one nine, eight eight seven.
+Bmr024	3068.262	3069.745	me018	Five three one nine four.
+Bmr024	3068.300	3070.583	me051	O_ six two one four.
+Bmr024	3070.306	3071.375	me018	Six six four.
+Bmr024	3070.915	3073.983	fe008	Six five one, seven three, six two six zero.
+Bmr024	3071.179	3075.065	me001	Zero five five, one four nine, nine five five three.
+Bmr024	3071.404	3074.671	me051	Zero nine five one two zero eight.
+Bmr024	3071.628	3072.901	me018	Seven five.
+Bmr024	3071.716	3074.930	me011	Two O_ five, seven two four, nine one six.
+Bmr024	3072.407	3077.098	mn014	Nine, eight eight zero, three one, nine one one, eight.
+Bmr024	3072.990	3073.529	me018	Eight.
+Bmr024	3073.791	3074.935	me018	Nine O_ O_.
+Bmr024	3074.568	3077.288	fe008	Three three eight nine, seven, four three one.
+Bmr024	3075.296	3079.991	me011	Zero, eight eight two, one six, eight six seven, one.
+Bmr024	3075.474	3077.615	me018	O_ O_ nine nine eight eight eight.
+Bmr024	3075.479	3079.352	me001	Five two nine eight, eight eight four five, five six two four.
+Bmr024	3075.568	3076.147	me051	One.
+Bmr024	3076.783	3077.388	me051	Two.
+Bmr024	3077.574	3080.712	mn014	Eight five eight two, seven, five three two.
+Bmr024	3077.899	3079.000	me051	Three O_ O_.
+Bmr024	3077.968	3081.702	fe008	One five three one, one seven one five, three zero five two.
+Bmr024	3078.168	3079.140	me018	One four.
+Bmr024	3079.590	3081.874	me018	Two six six one three eight nine.
+Bmr024	3079.664	3083.598	me001	Five zero nine one, nine five three four, two six five six.
+Bmr024	3079.830	3082.936	me051	Five one zero six one zero one.
+Bmr024	3080.979	3084.478	me011	Nine one, eight four, three six, nine eight, seven two.
+Bmr024	3081.352	3085.937	mn014	Three two three eight, seven five four five, seven seven zero zero.
+Bmr024	3082.160	3085.550	fe008	Nine nine three, five eight three, six seven three.
+Bmr024	3082.635	3085.770	me018	Three five four four zero six zero.
+Bmr024	3083.753	3085.310	me051	Six five three three.
+Bmr024	3084.078	3087.097	me001	Two one two, four five nine, three two five.
+Bmr024	3085.478	3090.181	me011	Seven, two six two, one two, six five nine, eight.
+Bmr024	3086.077	3088.917	fe008	Eight zero, five six, zero, eight one eight.
+Bmr024	3086.104	3087.488	me051	Seven seven.
+Bmr024	3086.475	3087.267	me018	Four eight.
+Bmr024	3086.665	3091.396	mn014	Five, nine four one, six one, nine five six, seven.
+Bmr024	3087.528	3088.183	me018	Five.
+Bmr024	3087.594	3091.568	me001	Seven three three, seven five, nine zero four one.
+Bmr024	3088.166	3088.901	me051	Eight.
+Bmr024	3088.369	3088.967	me018	Six.
+Bmr024	3089.471	3090.997	me018	Seven O_ nine six nine.
+Bmr024	3089.570	3092.074	fe008	Six nine eight, four two, two nine zero zero.
+Bmr024	3089.708	3090.476	me051	Nine.
+Bmr024	3091.125	3091.965	me051	O_.
+Bmr024	3092.133	3095.254	mn014	Four four eight, six seven one, four five six.
+Bmr024	3092.432	3095.616	fe008	Eight zero, three two, three seven, seven six, zero one.
+Bmr024	3092.939	3093.680	me051	Zero.
+Bmr024	3094.553	3096.266	me051	Two two five eight.
+Bmr024	3096.951	3097.798	me051	Three one.
+Bmr024	3098.492	3100.007	me051	Four four six nine.
+Bmr024	3100.598	3101.333	me051	Five.
+Bmr024	3102.018	3102.814	me051	Six.
+Bmr024	3104.089	3105.591	me013	O_K we're done.
+Bmr024	3107.381	3108.587	me011	And -

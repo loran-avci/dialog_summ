@@ -1,0 +1,1017 @@
+Bmr022	0.269	1.330	me018	Is it on?
+Bmr022	0.449	1.537	me011	O_K, here we go.
+Bmr022	3.755	8.237	me013	Uh, so - uh, so I c- I definitely have to leave at three-thirty today for whatever. That's -
+Bmr022	4.199	4.719	me011	So -
+Bmr022	7.694	10.181	me011	Definitely have to go to tea. So -
+Bmr022	9.593	12.893	me013	Yeah, they're - they're having birthday cake and such and so I can't miss that.
+Bmr022	10.181	11.200	me011	That too, but -
+Bmr022	11.930	13.202	fe016	You're a May birthday, right?
+Bmr022	12.893	14.573	me013	I'm a May birthday, yeah, so I have to -
+Bmr022	14.132	15.288	mn014	Oops.
+Bmr022	14.600	16.194	fe016	Barbara told me. Barbara Peskin.
+Bmr022	15.376	16.999	me013	Yeah.
+Bmr022	18.710	20.082	me011	Um -
+Bmr022	20.600	35.783	me011	<open_agenda> So, only a couple of agenda items, since no one sent me email for agenda items. Uh, the first is <agenda_item> the I_B_M transcripts </agenda_item> </open_agenda>. I'd like to uh, mention - I s- I spoke with several of you about this, but just to brainstorm a little bit about what we can do with it.
+Bmr022	35.511	36.335	fe008	Mm-hmm.
+Bmr022	36.093	49.280	me011	So we got back the I_B_M transcript, and the accuracy looks O_K. There are - I mean, there are areas which are clearly wrong and there are a lot of areas where they put question marks, where the acoustics weren't very good. And I think that's fine. Putting it in question marks is better than doing it wrong.
+Bmr022	49.380	52.468	me011	The big problem was, they had the wrong number of beeps in it.
+Bmr022	52.610	53.308	mn014	Oops.
+Bmr022	52.870	54.625	me011	So it didn't align.
+Bmr022	55.010	56.779	me011	And that's exactly what I was afraid of.
+Bmr022	57.260	72.675	me011	And I went in, and more or less by hand, corrected it, by loading it - I wrote a script that will convert it to the multi- the Channeltrans format, looked at it in - in Channeltrans and found the places where it got a- unsynchronized, and then either -
+Bmr022	71.628	72.286	fe008	Hmm.
+Bmr022	72.972	73.936	mn014	Inserted ones.
+Bmr022	73.140	93.817	me011	And in this case only - only had to remove beeps, because that was th- always the error, is that they put in it extraneous beeps. But it's not easy to do, because the whole thing gets offset, and basically, it's assigning the wrong speaker to the text, and it all gets unaligned. So it's very difficult to do. So it took me several hours just to do that.
+Bmr022	79.271	79.928	fe008	Hmm.
+Bmr022	88.972	89.524	fe008	Hmm.
+Bmr022	92.100	96.711	me013	So this is - this is one - it's one hour of - of - of speech?
+Bmr022	93.161	94.211	mn014	For one meeting.
+Bmr022	95.604	96.141	me011	Yep.
+Bmr022	96.711	99.026	me013	And it took you a few hours to - to do it.
+Bmr022	98.580	110.576	me011	It took me a couple hours to write the scripts, and then it - it probably took me maybe forty-five minutes, just going through it. Now obviously it will be a lot faster from now on, because now I sort of understand how it works.
+Bmr022	111.120	123.535	me011	But, I think if we had some way - uh some tool that made it easier to insert and delete beeps it would make it a lot easier. Cuz one of the problems is that it takes a very long time when you make a change to load it back up in the channel transcriber.
+Bmr022	123.026	123.678	mn014	Yep.
+Bmr022	123.869	125.670	fe008	Yeah, that's true. I've noticed that. Yeah.
+Bmr022	125.880	136.038	me018	<create_single_reminder> One of the things that <from_contact_name> Adam </from_contact_name> said that I thought would be a good idea would be, um, if we g- <reminder_text> used different beeps </reminder_text> </create_single_reminder>. So for example if we alternated between two beeps, a high and a low. th-
+Bmr022	125.890	126.856	me011	And so there may be -
+Bmr022	126.046	127.380	fe008	Which makes sense.
+Bmr022	135.135	136.008	me013	He said that?
+Bmr022	136.620	138.895	me018	<find_email> Uh, well in - in some email that, uh, <contact_name> we </contact_name> had </find_email>.
+Bmr022	136.640	138.210	fe008	Oh, on the email.
+Bmr022	136.700	137.674	mn014	For -
+Bmr022	138.120	138.950	me013	Oh, oh, O_K.
+Bmr022	138.763	139.323	fe008	Yeah.
+Bmr022	138.950	141.136	me011	I didn't just say that, no.
+Bmr022	139.950	141.924	me018	Yeah. Um - Because then -
+Bmr022	141.136	147.848	me011	So th- so this is the o- the other approach which is, what do we do in the future, to try to make this less common? But it's still gonna happen.
+Bmr022	143.117	143.833	me018	Yeah.
+Bmr022	148.680	154.601	fe008	Well, and then the other possibility was - e- that we provide them with a - a file that already has the beeps in it or something. Wasn't that what you said?
+Bmr022	149.370	149.793	me011	So -
+Bmr022	150.900	151.395	me013	Hunh.
+Bmr022	153.900	157.767	me018	Sort of a text template, but I don't know how we can do that.
+Bmr022	155.340	155.884	fe008	Uh-huh.
+Bmr022	156.513	163.678	me011	Yeah, we don't know what their process is. So I had two ideas. <create_single_reminder> The first was to <reminder_text> provide them a text template that had both the beeps in it and the speaker I_Ds </reminder_text> </create_single_reminder>.
+Bmr022	161.020	161.691	fe008	Yeah.
+Bmr022	164.220	167.419	me011	You know, just "male-female", "English-nonEnglish", "one two three four".
+Bmr022	168.190	168.726	me011	Um -
+Bmr022	168.849	169.893	me013	Can I - I - I just -
+Bmr022	169.460	170.680	me011	And they just filled it in.
+Bmr022	171.079	176.053	me013	How- how many - how many beeps are there, and how many do we- were they - d- were - were off?
+Bmr022	176.430	182.203	me011	It was like a hundred twenty, and they had a hundred twenty-three or something like that. Is that right?
+Bmr022	181.390	181.857	me013	Alright.
+Bmr022	181.980	183.418	me018	Well, l- I- I thought it was a lot more than that.
+Bmr022	182.196	182.755	me013	And is it a -
+Bmr022	183.489	184.733	me011	Well I - I don't remember.
+Bmr022	184.940	186.911	me018	They were three off, basically.
+Bmr022	186.330	188.313	me013	Yeah, and it was a hundred-ish.
+Bmr022	186.730	188.815	fe016	And this is the mixed signal?
+Bmr022	187.130	188.221	fe008	Oh!
+Bmr022	188.221	189.030	fe008	Hmm.
+Bmr022	188.313	193.367	me013	So - so if you get one - uh, uh, excuse me. If you get one off, it - t- everything is off cuz of the alignment right?
+Bmr022	193.440	193.897	me011	Yep.
+Bmr022	193.834	194.503	mn014	Yep.
+Bmr022	194.241	197.150	me013	Uh, and this is all in one file that's continuous.
+Bmr022	196.589	197.081	me011	Yep.
+Bmr022	196.630	197.029	me018	Yeah.
+Bmr022	197.370	198.738	me013	So why don't you make it multiple files?
+Bmr022	199.040	199.978	me011	How would that help?
+Bmr022	200.370	203.647	me013	Because then if they have one off, then - then it would only screw up that file.
+Bmr022	203.990	207.928	me011	Oh, you mean just break the one hour into a few chunks.
+Bmr022	206.579	207.214	me013	Yeah.
+Bmr022	207.590	210.371	me013	I mean, it seems now, if you just ha- make one mistake then everything is off.
+Bmr022	210.850	216.008	me018	Well the only - the only question about that that I have is, um, I think Brian has to put all this stuff onto a tape.
+Bmr022	216.008	217.321	me018	So I don't know whether -
+Bmr022	216.105	216.580	me013	Yeah.
+Bmr022	218.624	220.920	me011	I'm sure they would prefer it sort of one hour.
+Bmr022	218.850	223.046	me018	Can he send them - I guess he could send them multiple tapes
+Bmr022	222.039	222.568	fe008	Oh!
+Bmr022	223.600	224.468	me018	Uh -
+Bmr022	224.490	235.861	me013	Yeah, just say, "O_K, is -" ten minutes is -" I mean, maybe there's other things to do that are more clever, but this just seemed to be the sort of the obvious thing because, again, if you make one mistake, then everything after that mistake is off.
+Bmr022	233.862	234.380	me018	Mm-hmm.
+Bmr022	236.476	238.007	me013	And, uh -
+Bmr022	237.740	241.794	me018	Well, the only other issue is we'd have to worry about reassembling them in the proper order.
+Bmr022	241.794	242.694	me018	Uh -
+Bmr022	242.496	243.115	me013	Yeah.
+Bmr022	243.460	245.707	me011	That - I mean, just naming schemes will get -
+Bmr022	247.040	252.491	me011	We can definitely do that. So t- so one question is, are there good places in the files where we can really do that?
+Bmr022	253.141	255.397	fe016	Well, the other thing - You can -
+Bmr022	253.970	258.142	me011	I mean, so - so - so someone will have to go through them and listen to them and pick a place to break them.
+Bmr022	256.581	257.182	mn014	Yeah.
+Bmr022	259.960	270.771	fe016	The other thing you can do- This is on the mixed signal, or are these the individual - the ones with the beeps that they're getting, that they made mistakes on is the mixed one?
+Bmr022	269.235	272.975	me011	They are played from the individual.
+Bmr022	271.680	272.723	me018	Individual channels.
+Bmr022	271.818	273.072	mn014	Individual channels.
+Bmr022	272.220	285.410	fe016	Or they're indivi- If it's individual, um - y- c- we can - probably run a forced alignment, where you c- include the beeps as words and pretty much figure out where the errors are.
+Bmr022	285.756	288.057	fe016	I don't think we could do it on the mixed signal, cuz it -
+Bmr022	288.530	294.130	fe016	But on the individual channels that would probably work, if they have enough words in the transcript.
+Bmr022	294.130	296.320	me018	Yeah, we - In fact, that's - Yeah, maybe we -
+Bmr022	294.780	299.040	fe016	So, I mean, that's pretty quick to run. It - it's, um -
+Bmr022	300.130	300.961	fe016	I mean, we could try it.
+Bmr022	300.961	304.902	fe016	Cuz if a beep is treated as a unique word, "beep" -
+Bmr022	302.589	306.210	me011	You mean, so, actually put - put the wavefile in with beep in it.
+Bmr022	306.538	308.692	fe016	Put in - put "beep" in as a word.
+Bmr022	306.820	308.808	me011	And pu- and have a beep model.
+Bmr022	308.970	311.550	me018	We have the original wavefile with all the beeps.
+Bmr022	308.988	314.262	fe016	Yeah. Yeah. Well - the beep model - Actually, you could train a beep model. That - that's a good idea.
+Bmr022	313.711	317.708	me018	It would be very good.
+Bmr022	314.900	315.390	fe016	Um -
+Bmr022	314.921	317.578	me011	Yes, it would be, cuz it's very, very regular.
+Bmr022	315.769	316.455	fe016	Yeah.
+Bmr022	317.360	318.797	fe016	Yeah. So, um -
+Bmr022	317.620	323.734	me013	Oh. Kind of low variance, wouldn't that be? You sort of might end up with some infinities there, but -
+Bmr022	319.132	321.940	mn014	Yeah.
+Bmr022	319.230	321.416	me018	Yeah, very low.
+Bmr022	319.365	319.983	me011	Yeah.
+Bmr022	321.851	323.873	fe016	Um, that might actually -
+Bmr022	322.422	324.264	me011	You have to - may - add some jitter to it.
+Bmr022	323.734	324.744	me013	Can I see that?
+Bmr022	324.142	326.065	fe016	I mean, that might actually work, because you'll -
+Bmr022	325.179	326.067	me013	Where's the case?
+Bmr022	326.565	329.670	fe016	I guess the trick is figuring out, you know, where it doesn't align?
+Bmr022	329.670	339.492	fe016	But if it's a problem of extra beeps, rather than missing beeps, then - um - that's easier and it might work. Oh.
+Bmr022	336.641	338.025	me018	It could t- it could -
+Bmr022	338.025	340.242	me018	There could be some missing ones. But -
+Bmr022	340.069	342.540	me013	So is this a seven or something? Or - What is it?
+Bmr022	340.380	342.168	me011	It's just in this case they were not.
+Bmr022	341.672	343.430	fe008	M_one-hundred.
+Bmr022	342.796	350.179	me011	So I think - uh, Chuck had a good explanation for it which I liked, which is these - they're listening to it and so they write something down, and let's say they miss it, they rewind.
+Bmr022	343.261	344.740	me013	M_one-hundred. Oh.
+Bmr022	351.050	359.075	me011	Well, they hear the beep again. Was that that beep, or was that a different beep? So that's why Chuck was suggesting different tones. My original thought was, you could have a different tone for each speaker.
+Bmr022	353.020	353.882	fe016	Oh, yeah.
+Bmr022	359.075	360.733	me011	You know, there's plenty of tone space.
+Bmr022	361.061	364.887	me011	And that might help cue the transcriptionist.
+Bmr022	365.306	367.340	me011	You know, give them a little cue about where they are.
+Bmr022	367.340	370.330	me013	Or you could - you could have ascending tones, or something.
+Bmr022	371.610	372.380	me011	What do you mean?
+Bmr022	372.700	373.507	me013	Uh -
+Bmr022	373.781	375.336	me013	Or -
+Bmr022	373.823	375.310	fe016	Yeah.
+Bmr022	374.050	376.322	me018	Increasingly high - higher frequencies.
+Bmr022	375.310	380.158	fe016	You could have, um, each speaker in the meeting say "beep" and record it and that will be their pro-
+Bmr022	378.620	387.390	me013	No, I just - thi- I don't know. If you have a hundred or something just - just sort of move them up i- mu- up a - a half tone or something for - for each one, and then -
+Bmr022	381.067	382.451	fe016	Sorry.
+Bmr022	387.160	391.303	me011	That's what I was saying. Is that - that you could have - each speaker could have their own tone.
+Bmr022	388.150	388.912	me013	Oh was it? Oh.
+Bmr022	389.240	390.860	me013	See, I should listen. Yeah?
+Bmr022	390.825	391.586	fe016	Hmm.
+Bmr022	391.303	397.560	me011	And you know, since there are no more than, you know, ten speakers or so per meeting, there's plenty of tone space.
+Bmr022	393.410	393.770	fe008	Oh.
+Bmr022	394.179	395.050	fe008	Well -
+Bmr022	397.429	397.959	fe008	But -
+Bmr022	397.560	399.426	me013	Uh, O_K, yeah. So the only -
+Bmr022	399.850	409.235	me013	That might work too. Yeah, I was just thinking that actually temporally just, uh, uh, uh, an increasing tones so that they would really have a sense of whether they were going, you know, forward or backward or - Yeah.
+Bmr022	402.910	403.622	me011	Oh, O_K.
+Bmr022	405.075	406.323	me011	Bo-eep be-oop.
+Bmr022	405.638	407.337	mn014	In the end? Yeah.
+Bmr022	407.054	408.160	fe008	Well you th-
+Bmr022	408.410	412.460	fe008	So just r- r- truly chron- chromatically up all the way through the entire meeting.
+Bmr022	410.630	411.163	me013	Yeah.
+Bmr022	412.366	413.509	me013	Well, it's a thought.
+Bmr022	412.690	413.570	fe008	Interesting.
+Bmr022	413.590	415.109	me011	Oh, oh, th- oh, I see.
+Bmr022	414.180	416.045	fe008	It'd be impossible to r- to misorder them.
+Bmr022	416.045	416.738	fe008	Yeah.
+Bmr022	416.120	416.700	me013	Yeah.
+Bmr022	416.700	425.388	fe016	But yo- I guess you'd still get the mistake that you mentioned, because the person - I mean, if that's some of the errors, those would probably stay the same, regardless.
+Bmr022	420.320	420.714	me011	Well -
+Bmr022	421.700	422.103	me011	Yep.
+Bmr022	425.144	432.561	me011	<create_single_reminder>I mean, Chuck's suggestion of just two beeps is nice because then you could have <reminder_text>them actually transcribe "H_beep" or "L_beep", "high beep" or "low beep"</reminder_text>.</create_single_reminder>
+Bmr022	425.216	426.229	me013	Yeah, maybe.
+Bmr022	432.660	435.152	me018	And then when we get them back, if we see two L_beeps in a row -
+Bmr022	433.651	434.895	me011	It would be much easier.
+Bmr022	434.410	436.803	me013	That's probably better, yeah. S- scratch my other idea.
+Bmr022	435.190	440.120	fe016	Yeah, you have like a sanity - sanity check on them. That's a good idea. Alternating.
+Bmr022	435.980	437.930	fe008	It's pretty simple, pretty simple.
+Bmr022	437.961	438.457	me013	Yeah.
+Bmr022	438.026	438.504	me011	Yep.
+Bmr022	440.194	440.693	me013	Yeah.
+Bmr022	440.640	448.499	me018	And it would - it seems like it would help them, you know, if they just finished a long passage and they heard one beep and then they hear it again, they know it's the same beep.
+Bmr022	448.793	451.970	me018	Versus if they heard a slightly different one.
+Bmr022	449.770	450.256	me013	Yeah.
+Bmr022	450.849	452.010	fe008	Hmm, interesting.
+Bmr022	451.360	454.990	fe016	Yeah, that's a good, like, error checking approach, I think.
+Bmr022	454.185	465.850	me011	Yeah, we can, yeah, like, do - do, uh, one for each ca- one for each person in the meeting, you can only hire people who have perfect pitch, and they can say "A_flat" "B_".
+Bmr022	461.800	467.170	fe008	Well. Well, "high", "low" is pretty straightforward, yeah.
+Bmr022	465.586	467.050	me013	Great idea, yeah.
+Bmr022	468.150	479.672	me013	No, two is probably better than what I was suggesting, because what I was suggesting, in order to make it through a reasonable range for the whole thing, you'd have to have the - the tonal differences between the two kind of small, and actually you want them large. So.
+Bmr022	478.046	478.569	me011	Yep.
+Bmr022	479.821	485.265	fe008	You'd have to - they'd have to have the acoustics of dogs t- hear into the high high ranges.
+Bmr022	482.528	483.060	me011	Mm-hmm.
+Bmr022	485.265	486.674	fe008	Yeah.
+Bmr022	485.717	486.125	me013	Yeah.
+Bmr022	485.800	491.328	me011	So I think, certainly, doing two beeps is - is no-brainer. And then the other question is, if they can -
+Bmr022	492.474	500.653	me011	If they do something on a computer in a format we can handle, we could give them a text file that was a template with speaker I_D and beeps already in it.
+Bmr022	501.056	501.595	me018	Yeah.
+Bmr022	501.070	502.522	me011	And then they could just fill that in.
+Bmr022	502.200	508.355	me018	<send_email> Maybe <from_contact_name> I </from_contact_name> should write to <contact_name> Brian </contact_name> and tell him <email_content> what the problem was and what our proposed solutions are </email_content> </send_email>.
+Bmr022	502.300	503.053	me013	So what -
+Bmr022	505.982	506.434	me011	Right.
+Bmr022	508.355	510.850	me018	See what he thinks would work best with them.
+Bmr022	508.550	509.420	me013	Yeah.
+Bmr022	510.580	514.378	me013	I mean, what's going wrong on the other end? What are they doing? What, uh -
+Bmr022	513.450	523.019	me011	Well, as I said, I think - We don't actually know, but I think Chuck's hypothesis was a good one, which is, you re- r- you listen to something, you write down what you thought you heard, but you want to listen to it again, so you r- rewind.
+Bmr022	523.370	524.098	me018	And there are some -
+Bmr022	523.510	530.500	me011	And then you hear the beep again, and then you say "well, is that that beep, or is that a new beep? I don't remember." And so, you know, a couple times they got it wrong.
+Bmr022	530.500	537.374	me018	And there are some cases where there's, um, very little speech before you hear a beep. So you hear a little bit of speech, beep, a little bit of speech, beep.
+Bmr022	534.919	536.060	mn014	Yeah.
+Bmr022	535.166	535.803	fe008	Mm-hmm.
+Bmr022	537.374	540.959	me018	Maybe three of those in a row, and was that three beeps, was that two beeps?
+Bmr022	541.430	547.580	me018	Um - See, they have th- Brian said the setup that they have is, um - uh - i- um -
+Bmr022	547.690	557.625	me018	They've got headphones and then I guess they have a computer, and they have a foot pedal which lets them quickly scan back and forth through the tape. I- i- t- i- s- makes the tape go real fast forward or fast backward.
+Bmr022	557.994	564.140	me018	And so they can hear something, then step on the pedal and quickly rewind and go back and hear it again. And so they're -
+Bmr022	564.140	574.114	me018	I think they're probably going over and over f- sections. And then they get confused about whether they've already put that beep, or if they heard, you know, three beeps in a row, was that three or two, and -
+Bmr022	575.199	580.690	fe008	It's a shame we can't really give a number. So it would be a number and a beep. e-
+Bmr022	575.443	576.047	me013	O_K, s-
+Bmr022	580.690	582.140	fe008	It's a shame we can't do that.
+Bmr022	582.380	583.674	me011	Well, we could.
+Bmr022	582.470	584.297	me018	Oh, that's an interesting idea.
+Bmr022	584.266	588.438	me011	We could, but then that starts getting pretty long.
+Bmr022	588.229	595.265	me018	No, no, no. But wait, maybe - maybe what we have instead of a beep is a, uh, synthesized number.
+Bmr022	594.901	595.574	mn014	Yep.
+Bmr022	595.960	597.809	me018	And they put the number in when they hear it.
+Bmr022	596.924	598.074	fe008	That'll work.
+Bmr022	598.350	601.365	me018	So, inst- replacing the beep with "twenty- three ",
+Bmr022	601.684	602.636	me018	"twenty- four ",
+Bmr022	602.860	605.920	me018	"twenty-five" - And then they have to transcribe what that number is each time.
+Bmr022	605.920	607.810	fe008	Wow, that'd also be shorter to type.
+Bmr022	608.420	610.710	me018	Yeah, just a "two three, two four", that would be -
+Bmr022	609.990	611.650	me011	Well, they would have to have a mark.
+Bmr022	611.339	612.680	fe008	Interesting.
+Bmr022	611.415	613.162	me018	There'd be some kind of mark in front of it.
+Bmr022	613.980	621.784	me013	Well, cuz they're s- distinguishing between twenty-three - that's your indicator there, and twenty-three that somebody happens to say in a meeting.
+Bmr022	619.800	621.170	fe008	Oh, that's true.
+Bmr022	620.010	627.950	me018	Well it would have t- yeah, it would have to be um, you know either obviously a s- sounding synthesized, uh, little -
+Bmr022	623.750	624.518	mn014	Yeah.
+Bmr022	627.182	628.480	me013	But they might miss that, right?
+Bmr022	628.480	630.870	fe008	Or maybe could it be a click and the number.
+Bmr022	628.607	629.590	me018	Yeah.
+Bmr022	630.940	632.260	me018	Or a beep and the number.
+Bmr022	632.260	633.744	me011	Well, it's sequential.
+Bmr022	632.380	636.141	fe008	Or a beep and the number, and then - and then you just do the - the num- th- you do it as a d- a digit.
+Bmr022	634.520	641.015	me011	Right, you would go sequential. So unless you got pretty unlucky, what the person was saying and the number -
+Bmr022	635.317	636.393	me018	Uh, right.
+Bmr022	637.454	638.591	mn014	Yeah.
+Bmr022	641.751	646.435	me018	In fact, we could put it at the beginning of each utterance. We could say "beep one ".
+Bmr022	646.665	648.030	me018	And then they'll hear the speech.
+Bmr022	647.730	649.350	me013	I think having a beep too is good.
+Bmr022	650.440	655.340	me011	So beep number. Yeah the- It's just getting pretty long. You know, the utterances are very short.
+Bmr022	651.500	652.970	me018	Or a number beep -
+Bmr022	653.411	654.254	mn014	Yep.
+Bmr022	655.204	655.913	me018	Mm-hmm.
+Bmr022	655.873	661.583	me011	And so you're gonna be talking beep, number, "yes!" beep, number, "no".
+Bmr022	659.968	660.713	me018	Mm-hmm.
+Bmr022	660.500	662.924	fe008	Well, if - if it saves time, yeah.
+Bmr022	662.125	665.610	me018	Yeah, and u- I think it would - I - Actually, I thi- I like that. I think it would -
+Bmr022	664.413	668.976	me011	And when they transcribe this meeting it's gonna be really impossible.
+Bmr022	665.820	672.120	mn014	Yeah, that's funny.
+Bmr022	668.176	671.460	me013	W- we're saying "beep". Yeah - for instance.
+Bmr022	669.084	669.997	me011	Yeah, yep.
+Bmr022	670.000	671.009	me018	Yeah.
+Bmr022	671.009	673.738	me018	But see that would - that would definitely keep -
+Bmr022	673.030	673.947	me011	It's not a bad idea.
+Bmr022	673.738	680.740	me018	Yeah. Keep things from getting out of sequence. If they heard it over again they would know. It would be obvious from their transcript whether they did that one or not.
+Bmr022	680.280	683.320	fe008	It might actually help them in terms of their place holding. Yeah.
+Bmr022	680.740	682.548	me011	That would help get them synchronized.
+Bmr022	682.800	683.320	me018	Yeah.
+Bmr022	683.320	685.530	fe008	And it might be helpful to them in terms of d- act-
+Bmr022	684.740	687.564	me011	I think it would be, because they would know their place. Yeah.
+Bmr022	685.600	687.339	me018	And we have plenty of digits data, so.
+Bmr022	687.910	689.950	me011	They would know their place, darn it!
+Bmr022	688.205	688.682	me018	We-
+Bmr022	689.755	690.075	fe008	Know -
+Bmr022	691.002	693.207	me011	Those transcriptionists need to know their place.
+Bmr022	691.068	691.834	mn014	Oh.
+Bmr022	692.469	695.691	fe008	Well, no no no no.
+Bmr022	693.065	699.689	me013	But it sounds like a k- a - a - a short conversation with Brian might be - might be helpful to get a sense of what's going on.
+Bmr022	696.377	698.380	me018	Yeah. I'll - I'll - I'll write him an -
+Bmr022	698.380	699.526	me011	Yeah, the numbers are a good idea.
+Bmr022	699.498	700.220	fe008	O_K.
+Bmr022	699.650	700.340	me018	Yeah.
+Bmr022	699.890	700.691	mn014	Or just -
+Bmr022	699.910	702.327	me011	Othe- other than lengthening the transcript,
+Bmr022	702.680	704.025	me011	I think it would be very helpful.
+Bmr022	704.760	713.104	mn014	Just instead of the sequential number, for- perhaps just the speaker I_D or something. Just say speaker one or spea- or just one, two, three, four for four speakers or something.
+Bmr022	713.104	713.390	mn014	Pppt!
+Bmr022	713.270	714.830	fe008	I - i-
+Bmr022	713.390	714.770	mn014	Could - could be helpful.
+Bmr022	714.770	721.021	me011	Yeah, you don't have to - you could keep them short by not s- or just go one through ten, one through ten, one through ten, or one through twenty.
+Bmr022	716.999	717.385	mn014	Yeah.
+Bmr022	717.776	718.211	mn014	Yeah.
+Bmr022	718.676	719.160	mn014	Yeah.
+Bmr022	719.691	720.146	mn014	Yep.
+Bmr022	721.858	730.290	fe008	And then also, if we - I mean, I don't know what their setup is, but your template idea might be a way of - of of - We could actually build the numbers into a template.
+Bmr022	727.140	727.668	me011	Mm-hmm.
+Bmr022	729.885	730.332	me011	Yep.
+Bmr022	732.048	732.547	fe008	Well.
+Bmr022	732.937	735.290	me018	<create_single_reminder> <contact_name> I'll </contact_name> <reminder_text> talk to Brian, and see what he - </reminder_text> </create_single_reminder>
+Bmr022	734.920	736.087	me011	Yeah, single digit numbers -
+Bmr022	736.501	736.924	mn014	Yeah.
+Bmr022	736.550	738.956	me011	That also appeals to me. So that you don't have to, you know -
+Bmr022	736.900	738.020	fe008	That's a good idea.
+Bmr022	738.310	739.260	fe008	Very simple.
+Bmr022	739.830	741.380	me011	"One hundred twenty-four"
+Bmr022	741.650	742.330	me018	Yeah.
+Bmr022	741.750	743.967	mn014	Yeah.
+Bmr022	742.330	743.120	me013	Well, th- although -
+Bmr022	742.681	744.873	me011	"Beep. One thousand three hundred forty-two"
+Bmr022	745.731	749.636	me013	You're saying i- it's - it's about an hour meeting, and there were a hundred and twenty-three -
+Bmr022	747.728	748.205	me011	Mm-hmm.
+Bmr022	748.850	749.551	me011	I don't remember.
+Bmr022	749.830	751.080	fe008	It's forty-five minutes.
+Bmr022	749.980	751.560	me011	Chuck was saying there was more than that.
+Bmr022	751.294	751.742	me013	Hmm?
+Bmr022	751.830	753.349	fe008	Forty-five minutes for that one.
+Bmr022	751.940	752.877	me011	More beeps than that.
+Bmr022	753.040	757.130	me018	I was thinking there was on the order of fifteen hundred segments, but maybe I'm -
+Bmr022	757.490	760.135	fe016	There must be. Because otherwise, you're going a whole -
+Bmr022	758.518	760.400	mn014	I think it should be more, yeah.
+Bmr022	759.050	759.788	fe008	It's possible.
+Bmr022	760.632	763.128	fe016	That was at least forty-five minutes, right?
+Bmr022	762.603	763.535	fe008	Yeah. That's right.
+Bmr022	763.540	765.017	me011	Was it that many? I just don't recall.
+Bmr022	764.100	765.417	fe008	Yeah, it was forty-five minutes.
+Bmr022	764.640	770.537	fe016	That's the shortest meeting we have. Most of them are double that, or so
+Bmr022	767.411	767.924	me011	Yep.
+Bmr022	769.330	772.586	me013	Well, I was just wondering what the average length thing was.
+Bmr022	771.580	773.853	me018	Oh, of a - of a segment that they're hearing?
+Bmr022	771.910	772.382	mn014	It's -
+Bmr022	774.030	774.474	me013	Yeah.
+Bmr022	774.213	775.400	me018	I don't know.
+Bmr022	774.849	776.223	fe008	Hmm, interesting.
+Bmr022	775.907	776.828	me018	I don't know.
+Bmr022	775.991	776.431	me013	Uh-
+Bmr022	776.001	778.463	me011	Easy enough to figure out. We have all that data.
+Bmr022	776.828	777.617	me018	Yeah.
+Bmr022	777.020	781.229	fe016	So if there are in the - in the hundreds and thou- or thousands of these -
+Bmr022	782.744	785.644	fe016	It must be in the high hundreds of them, at least.
+Bmr022	785.090	786.599	me013	So, right. So i-
+Bmr022	786.240	790.329	fe016	So that's getting a little cumbersome for them to type, like, five hundred?
+Bmr022	788.200	788.870	mn014	Yeah.
+Bmr022	788.826	790.450	fe008	Well, with just one digit though,
+Bmr022	790.450	791.242	fe008	I think -
+Bmr022	790.810	791.289	me013	Well -
+Bmr022	790.840	792.936	fe016	But yeah, if they recycle through -
+Bmr022	792.160	794.440	me018	Yeah, if we - if we did mod ten, then -
+Bmr022	792.523	793.031	mn014	Yeah.
+Bmr022	793.900	802.190	me013	Right, but my point was, you know, if - It's a big difference to me if there's a thousand or there's a hundred. If there's a thousand, then that means that this is only happening three times out of a thousand.
+Bmr022	802.190	807.436	me013	Which means, you know, even just splitting it up into a few files would probably take - You know, nearly all the time, there would be no -
+Bmr022	806.654	807.358	fe016	Yeah.
+Bmr022	807.870	818.081	me013	W- if it's a hundred, then - you know, that's not the issue, but if it's a hundred, then, the average length of each one is pretty - pretty long and so having a little thing at the front of it is no big deal.
+Bmr022	818.057	819.113	me018	Mm-hmm.
+Bmr022	818.448	819.832	me013	So, that's why I was curious.
+Bmr022	818.590	822.309	me011	Yeah, you're right. It had to have been more than that. I mean, it was a forty-five minute meeting, so -
+Bmr022	821.780	822.349	fe016	Right.
+Bmr022	822.309	825.970	me011	And it certainly was not a minute a chunk, it was a few seconds a chunk.
+Bmr022	825.680	826.321	fe016	That's what I -
+Bmr022	826.312	826.771	me018	Mm-hmm.
+Bmr022	826.321	828.494	fe016	Yeah, so it'd be a lot of overhead to type.
+Bmr022	826.809	828.079	me011	So I'm just mis-remembering.
+Bmr022	829.290	830.309	me011	I'm just mis-remembering.
+Bmr022	829.680	830.520	fe016	Oh, I -
+Bmr022	830.673	831.128	me011	So.
+Bmr022	830.840	836.073	fe008	Well, and the other thing is, maybe the numbers would help them keep their place in the transcript and speed the process -
+Bmr022	831.932	832.550	fe016	Yeah.
+Bmr022	834.527	839.308	me011	It might make the transcript faster - W- wel- I mean I - A quick conversation with Brian would be good, so.
+Bmr022	835.510	836.377	fe016	Yeah.
+Bmr022	837.952	838.546	fe008	Mm-hmm.
+Bmr022	838.480	839.260	me018	Yeah.
+Bmr022	844.460	845.066	me011	O_K.
+Bmr022	848.740	850.002	me011	And other than that -
+Bmr022	849.880	852.298	fe016	Actually, if it is - u-
+Bmr022	852.298	855.690	fe016	I mean, it's not a bad idea to try the alignment.
+Bmr022	856.384	864.704	fe016	Um, if there's only like three of them, then if you align, the first point at which things get messed up is sort of the location of the first problem.
+Bmr022	864.376	864.890	me011	Mm-hmm.
+Bmr022	865.250	868.743	fe016	And then, the second p- I mean, you could do it that way, or you could -
+Bmr022	869.232	894.923	fe016	It's - it's - it would be able to handle any errors. So if they make, on the average, that many, and it costs them more time to do something different than what they're doing, which I don't know, but if it does, then we could try doing that as a post-process, and, um, have a student or a transcriber run this alignment, or we can do it and - then you can iteratively figure out where the problems are.
+Bmr022	873.733	874.259	me011	Right.
+Bmr022	888.904	889.422	me011	Yep.
+Bmr022	889.490	891.910	me018	You know actually, what - all that we would -
+Bmr022	894.883	896.335	me018	You know, Liz, all we would re-
+Bmr022	895.410	899.310	fe016	It would take a little work, but not any real human - not a lot of human work.
+Bmr022	898.110	899.827	me011	Right. I mean, that's what we want to avoid.
+Bmr022	898.810	905.327	me018	I mean if - in terms of the alignment, actually, all we would need is - we wouldn't even need words. We would need a general speech model and a beep model.
+Bmr022	905.327	908.977	me018	Cuz all we're really concerned about is missing beeps or too many beeps.
+Bmr022	909.750	915.964	fe016	Well, the for- the forced alignment will run fa- otherwise it'll take forever. I mean, to really run recognition?
+Bmr022	909.820	910.729	me018	So if we had a -
+Bmr022	913.500	914.136	me018	Mm-hmm.
+Bmr022	914.450	925.940	me018	Well - l- I guess what I'm thinking of is that w- that a lot of times there will be - they'll put in question marks, that represent some unknown amount of speech, so we're gonna have to have some kind of -
+Bmr022	915.964	916.413	fe016	Or - ?
+Bmr022	922.260	923.118	fe016	Right.
+Bmr022	925.490	927.544	fe016	Yeah, then we just map it to a reject model.
+Bmr022	928.040	935.991	fe016	In - and in fact, that's what we do now. Cuz there's cases, even after Jane listens, where, you know, we have - an expert can't even tell what they're talking about.
+Bmr022	930.181	930.615	me018	Right, h-
+Bmr022	935.660	936.380	me018	Yeah.
+Bmr022	935.991	939.796	fe016	Um, so that's O_K. Just map that to reject and -
+Bmr022	937.400	937.891	me018	Right.
+Bmr022	937.891	942.850	me018	Well, what I was thinking is, map all the speech to the reject model. And then you have a beep model.
+Bmr022	941.605	942.132	me013	Yeah.
+Bmr022	942.695	944.603	me011	But that won't work because it's -
+Bmr022	943.020	944.605	me013	Yeah, you're still talking a forced al-
+Bmr022	944.469	948.030	fe016	The forced alignment might not work then, although we can try it.
+Bmr022	948.340	948.900	fe016	Um -
+Bmr022	948.900	950.141	me011	Well, but, all we'll get -
+Bmr022	949.370	957.271	me013	Well, with the beep models, is what's really - you'd have really g- it would be really good though. So - so it's p- so it's really just doing, yeah, a keyword, like a spotting for beep with -
+Bmr022	951.599	954.668	me018	The beep model is - is gonna match, like, really well.
+Bmr022	952.530	953.509	fe016	Right.
+Bmr022	955.950	960.631	fe016	Right. But it'll - it'll grab the next beep, in other words. It'll be -
+Bmr022	960.631	962.336	fe016	You'll get back another offset.
+Bmr022	963.010	972.911	fe016	Um - I mean, I was thinking of - then I - and then I realized "Well, the recognizer will just go along and line up all the beeps, and then there'll be all the extra beeps at the end if there were more beeps then you wanted."
+Bmr022	972.290	976.975	me011	Right, you - you need - But you need the text to tell it where it got it wrong. Yeah.
+Bmr022	972.911	978.459	fe016	So you need the word - you need the word to c- sort of control the relative location.
+Bmr022	977.250	981.269	me018	No, I'm not sug- I'm not suggesting that we don't have anything between the beeps.
+Bmr022	980.000	981.012	fe016	It will tell you -
+Bmr022	981.800	982.220	fe016	Oh.
+Bmr022	982.220	985.410	me018	But I - what I'm saying is, what's between the beeps we don't really care about.
+Bmr022	985.680	987.363	fe016	I think you do care about it.
+Bmr022	987.060	989.317	me011	Because you have to know which ones match which.
+Bmr022	987.363	989.038	fe016	Unless you wanna know if they're -
+Bmr022	989.038	992.861	fe016	Right. Otherwise you just count up the total number of beeps.
+Bmr022	991.740	993.660	me011	And we can do that with wordcount.
+Bmr022	994.380	1004.651	me011	Right? We already know that - that we're three short. And so if we just did spee- uh beep and non-beep all you would get is that you have three mistakes, but you wouldn't tell you which ones were wrong.
+Bmr022	995.661	996.347	fe016	Yeah.
+Bmr022	1006.430	1006.974	fe016	Right.
+Bmr022	1007.339	1015.007	me011	You need some of the words in there, so that you can say "well, this segment matches this one, this segment matches this one, and this one doesn't match at all, unless we insert a beep ".
+Bmr022	1016.935	1048.516	fe016	I mean the only thing I'm worried about with that approach is that if we need to figure out the beep alignment problem before the transcribers do the corrections here, then we're in trouble. In other words, if the transcripts aren't sort of good enough that the aligner constraints are good enough to sort of show you where the errors are, then it wouldn't work. But it might work. It might work to do this if their transcripts are pretty close on the words that usually get recognized correctly, which are the, you know, function words, the common words.
+Bmr022	1017.852	1018.621	me013	O_K.
+Bmr022	1047.190	1050.895	me011	Well, actually, you know, there's an even easier way. We don't really need a beep model.
+Bmr022	1050.895	1057.890	me011	Um, just extract the segments and do a forced alignment, and if the score is good, then you say it matches -
+Bmr022	1054.930	1055.948	fe016	Right, you can also -
+Bmr022	1056.292	1057.442	fe016	In fact that's what we do -
+Bmr022	1057.442	1060.232	fe016	Right. The individual segments between the beeps -
+Bmr022	1060.790	1071.858	fe016	Um, if beeps were like the segments that we get from um, the transcription tool already, that that's what we have done, and it works very well. You can see these segments align and these don't.
+Bmr022	1072.440	1077.490	fe016	Um, then you just have to go back in and figure out where the endpoints of those segments are, cuz some of them will be wrong.
+Bmr022	1077.490	1079.823	fe016	Because the bi- the beeps were missing, by definition.
+Bmr022	1077.550	1078.038	me011	Right.
+Bmr022	1079.650	1082.850	me018	So do you get a score for each alignment? Is that what you get?
+Bmr022	1079.823	1081.662	fe016	So it might actually work.
+Bmr022	1082.160	1084.459	fe016	Um, you ca- you get, um -
+Bmr022	1086.550	1089.218	fe016	Definitely when they don't align at all, it - it - it fails.
+Bmr022	1089.218	1095.689	fe016	I mean, that - that's how we found a lot of problems before, with, um, words being on the wrong place or something.
+Bmr022	1089.257	1089.973	me018	Mm-hmm.
+Bmr022	1095.689	1100.776	fe016	So a failed alignment is a very good indicator that - that - the words don't match up.
+Bmr022	1098.018	1098.800	me018	Mm-hmm.
+Bmr022	1099.710	1101.880	me018	I'm just wondering when - wha- what it means to fail.
+Bmr022	1101.230	1101.876	fe016	Um -
+Bmr022	1101.880	1104.725	me018	Is it the - the likelihood scores below some threshold -
+Bmr022	1103.960	1105.852	fe016	Yeah, is, uh - it - Right.
+Bmr022	1105.852	1107.276	fe016	It can't match up the -
+Bmr022	1107.276	1113.162	fe016	That's why you actually need the text. In order to force you to try to match something that gives you a model to match against.
+Bmr022	1114.373	1118.149	fe016	So - It's just an idea, if - if it turns out that -
+Bmr022	1118.149	1120.980	fe016	I mean, I also like this idea of high and low beeps, or -
+Bmr022	1120.980	1121.919	fe016	But it - if -
+Bmr022	1121.919	1130.620	fe016	Suppose we get one or two errors, still, per - you know, per transcript, then we z- we might wanna try some approach like that.
+Bmr022	1130.620	1134.807	me011	Well, the numbered ones would make it a lot easier, cuz you could then really localize where the error is.
+Bmr022	1132.422	1132.989	fe008	Mm-hmm.
+Bmr022	1133.720	1134.140	fe008	Yeah.
+Bmr022	1134.073	1134.810	fe016	Where it is.
+Bmr022	1134.810	1135.309	fe016	Right.
+Bmr022	1135.290	1135.960	fe008	Yeah.
+Bmr022	1135.309	1138.476	fe016	If - so, if that doesn't add time for them, that'd be great. You know, like -
+Bmr022	1137.847	1138.341	me011	Yep.
+Bmr022	1138.990	1142.105	fe008	I think it would save them time. I think it would help them keep the track - track of it.
+Bmr022	1138.999	1140.570	fe016	We have to ask them.
+Bmr022	1142.606	1151.302	me013	Uh - uh, again, especially if there's hundred - many hundreds or thousands I still think it would - it would cut the incidence of this a lot if it was possible to break it into a couple files.
+Bmr022	1152.170	1153.101	fe008	Interesting, yeah.
+Bmr022	1152.170	1155.786	me013	Yeah. Cuz it, you know, it's r- r-
+Bmr022	1154.710	1162.572	fe016	I guess also even for the transcribers, it's quicker to load a smaller file - into the - You know, t- for the checking problem.
+Bmr022	1160.620	1162.573	me011	Yeah, I mean, we could certainly break the meetings -
+Bmr022	1162.572	1165.256	fe016	Into twenty minutes chunks or something, or -
+Bmr022	1162.573	1165.038	me011	We could certainly break the meetings into pi- pieces.
+Bmr022	1165.926	1166.515	me011	So, just -
+Bmr022	1166.150	1173.760	me013	I mean, you've already broken them into chunks, so if you have - if you have a th- if you have a thousand chunks then make ten things of a hundred, or - or you know.
+Bmr022	1168.430	1168.869	me018	Just -
+Bmr022	1170.210	1171.978	me018	Just accumulate it till you get twenty minutes worth?
+Bmr022	1171.978	1173.470	me018	There's one file.
+Bmr022	1173.530	1174.454	me011	That's true, yeah.
+Bmr022	1174.181	1174.633	mn014	Yep.
+Bmr022	1174.606	1178.310	me013	And then it will be, you know, this - Eve- every now and then there'll be a - a beep missing.
+Bmr022	1181.190	1182.950	fe008	So, someone's gonna talk to Brian.
+Bmr022	1182.701	1183.800	me018	Yeah, I'll -
+Bmr022	1182.970	1183.840	me011	I think that was Chuck.
+Bmr022	1183.840	1184.970	me018	I'll talk to him.
+Bmr022	1183.889	1184.533	fe008	O_K.
+Bmr022	1184.471	1184.920	me011	Yep.
+Bmr022	1186.680	1190.190	fe008	I also looked thr- over the text and I was impressed by the accuracy, it looks really good.
+Bmr022	1189.817	1194.386	me011	Yeah, it does look good. I mean, I found several errors, but they were not significant.
+Bmr022	1194.860	1201.567	me011	They were all things that I could easily listen to and sometimes convince myself they said one thing and sometimes the other, so.
+Bmr022	1201.150	1203.696	fe008	Yeah, it's there. Mm-hmm.
+Bmr022	1202.640	1210.051	fe016	I haven't looked at these, um - cuz I was gone last week, but - but Don had told me that there's a difference in some of the conventions?
+Bmr022	1210.280	1213.670	fe008	Oh. Yes. But this is not important. It's systematic, yeah.
+Bmr022	1210.870	1213.061	fe016	So - but those are all easy things, right?
+Bmr022	1213.061	1213.616	fe016	Yeah.
+Bmr022	1213.616	1214.034	fe016	O_K.
+Bmr022	1213.710	1226.010	fe008	And - and Brian actually forwarded me in advance. He - he wor- he very nicely worked out a set of conventions which is intermediate between ours and the ones that they're used to. Which is - which is really a good - a good way to do it.
+Bmr022	1223.036	1223.716	fe016	O_K.
+Bmr022	1224.750	1227.220	fe016	So we can just map - map them to -
+Bmr022	1226.716	1227.603	fe008	No problem.
+Bmr022	1227.220	1227.687	fe016	Great.
+Bmr022	1229.942	1230.860	fe016	Hmm.
+Bmr022	1232.496	1233.224	me011	O_K.
+Bmr022	1233.770	1234.458	me011	Um -
+Bmr022	1236.670	1243.303	me011	We still haven't really sat down and talked about file reorganization, and directory reorganization. So we still have to do that.
+Bmr022	1243.810	1245.656	me011	But I don't think we need to do that in this meeting.
+Bmr022	1246.591	1247.357	me011	But, uh -
+Bmr022	1248.920	1255.565	me011	It is something that needs to get done, and I wanna also coordinate it with Dave so that we do a level zero backup right after.
+Bmr022	1256.766	1258.455	me011	So we don't waste a lot of tapes.
+Bmr022	1259.920	1260.616	me011	But, uh -
+Bmr022	1261.070	1264.814	me011	So - let's - let's try to do that sometime, O_K? ch- O_K?
+Bmr022	1263.800	1264.953	fe008	Yeah. We can do it this week.
+Bmr022	1264.953	1265.362	fe008	Yeah.
+Bmr022	1266.050	1266.737	me011	Um -
+Bmr022	1268.730	1272.929	me011	We also still have to make a decision about mike issues, what we wanna do with that.
+Bmr022	1274.850	1279.330	fe008	I thought we were going to get two more of the ones -
+Bmr022	1278.580	1279.839	me011	And just swap them in and out?
+Bmr022	1280.410	1281.496	me011	Yeah, we could certainly do that.
+Bmr022	1281.827	1283.010	mn014	So why not?
+Bmr022	1283.320	1292.065	me011	So - uh, Morgan, just to - uh, since you weren't at the meeting last week, uh, apparently a bunch of the E_D_U fe- folks really hate this style mike.
+Bmr022	1291.439	1301.055	fe016	Um, I wouldn't - well, it - they didn't say "hate" but they - they c- they come on time to their meetings in order to not be left the last person who has to sit by those mikes.
+Bmr022	1300.282	1301.829	fe008	Can I - I c- I -
+Bmr022	1300.390	1303.840	me011	I mean, that's - that's - that's a fairly strong indication of dislike.
+Bmr022	1304.191	1307.000	fe008	I actually really like them though.
+Bmr022	1304.700	1305.440	me011	Um -
+Bmr022	1305.110	1306.840	me013	Which one is these? The uh -
+Bmr022	1305.480	1309.053	fe016	There were a few people - you, and like, three or four people who really like them.
+Bmr022	1306.190	1306.834	me011	The Crown.
+Bmr022	1307.290	1307.816	me013	Uh-huh.
+Bmr022	1308.900	1309.850	fe008	Yeah, I do.
+Bmr022	1309.053	1311.875	fe016	And e- and th- all the others really don't.
+Bmr022	1310.960	1320.682	me011	So what I was thinking is, we could get a few more of the Sony ones and just unplug them and plug them in. And the only thing is that when you fill out the digit forms, you have to be sure to indicate which mike was actually used.
+Bmr022	1321.150	1331.180	me011	So, I mean, that's easy to do. Um - it - it - moves us away from this uniform, all the mikes are the same, which some people had said was a benefit.
+Bmr022	1332.330	1332.736	me011	But -
+Bmr022	1332.813	1340.180	fe008	The other thing, too, is th- y- you said that the acoustic pra- q- quality of the one that you're wearing, the fancy one, is actually somewhat better than
+Bmr022	1339.740	1340.385	me011	It is.
+Bmr022	1340.385	1340.909	me011	Yeah.
+Bmr022	1341.130	1344.141	fe008	So I- I don't know if it's a noticeable difference, but it is -
+Bmr022	1344.141	1351.133	fe008	I mean, I p- I personally really prefer that model, so I think you know we've got this problem of people having different - different preferences.
+Bmr022	1350.990	1361.941	me013	You know, there are so many things about this that are non-uniform that I think having - having some modicum of uniformity is a good thing, but you're just not going to - I mean we've - uh -
+Bmr022	1360.669	1361.260	fe008	O_K.
+Bmr022	1362.552	1371.108	me013	For instance, jus- just the fact that people sit in different positions, different times, the - exactly where they put it with respect to their mouth is different each time.
+Bmr022	1367.041	1367.488	me011	Yep.
+Bmr022	1371.650	1372.617	me013	Uh -
+Bmr022	1373.260	1384.060	me013	I - I just don't - I mean, I think we - we're - we're getting rid of major differences like we're not using the lapel anymore, an- and so forth. But the other stuff is just gonna - some variability we're gonna have to accept.
+Bmr022	1376.642	1377.784	fe008	Mm-hmm.
+Bmr022	1384.034	1394.560	fe008	It's - I - I understand, that's fine with me. I - I g- would say that um, I find this model easier to adjust, that's one of the reasons I don't like these, cuz I keep m- you know, bending it, and then it's n- and I never really know -
+Bmr022	1390.362	1391.570	me013	Uh-huh.
+Bmr022	1393.250	1395.198	me013	Yeah, see I - I happen to like the old one better.
+Bmr022	1395.110	1396.018	fe008	You do? O_K.
+Bmr022	1395.198	1395.676	me013	But -
+Bmr022	1395.676	1396.193	me013	Yeah.
+Bmr022	1396.310	1398.720	fe016	What about just a different headband thing?
+Bmr022	1396.352	1397.870	me013	And some people do, but -
+Bmr022	1398.720	1404.260	fe016	Or even if we could attach two headband - Like, I don't mind those, but it - they bounce around.
+Bmr022	1398.859	1400.917	me011	I mean - th-
+Bmr022	1400.917	1401.762	me011	We abs- th-
+Bmr022	1402.130	1405.844	me011	We have lots o- of choices of microphones. So -
+Bmr022	1406.410	1413.261	fe016	I mean, can we keep the microphones, and just somehow attach a more comfortable thing over your head?
+Bmr022	1408.704	1409.209	me011	Mm-hmm.
+Bmr022	1412.354	1412.928	me011	Mmm.
+Bmr022	1412.928	1413.428	me011	Yeah.
+Bmr022	1413.261	1418.596	fe016	That's my problem with this one. The - the ear thing comes out to here. It doesn't even fit over my ear.
+Bmr022	1418.310	1418.676	me011	Right.
+Bmr022	1418.436	1419.383	fe008	Hmm.
+Bmr022	1418.596	1424.080	fe016	And for some of the others, it's - their ears were shaped in a way that didn't hold the -
+Bmr022	1423.536	1424.278	me011	Right.
+Bmr022	1423.859	1424.767	fe008	Huh.
+Bmr022	1424.765	1428.900	me011	I mean, so we can go microphone shopping, and get - get more microphones. It's just - w-
+Bmr022	1428.779	1430.852	fe008	Then they have to be rewired though, don't they?
+Bmr022	1429.475	1431.181	me011	I'm just not sure what we should do.
+Bmr022	1429.690	1430.050	mn014	Yeah.
+Bmr022	1430.465	1436.900	me013	You know. I mean, here's another argument against worrying too much about uniformity. We have something like forty-five hours of data collected.
+Bmr022	1430.852	1431.930	fe008	Specially.
+Bmr022	1438.310	1454.522	me013	And, uh, we're also gonna be integrating in this corpus stuff that's - that's being done at U_W, uh, with entirely different microphones. So I - I think, you know, getting away from the lapel, having close-mounted mikes, having people adjust them as they're most - as - as - as comfortable as they can -
+Bmr022	1442.517	1443.039	me011	Yep.
+Bmr022	1454.472	1455.618	me011	Well, I -
+Bmr022	1455.050	1456.464	me013	I think that's sort of the big deal.
+Bmr022	1455.980	1460.173	me011	I agree with that, and so my feeling is, we should get mikes that people like.
+Bmr022	1460.240	1460.597	me013	Yeah.
+Bmr022	1460.430	1460.680	fe008	Yeah.
+Bmr022	1460.680	1464.294	me011	And so I- my feeling is, going out and buying a few more mikes is fine.
+Bmr022	1464.060	1464.418	me013	Yeah.
+Bmr022	1464.401	1465.405	mn014	Yeah, that's right.
+Bmr022	1464.850	1466.453	me011	So should I just go do that?
+Bmr022	1465.980	1466.503	me013	Yeah.
+Bmr022	1466.453	1467.004	me011	O_K.
+Bmr022	1466.625	1467.897	fe016	What about these -
+Bmr022	1467.004	1469.978	me011	And then also, should we go ahead and get another wireless system?
+Bmr022	1470.660	1472.599	me011	You know, for whatever it's gonna be, uh -
+Bmr022	1474.085	1474.910	fe008	Mm-hmm.
+Bmr022	1474.685	1476.582	me013	Uh, another wireless system.
+Bmr022	1476.773	1479.120	me013	You mean, another transmitter? Or - or -
+Bmr022	1479.120	1484.129	me011	Uh, no, actually, get - we need another box. Because each - each box in the back room can only take six.
+Bmr022	1484.590	1487.684	me013	Oh, to get r- to get rid of the wired things. Yes, absolutely.
+Bmr022	1485.005	1485.620	me011	So we could-
+Bmr022	1486.096	1486.460	me011	Yep.
+Bmr022	1487.860	1488.344	me011	O_K.
+Bmr022	1488.870	1489.260	me013	Yeah.
+Bmr022	1489.330	1507.570	me013	Uh, because - cuz we've had - With the exception of forgetting to change the batteries from time to time, uh, we've really had no tr- no trouble with this at all, right? And - and the wired stuff is just gonna continue to degrade as, you know, and nobody will remember how to - yeah, nobody will remember how to repair a Jimbox or a Jimlet or a - you know, it's -
+Bmr022	1489.400	1490.687	me011	So I'll just go d- I'll do that.
+Bmr022	1496.177	1496.657	me011	Yep.
+Bmr022	1501.900	1504.780	fe016	Another one just bit the dust.
+Bmr022	1504.110	1504.850	me018	Really?
+Bmr022	1505.220	1507.160	fe016	I think there's a problem with this one.
+Bmr022	1506.352	1506.800	me011	Yep.
+Bmr022	1507.570	1513.406	me011	O_K. Then I will just go do that, and send the bill to - uh, what's-her-name.
+Bmr022	1508.664	1509.188	me013	Yeah.
+Bmr022	1512.750	1514.079	me013	Whoever will pay, yeah.
+Bmr022	1513.760	1516.942	me011	Whoever will pay. You.
+Bmr022	1514.478	1516.365	me013	Yeah, yeah.
+Bmr022	1516.060	1518.410	fe016	I have a quick question about microphones, um -
+Bmr022	1518.410	1527.532	fe016	I got - this crazy idea that, um, i- in the future, people will just walk around with the microphones that they use for their cell phones?
+Bmr022	1527.532	1534.640	fe016	You know, these little boom ones, like, and really go to meetings with close talking mikes. If they're their own personal microphone.
+Bmr022	1534.900	1542.420	fe016	And so I'm wondering if we can get a couple of tho- I don't know how good quality they are, but it would be really interesting to see if they're good enough.
+Bmr022	1541.800	1544.900	me013	Do you mean the kind that hang from the ear, sort of thing, or the -
+Bmr022	1543.139	1547.310	fe016	The k- kind that guys that like to look like they're really cool at airports wear.
+Bmr022	1543.850	1544.477	mn014	Yeah.
+Bmr022	1546.730	1547.880	me011	Yeah.
+Bmr022	1547.163	1550.474	me013	Yeah, but I don't know that one. So what's that mean?
+Bmr022	1548.780	1551.399	me011	This - it's - it's a cell phone jack.
+Bmr022	1548.910	1553.873	me018	Oh, yeah, you do.
+Bmr022	1549.683	1552.180	fe016	You can't miss it.
+Bmr022	1552.180	1556.099	fe016	You cannot miss it. They're the guys going around - they're probably talking to nobody, but
+Bmr022	1552.626	1553.861	me013	Is this - just this little -
+Bmr022	1555.410	1557.540	me013	Oh they - they have little headsets? Or what do they -
+Bmr022	1555.596	1556.127	mn014	Yep.
+Bmr022	1556.002	1557.163	me011	Th- d-
+Bmr022	1556.824	1558.210	fe016	Yes. They wear the heads-
+Bmr022	1557.163	1557.681	me011	Yep.
+Bmr022	1558.490	1562.012	fe016	E- Well, there you go. Yes. That's - that - it looks sort of like that.
+Bmr022	1558.930	1560.246	me013	Oh you've - you've got one.
+Bmr022	1560.920	1565.248	me011	Except that one's even bigger than most of the ones I've seen. Most of the ones are just a little boom.
+Bmr022	1563.430	1565.625	me013	So where - where does - how do you wear that? What does that -
+Bmr022	1566.840	1569.270	fe008	You - you put it over the corner of your ear.
+Bmr022	1568.670	1570.269	me013	Yeah, over the corner of the ear -
+Bmr022	1570.434	1575.388	fe008	I can't - I'm having competing microphone - headphone problems here.
+Bmr022	1573.160	1579.590	me018	There's another kind which s- goes in your ear and it hangs down. There's a little b- bulb that hangs - has the mike on it.
+Bmr022	1573.652	1574.145	me013	Huh.
+Bmr022	1576.390	1579.302	mn014	Yep. It just ha- just hangs down there. Yeah.
+Bmr022	1576.910	1578.343	me013	Yeah, that I've seen. Yeah.
+Bmr022	1578.436	1589.444	fe016	O_K, so whatever people sort of wear to use l- Yeah, something like tha- with their cell phones, it'd be really great, I think, if we can argue t- that - people like that.
+Bmr022	1578.469	1579.900	fe008	This one.
+Bmr022	1580.780	1581.291	me011	Mm-hmm.
+Bmr022	1581.990	1582.855	me013	Yeah.
+Bmr022	1586.878	1588.250	fe008	It's an interesting idea.
+Bmr022	1588.250	1592.980	fe008	The acoustics - the acoustics on this are really s- m- better than when I talk into it directly.
+Bmr022	1591.289	1596.208	me011	Yeah. The - the biggest issue is the stupid cable that Sony -
+Bmr022	1592.660	1593.310	me013	But - what -
+Bmr022	1592.857	1593.656	fe016	Are they?
+Bmr022	1594.040	1594.891	me013	Why would it be cool?
+Bmr022	1596.450	1598.547	me011	The connector that Sony has, that, uh -
+Bmr022	1596.670	1597.772	fe016	Oh, O_K.
+Bmr022	1598.550	1600.454	fe016	So it's - they're not compatible?
+Bmr022	1598.842	1603.320	me011	It's non-standard, and so you can't just plug something in. You need to get it wired.
+Bmr022	1602.740	1606.828	me013	Oh, I'm sorry. You're talking about that as a possible thing to plug into the Sonys. No?
+Bmr022	1605.330	1616.328	fe016	Well, um, just as an example for, you know, the future, of the fact that maybe people will wear those microphones, or some people might, to meetings, you know.
+Bmr022	1606.180	1606.592	me011	Right.
+Bmr022	1606.420	1608.070	me018	How standard are these?
+Bmr022	1608.974	1611.120	fe008	Works with this. I don't know.
+Bmr022	1614.550	1616.440	me013	Well, some people will, yeah.
+Bmr022	1616.328	1620.508	fe016	Not a - I'm not saying there's not a far-field microphone, uh, application, but -
+Bmr022	1621.320	1624.225	fe016	If we have a choi- I've always wondered how well they would work.
+Bmr022	1623.700	1632.700	me018	It is an interesting idea. If we could build an adaptor that went from - cuz I think mine looks like this too. If we had this style plug that went to that, then we'd just have adaptors and people would plug them in.
+Bmr022	1629.675	1630.408	me011	Right.
+Bmr022	1633.170	1635.180	me018	You could use - they could use their own.
+Bmr022	1633.850	1635.990	fe016	Oh, right. So they could use the -
+Bmr022	1634.070	1636.855	me011	I wonder if you could do an adaptor. I don't know if you can or not.
+Bmr022	1637.260	1639.320	fe016	Anyway, it's just an idea. Um -
+Bmr022	1638.380	1638.827	me013	Yeah.
+Bmr022	1639.507	1643.067	me011	An adaptor might be a better idea than do- redoing the wiring all the time.
+Bmr022	1639.827	1640.876	fe016	Mmm.
+Bmr022	1639.837	1640.805	me013	Well, I mean, another s-
+Bmr022	1643.050	1652.110	me013	An- another side to that is that, um, in principle, uh, if it all comes together, supposedly we're gonna get two um, I_RAM boards.
+Bmr022	1652.110	1652.796	me011	Right.
+Bmr022	1652.510	1654.674	me013	Uh, little later on in the year.
+Bmr022	1654.674	1660.600	me013	And so, we're gonna wanna be thinking in terms of some wireless connection to it.
+Bmr022	1659.698	1660.353	me011	Mm-hmm.
+Bmr022	1660.600	1670.441	me013	Um, so we have, you know, some kind of little something, and, uh, we have a wireless connection, this board, that's doing the computation for the f- the, uh - the recognition.
+Bmr022	1670.441	1678.720	me013	And so, you know, we wanna be able to show off to somebody, you know, we have a base station somewhere, and you're wandering around, uh, hands free, and -
+Bmr022	1678.395	1678.794	me011	Yep.
+Bmr022	1679.340	1681.972	me018	I don't understand. So - so there's a mike that plugs in -
+Bmr022	1681.972	1684.580	me018	You're saying there's a mike that plugs in to the I_RAM board? or -
+Bmr022	1683.669	1699.568	me013	No, no, what I'm saying is that we're gonna have to put together some kind of a little superstructure, d- some sort of demo box that it - that doesn't do a whole lot, but it somehow connects to - uh, remotely to this I_RAM board which will be doing the real computation.
+Bmr022	1689.090	1689.608	me011	Demo.
+Bmr022	1700.850	1702.200	me018	Oh, I see.
+Bmr022	1701.730	1735.999	me013	In other words, we're - we're not gonna attempt to build, uh, it - do the real work of building a portable device that's little, that is doing all the computation we wanna do for the recognition and the far-field mike, uh, compensation and all that stuff. So we're gonna do all that on this powerful board, and, uh, have some wireless connection to it. And then the question is what is - what does it look like, does it look like something that you - you hold like this, or do we make a big deal out of it that you hold it arm - at arm's length th- so that you can see some display, or, uh, do we have one of these - You know. I don't know.
+Bmr022	1736.500	1738.600	me013	So, it th- these are all possibilities.
+Bmr022	1736.864	1737.303	me011	Yep.
+Bmr022	1737.902	1742.171	me011	I mean, what I was envisioning was a P_D_A with a cellular link in it.
+Bmr022	1742.171	1745.478	me011	You know, with one of the r- short-range wireless.
+Bmr022	1746.199	1746.963	me011	And let th-
+Bmr022	1746.963	1751.527	me011	Just do - capture the audio on the P_D_A and send the audio over the wireless net.
+Bmr022	1753.070	1756.601	me013	Yeah. So, is- is Bluetooth the sort of thing that'd be, uh -
+Bmr022	1753.665	1754.069	me011	But.
+Bmr022	1756.040	1759.249	me011	Uh, Bluetooth is shorter range, but you could use Bluetooth.
+Bmr022	1760.248	1765.128	me011	Wh- whatever the network guys already have hooked up for this floor. I don't remember what it's called.
+Bmr022	1766.984	1767.502	me013	Hmm.
+Bmr022	1767.741	1774.797	me011	O_K, then uh, another issue on file reorganization is, uh, making data available to people outside ICSI.
+Bmr022	1775.433	1787.910	me011	So, specifically, the U_ W folks have been wanting to get access to it. So I think the right thing to do for that, is figure out how to do C_V_S without uh, compromising security. Some pass- S_S_H tunneled
+Bmr022	1787.910	1790.940	me011	C_V_S, and then give them access.
+Bmr022	1788.620	1790.240	me018	Well, I- I was -
+Bmr022	1791.430	1797.380	me018	I was reading through some of the C_V_S documentation and you can just substitute C_V_S for your R_S_ H command.
+Bmr022	1796.812	1800.088	me011	Yes, except that the command has to not take a password.
+Bmr022	1801.470	1801.850	me018	Hmm.
+Bmr022	1801.742	1806.102	me011	Because it- it's non-interactive. And so the only way to do that is with, uh -
+Bmr022	1806.740	1808.468	me011	S_hosts , which is insecure.
+Bmr022	1809.269	1809.774	me018	Hmm.
+Bmr022	1809.900	1815.256	me011	So we still have to sort of look at it a little bit. I mean, I'm sure it's been solved, and I just haven't found the solution yet.
+Bmr022	1815.256	1818.619	me011	But I am sure that people have done it because it's gonna be a problem a lot of people have.
+Bmr022	1820.570	1821.178	me011	But, um -
+Bmr022	1821.030	1828.100	me013	Who - Well, we're s- talking about a fairly limited group, are - are - is it a small enough group that they would - could just have accounts? Does that solve anything?
+Bmr022	1827.205	1832.160	me011	Uh, n- n- not really, because then we have the coordination issue.
+Bmr022	1832.855	1839.231	me011	I mean, so one thing they could do - I mean, I guess that's true. They could simply log in to ICSI and do everything locally.
+Bmr022	1837.331	1837.904	me013	Yeah.
+Bmr022	1837.400	1838.746	me018	Well they're gonna have to have accounts -
+Bmr022	1839.510	1841.570	me018	If they use S_S_H they have to have an account anyways.
+Bmr022	1841.570	1842.778	me011	Yeah, except they could share one.
+Bmr022	1844.518	1845.456	me013	Well, but that's not -
+Bmr022	1845.070	1852.227	me011	The, uh - the S_S_H accounts, and the user accounts don't have to be similar.
+Bmr022	1853.386	1853.892	me011	So.
+Bmr022	1854.349	1861.907	me011	I mean, there are lots of ways of doing it, but w- but if we can't figure out a remote way of doing it, just letting them log in to ICSI might be O_K.
+Bmr022	1861.937	1862.488	fe016	Mm-hmm.
+Bmr022	1863.267	1868.535	me011	So the intention was to put everything except the audio files themselves under revision control.
+Bmr022	1869.040	1875.612	me011	And the audio files, it's not worth doing cuz they're too big. You're never gonna be copying them around and making working copies of them.
+Bmr022	1876.890	1877.378	me013	Right.
+Bmr022	1878.340	1883.184	me011	<add_agenda_item> And then the other issue Jane and I spoke of briefly is just <agenda_item> general permission issues </agenda_item> </add_agenda_item>.
+Bmr022	1883.184	1887.816	me011	That right now, lots of people create the files and then we have group "Meeting Recorder".
+Bmr022	1887.816	1891.009	me011	But that means anyone in the Meeting Recorder group can overwrite the files.
+Bmr022	1892.010	1903.777	me011	And so that's a pretty coarse level of granularity. So we might wanna think about doing a Meeting Recorder user - owner for those files, and then doing group slightly differently. But -
+Bmr022	1904.231	1907.710	fe016	Can you just do, like, S_U_X or something to modify -
+Bmr022	1904.480	1905.486	me011	I think what we have now -
+Bmr022	1907.740	1909.690	fe016	I mean, if you just have one user that -
+Bmr022	1911.644	1920.509	me011	Another option is to m- make a non- make it owned by a not real user, and then root will be able to do it.
+Bmr022	1920.509	1922.573	me011	But root is pretty tightly controlled here.
+Bmr022	1922.489	1924.840	fe008	I had another thought.
+Bmr022	1922.534	1923.523	fe016	Mm-hmm.
+Bmr022	1923.780	1925.671	me011	So th- I don't think that's a good solution.
+Bmr022	1924.860	1935.140	fe008	Would - w- would it be possi- There are scripts that uh, run, and - and when it's finished compressing, would it be possible for the script to change the permissions on the file to be more strict?
+Bmr022	1935.321	1936.430	fe008	Have them -
+Bmr022	1935.908	1941.385	me011	Yes, but if you do that, then someone who isn't the owner can't unchange it.
+Bmr022	1941.930	1944.430	fe008	But after the meeting's done, would they want to?
+Bmr022	1945.280	1952.327	me011	Yeah, as I said, it's just a question of, uh, do you wanna have to track down root if you have to make any change.
+Bmr022	1952.300	1956.510	fe016	But it doesn't have to be root. It could be some other user that we all can S_U_X to.
+Bmr022	1956.632	1957.319	fe008	That's true.
+Bmr022	1958.026	1959.646	me011	You have security issues with that.
+Bmr022	1960.691	1961.177	me011	So.
+Bmr022	1960.950	1961.753	fe008	Yeah, that's true.
+Bmr022	1961.825	1962.451	fe016	I mean -
+Bmr022	1963.020	1965.170	me018	That's what we do with doctor-speech though, right?
+Bmr022	1965.092	1966.747	me011	No, with doctor-speech, it's just a group.
+Bmr022	1967.350	1972.145	me011	So - there're lots of different owners of i- i- of the files, but the group is always doctor-speech.
+Bmr022	1972.145	1973.571	me011	Or real, usually.
+Bmr022	1973.401	1975.550	me018	But there is a user doctor-speech.
+Bmr022	1976.440	1977.120	me018	Right?
+Bmr022	1977.720	1984.440	me018	I mean, I - I S_U_X to doctor-speech w- when I need to make a - a directory on, uh, one of the -
+Bmr022	1977.986	1979.194	me011	Nnn-
+Bmr022	1979.820	1980.554	me011	Oh, do you?
+Bmr022	1980.530	1985.043	fe016	Oh. So tha- that's what I meant, it - just some user like "meeting-root" or something.
+Bmr022	1985.310	1985.876	me011	Oh, O_K.
+Bmr022	1986.030	1986.586	fe016	I don't know.
+Bmr022	1990.740	1993.217	me011	I mean, I'm not too worried, because the group's pretty small.
+Bmr022	1994.240	1994.597	me011	But -
+Bmr022	1995.087	1995.638	me013	Yeah.
+Bmr022	1996.850	2007.330	fe008	Also it seems like once it's been stored that night, it's - it's possible to recover from backups, so that the main risk is avoiding it being accidentally deleted during the day that it was recorded.
+Bmr022	2009.016	2022.977	me011	Well, and just - You, then, also just have the general problem of permission on the other files, that, do you want people checking out a transcript file when they find an error, and correcting it, or do they wa- do you want it to go through you?
+Bmr022	2023.190	2023.517	fe008	Yeah.
+Bmr022	2025.050	2025.506	fe008	Yeah.
+Bmr022	2026.110	2027.396	fe008	And I'd prefer it to go through me.
+Bmr022	2027.820	2036.050	me011	O_K, but that means that you're gonna have to be available for people, all the time, who say "there's an error here", rather than just - them just going in and correcting it.
+Bmr022	2035.531	2037.259	fe008	Well I p- At this point - Yeah.
+Bmr022	2036.050	2039.020	me018	Well, with C_V_S, though, you don't actually have to do it that way.
+Bmr022	2037.497	2038.268	fe016	Yeah.
+Bmr022	2038.610	2039.218	me011	Well, but -
+Bmr022	2039.830	2044.707	me011	You have a choice. Either you let people do it themselves, or you don't.
+Bmr022	2040.780	2041.257	fe008	Yeah.
+Bmr022	2044.284	2049.650	me018	What I'm saying is that it can be the case that people can do it themselves and it can be reviewed.
+Bmr022	2044.294	2044.580	fe008	w- w-
+Bmr022	2044.580	2045.130	fe008	Well-
+Bmr022	2049.900	2050.600	me018	Right?
+Bmr022	2050.480	2050.916	me011	Right.
+Bmr022	2050.830	2053.580	me018	I mean, it's not like it's one or the other. We can do both.
+Bmr022	2055.060	2056.558	fe016	Yeah, you can -
+Bmr022	2055.340	2056.666	me011	Right, so you could get email.
+Bmr022	2057.520	2062.267	me011	Send email to Jane that someone has done a revision.
+Bmr022	2060.310	2060.713	me018	Right.
+Bmr022	2061.252	2079.380	fe008	I - I wanna also say that, you know, this is a - uh, uh, My - my view on this is that once it's in a final version and I'm working toward all these being final versions, then it can go into this next ro- this next realm. But it - it's sort of counter-productive to have changes made which I would be making if I'd just gotten that far in the file. You know, it's - it's, um.
+Bmr022	2078.790	2083.012	me011	Well, so, you don't have to release it to the world until you're ready to.
+Bmr022	2080.710	2081.198	fe008	Yeah.
+Bmr022	2082.740	2083.389	fe008	That's right.
+Bmr022	2083.267	2084.847	me011	So the question is s- w-
+Bmr022	2083.658	2085.655	fe008	And then after that, then this would probably work.
+Bmr022	2085.655	2086.042	fe008	Yeah.
+Bmr022	2085.800	2090.623	me011	So you would keep it in a separate file structure until you were ready to put it in the repository.
+Bmr022	2090.350	2091.396	fe008	Good, good.
+Bmr022	2091.719	2092.890	fe016	I mean -
+Bmr022	2092.500	2093.835	me011	Or just keep the lock on it.
+Bmr022	2092.890	2095.650	fe016	Is C_V_S, like - Yeah, just keep the lock on.
+Bmr022	2095.650	2098.941	fe016	I mean, just check it out - check it out and don't let anyone check it out -
+Bmr022	2096.140	2096.989	me011	Until you're - Yep.
+Bmr022	2098.290	2100.484	me018	No, it does not - the C_V_S doesn't work that way.
+Bmr022	2098.941	2099.735	fe016	Oh, it -
+Bmr022	2099.735	2101.151	fe016	Oh, it doesn't. Oh, O_K.
+Bmr022	2100.484	2104.733	me018	There's no - there's no lock when you check something out, not like R_C_S.
+Bmr022	2104.733	2107.560	me018	In other words, everybody can check out anything.
+Bmr022	2107.180	2108.253	fe016	Oh.
+Bmr022	2107.560	2109.400	me018	The C_ stands for "concurrent".
+Bmr022	2108.253	2111.829	fe016	So why not use R_C_S at that point? Just at that stage?
+Bmr022	2110.270	2111.296	me011	Cuz it's not remote.
+Bmr022	2113.686	2114.870	fe016	It's not remote.
+Bmr022	2114.990	2118.170	me011	The nice thing about C_V_S is - is, you can be on a different machine.
+Bmr022	2119.440	2125.351	fe016	But at that point - we only want, probably, Jane to be in control anyway, and she - I mean, it's just an i-
+Bmr022	2124.570	2129.024	me011	No, because U_W wants to have access to these files. That's the whole point.
+Bmr022	2129.130	2131.110	fe016	But not to modify them, right? Just to read them.
+Bmr022	2131.110	2142.604	me011	Well, if they k- en- if they record a meeting, and they create a "key" file, and they find an error in their "key" file, they shouldn't have to tell us about that so that they can create - correct an error in one of their files.
+Bmr022	2143.430	2146.014	fe008	Well, the " key " file is - ke- " key " file's different.
+Bmr022	2143.540	2144.770	me011	So that's why I wanna do it -
+Bmr022	2144.160	2145.583	fe016	I don't know, uh - I mean -
+Bmr022	2146.539	2147.375	fe008	"Key" fi-
+Bmr022	2146.750	2147.732	me011	Different than what?
+Bmr022	2147.375	2155.380	fe008	Well, "key" file has the extra attributes that if you notice that there are lots of spikes on channel so-and-so, it's useful as a repository for putting that there.
+Bmr022	2155.650	2163.737	fe008	And also if you notice that there was an extra speaker, and didn't get mentioned in the "key" file, but they were only there for a second, but it's t- useful to mention that they were there.
+Bmr022	2163.737	2169.221	fe008	So I th- I think that the "key" file is usefu- for notations related to the meeting, but it's different from the transcript.
+Bmr022	2164.920	2165.364	me011	Well -
+Bmr022	2165.788	2166.510	me011	B-
+Bmr022	2167.114	2171.420	me011	But, I mean, the meetings are gonna be the same way. So U_W records a meeting, we transcribe it.
+Bmr022	2171.460	2171.866	fe008	Yeah.
+Bmr022	2172.610	2176.076	me011	A few months later they listen to it and they say "Ope! They got that acronym wrong."
+Bmr022	2177.140	2177.600	fe008	Yeah.
+Bmr022	2177.547	2178.857	me011	Why - why sh-
+Bmr022	2177.600	2180.100	fe016	Then they should send that through - Well -
+Bmr022	2180.500	2189.150	fe016	It's sort of not really a question about permissions, but more of procedure. Either those all go through Jane, or through someone, or they all don't. But it's sort of -
+Bmr022	2186.499	2187.075	me011	Mm-hmm.
+Bmr022	2189.520	2199.808	fe016	And if they all do, then there isn't a problem, right? Cuz once they give us the data, it's ours, and if they wanna make changes - I mean, ours to sort of transcribe and annotate.
+Bmr022	2199.808	2203.470	fe016	And if they wanna make changes, they can do that.
+Bmr022	2199.825	2204.311	me011	The - the p- the point here is that it would be nice t- for there to be one repository.
+Bmr022	2204.554	2205.713	fe008	Yeah.
+Bmr022	2204.586	2205.164	me013	Yeah
+Bmr022	2205.150	2210.806	me011	And if we don't let them modify their own data, they're not gonna store their data in our repository.
+Bmr022	2210.806	2213.530	me011	Or if we make it inconvenient for them to change their data.
+Bmr022	2213.530	2215.013	fe016	So then if they do have acc-
+Bmr022	2214.130	2216.189	me011	I - I'm just looking at it the other way around.
+Bmr022	2215.013	2216.187	fe016	O_K, so what if they have -
+Bmr022	2216.187	2223.291	fe016	What if they have accounts here, and they use R_C_S, at that point, where you can l- really lock a file.
+Bmr022	2216.189	2217.248	me011	So - so let's say we k-
+Bmr022	2224.350	2228.030	fe016	I mean, I'm worried. If you can't lock a file, this - this to me sounds very scary.
+Bmr022	2224.894	2225.461	fe008	Hmm.
+Bmr022	2228.430	2228.877	fe016	Um -
+Bmr022	2229.274	2244.110	fe016	And if they have accounts here and they're modifying it - If they're ac- if they're so closely linked that they're actually modifying transcripts and "key" files, then they could do it by, you know, secure-shelling into ICSI, under R_C_S, at that point.
+Bmr022	2243.920	2247.224	me011	Ye- well, I don't see a real difference between R_C_S and any other system.
+Bmr022	2247.224	2256.629	me011	I mean, it's just mechanisms. The nice thing about C_V_S is that you can have multiple people modifying and if the changes don't overlap each other, they can just do it.
+Bmr022	2256.657	2257.319	fe008	Hmm.
+Bmr022	2258.797	2259.590	fe008	That's interesting.
+Bmr022	2259.410	2268.161	me011	So the problem with R_C_S is that if two people want to modify a file at the same time they can't, because the granularity of locking is at the file level.
+Bmr022	2259.616	2260.168	mn014	Yeah.
+Bmr022	2267.683	2270.530	me013	What- what does C_V_S do if they - if they do overlap?
+Bmr022	2270.600	2273.970	me011	Uh, there're lots of different policies for dealing with it. So -
+Bmr022	2272.754	2273.930	fe016	Mm-hmm.
+Bmr022	2273.039	2280.420	me018	But typically a person has to, uh, mediate you know, which changes actually get - go through.
+Bmr022	2274.388	2274.992	mn014	Yeah.
+Bmr022	2277.679	2278.402	fe008	Oh.
+Bmr022	2279.045	2280.940	mn014	Yeah, to decide which one is - Yeah.
+Bmr022	2280.439	2281.099	fe008	Oh.
+Bmr022	2281.634	2282.119	me013	Oh, I-
+Bmr022	2281.980	2288.846	fe016	So, maybe there is a way in C_V_S to effectively lock something if you don't want people to make any changes?
+Bmr022	2289.330	2295.060	me011	At the repository level, there certainly is. You can mark a file as - as "you can't check this out".
+Bmr022	2291.308	2291.921	fe016	Uh-huh.
+Bmr022	2294.697	2295.743	fe016	Oh. So -
+Bmr022	2297.720	2298.910	me018	C_V_S is pretty good.
+Bmr022	2297.860	2311.249	fe016	So then you could use C_V_S and, you know, just f- have remote access, but then it's up to whoever is, sort of, responsible for that level of transcription to decide how and when to put these locks, or -
+Bmr022	2299.729	2300.383	me013	O_K.
+Bmr022	2301.603	2301.971	me011	Yep.
+Bmr022	2309.870	2312.120	me011	Well, it's - it's just like source code, right?
+Bmr022	2312.120	2316.039	me011	So that, when you're developing it and it's really rough, you don't put it in the repository.
+Bmr022	2316.423	2316.870	fe016	Yeah.
+Bmr022	2316.460	2321.024	me011	You wait to the point when you're ready to release it, and then you put it in the repository and if other people wanna -
+Bmr022	2319.640	2320.319	me018	Yeah, so the w-
+Bmr022	2319.866	2320.359	fe008	Mm-hmm.
+Bmr022	2320.319	2320.948	me018	In-
+Bmr022	2320.948	2329.920	me018	The - Maybe the model - It's a little bit different in C_V_S. When you check something out, you actually create your own directory with copies of everything in it, and that's what you work on.
+Bmr022	2326.580	2327.168	me011	Copy.
+Bmr022	2330.060	2339.080	me018	So, until you're ready to check it in, nobody sees anything you've done. And then when you check it in, it puts, sort of, you know - every change that you've done is - goes into the central -
+Bmr022	2336.919	2337.688	fe016	Right.
+Bmr022	2338.870	2339.827	fe016	So if that's at an-
+Bmr022	2339.080	2339.505	me013	Hmm.
+Bmr022	2339.827	2363.360	fe016	I guess it depends on Jane's - Uh, you know, if that's - if that model works for the transcripts, then that's fine. But if that pr- um, allows someone to come in and modify while you're modifying, and they turn out to be changes that, you know, would have been better to wait until your version came out, then that's really up to you, not up to the software, so.
+Bmr022	2362.160	2362.598	fe008	Well,
+Bmr022	2362.598	2375.077	fe008	I also think, um, that the type of change ch- ch- varies an- I think it's a very good point. Because what if the - uh, what if one set of changes one person was making was with reference to some typographical convention.
+Bmr022	2374.738	2375.224	me011	Mm-hmm.
+Bmr022	2375.077	2380.288	fe008	And the other person n- unkn- n- quite unknowingly, was changing it the other way around.
+Bmr022	2380.288	2386.902	fe008	Then you could end up with a real mess, in terms of, like, consistency of conventions across a file, there is an argument to be made for having a single editor editing at that level.
+Bmr022	2386.750	2390.460	me018	Well yeah, there would - there would have to be somebody to enforce the consistency. Yeah.
+Bmr022	2386.902	2388.578	fe008	But I like b- I like what Liz is saying about -
+Bmr022	2389.696	2411.454	fe008	That's right. And I also like - I l- also like Liz's uh, k- um, phraseology of "at this level of" - I don't remember how you put it, but this - "at this level of transcription" or whatever. I mean it's like there are different layers of whatever and different types of conventions, and if it were an acronym, then I would - I think that it would make sense f- for them to have input into that level of things, but I wouldn't want them to be changing -
+Bmr022	2410.210	2410.983	me011	I'm just -
+Bmr022	2410.983	2416.647	me011	Imagine that we reverse this and they were keeping the repository and we were d- collecting meetings and sending them to them.
+Bmr022	2412.860	2413.268	fe008	Yeah.
+Bmr022	2416.102	2416.635	fe008	Mm-hmm.
+Bmr022	2417.310	2422.876	me011	If I found an error, and I sent them email and said "here's this error", and I didn't get a response for a couple weeks,
+Bmr022	2423.279	2427.912	me011	I would stop sending them the - my data and I would start collecting it here and we would end up with two corpora.
+Bmr022	2428.659	2429.896	fe008	Well, yeah.
+Bmr022	2429.040	2434.656	me011	And I don't want that to happen. So we have to make it convenient for them to make changes that they wanna make.
+Bmr022	2429.896	2430.910	fe008	I agree.
+Bmr022	2432.880	2434.329	fe008	Well -
+Bmr022	2435.119	2442.823	fe008	Well, I see now, we're k- back into the same situation as when we were, uh, talking about a- allowing people to edit the transcripts before they become public.
+Bmr022	2442.823	2448.772	fe008	So there's a question of how easy or how hard to modify, and how that impacts the amount of changing that's done.
+Bmr022	2445.706	2446.274	me011	Mm-hmm.
+Bmr022	2448.772	2451.337	fe008	And I - I think that it's, um,
+Bmr022	2452.130	2455.225	fe008	I - I have received some suggestions for change, which I've made.
+Bmr022	2455.762	2460.422	fe008	And um, I think with an acronym, that's a clear case where it would be an easy change to incorporate.
+Bmr022	2460.422	2473.500	fe008	But it would worry me to have people, um, having free reign to change these things, because of the need to have consistent conventions. And people who are only just visiting the data might not have a sense of the larger system.
+Bmr022	2474.190	2476.163	fe016	Yeah, that's what I would be worried about too.
+Bmr022	2474.493	2481.767	me018	Well, I think - yeah, I think there are probably ways that you can say that, you know, only certain users are allowed to change things.
+Bmr022	2475.643	2476.162	fe008	Yeah.
+Bmr022	2481.694	2482.217	fe008	Mm-hmm.
+Bmr022	2482.150	2484.590	me018	Uh, so we can probably restrict it to be -
+Bmr022	2484.800	2490.970	me018	You know, f- casual users who are just browsing can just r- get it read-only, can't check in to the archive.
+Bmr022	2490.050	2490.578	fe008	Mm-hmm.
+Bmr022	2491.060	2495.533	me018	Whereas we could say "other people", you know, "these people are allowed to actually submit changes".
+Bmr022	2494.696	2495.465	fe016	Right.
+Bmr022	2495.533	2496.066	me018	I mean,
+Bmr022	2496.066	2519.000	me018	I - I think one thing that's probably everybody would agree on is that there will never be a point where you know, we can say that for sure there's no problems with any of the transcripts. I mean there's, uh - f- You know, something's going to get overlooked at some point, or somebody's gonna wanna make a change somehow. So we need to have some mechanism for, um, handling changes in the future.
+Bmr022	2518.690	2521.634	fe008	I agr- I agree but I have to also add one other thing which i- before I forget it, which is
+Bmr022	2521.931	2526.248	fe008	Adam's point about when you were reviewing the I_B_M transcripts. u- This was mentioned at the beginning of the meeting.
+Bmr022	2526.578	2533.163	fe008	You said that there were some places where it wasn't what y- was written already, but you could see how they might have thought that's what it said.
+Bmr022	2533.514	2547.149	fe008	So there - it's not just a right and wrong thing. Sometimes there tru- there are absolutely stretches where there is no - no - k- if you were at the meeting and you could ask the person, maybe, m- you know, they could - they could've told you, but five minutes later they might not have been able to tell you, even if they were listening to it.
+Bmr022	2536.750	2538.560	me018	Yeah. Exactly.
+Bmr022	2541.504	2541.975	me018	Mm-hmm.
+Bmr022	2545.750	2546.550	me018	Right.
+Bmr022	2547.149	2551.140	fe008	So, sometimes it isn't right and wrong, sometimes it's multiple interpretations, and -
+Bmr022	2547.190	2548.090	me018	Yeah.
+Bmr022	2550.970	2552.160	me018	Good point. Yeah.
+Bmr022	2551.562	2559.317	fe008	Now - But of course, this does raise the possibility of allowing, um, an extra annotation for, you know, alternative interpretations of a stretch.
+Bmr022	2559.303	2559.876	me018	Mm-hmm.
+Bmr022	2559.317	2561.948	fe008	But I just wanted to say it isn't simply right or wrong.
+Bmr022	2561.800	2563.380	me018	Yeah, that's a good point.
+Bmr022	2561.948	2563.661	fe008	Or overlooked or not overlooked.
+Bmr022	2563.661	2568.920	fe008	Sometimes they're truly ambiguous, and um, uh, um, nice to have a notation for that, but. Yeah.
+Bmr022	2565.460	2565.980	me018	Mm-hmm.
+Bmr022	2567.591	2569.449	me013	Gotta go.
+Bmr022	2568.630	2569.390	me018	Yeah.
+Bmr022	2570.000	2582.461	fe016	I mean, I like that idea because even a casual user can always send email to whoever's in charge, and say, you know, "we'd like these changes" and, you know, hopefully we'll give them a response. And if they really do it a lot, and they say
+Bmr022	2573.993	2574.592	me018	Mm-hmm.
+Bmr022	2576.310	2576.797	me011	Well -
+Bmr022	2578.050	2579.107	me011	I just - I don't s-
+Bmr022	2580.110	2581.402	me011	I don't see that this is e-
+Bmr022	2582.310	2582.715	me011	Yep.
+Bmr022	2582.461	2589.286	fe016	"we're a casual user but we want a chance to change the transcripts " then we can face that if it happens, but
+Bmr022	2587.780	2589.685	me011	Can you write "unread" on that?
+Bmr022	2589.685	2590.794	me011	Yeah, thank you.
+Bmr022	2589.976	2598.278	fe016	I don't really see the people at U_W that I know of right now making huge amoun- investing huge amounts of time in changing transcripts. But I could be wrong.
+Bmr022	2596.960	2601.251	me011	Probably not transcripts, but it would be nice to have one mechanism for all the files.
+Bmr022	2601.251	2603.473	me011	And they're certainly gonna wanna change tools.
+Bmr022	2602.230	2602.624	fe016	Yeah.
+Bmr022	2604.610	2607.916	me011	And so - you know, it's the same as source code. You - you release source code at some point.
+Bmr022	2608.431	2612.533	me011	And, either you have to do everything or you share responsibility.
+Bmr022	2612.340	2615.849	me018	Yeah I mean a lot of the open source pro- projects face this same problem.
+Bmr022	2615.610	2616.132	fe016	Right.
+Bmr022	2615.849	2621.172	me018	You know, p- anybody can check out the code, but not everybody can check it in. Yeah.
+Bmr022	2620.170	2648.397	fe016	Right. And there's some happy medium and we don't know what that is yet until we get feedback from people, but what if it's O_K to just handle it with sort of a person in charge of the philosophy behind the changes, and some people with permissions, maybe by request, to make changes, That we don't just give people permissions if they're not gonna make changes. Because I've overwritten a - a file by mistake, not wanting to have done that cuz I didn't think I had permission, when I did.
+Bmr022	2648.245	2648.765	me011	Mm-hmm.
+Bmr022	2649.580	2655.890	fe016	Um, and then just seeing if that is enough to - to handle the transcript changes.
+Bmr022	2649.968	2650.613	fe008	Mm-hmm.
+Bmr022	2657.480	2672.005	fe016	I'm just worried about letting everybody go in and make changes, cuz it's real easy when you're trying to, I don't know, run alignments and there's a word you wanna fix, to go in and do that and then mess up other things, if you don't know, you know, the overall philosophy behind the - the conventions.
+Bmr022	2670.925	2671.532	fe008	Mm-hmm.
+Bmr022	2671.340	2671.787	me011	Right.
+Bmr022	2671.680	2673.420	fe008	And als- it also- Mm-hmm.
+Bmr022	2671.700	2681.193	me018	Then - There is also the possibility - Remember, in C_V_S, when we talk about making changes, there's sort of two types that can be made. To your local, or to the global.
+Bmr022	2675.189	2676.564	me011	You can back everything out.
+Bmr022	2681.170	2681.657	fe016	Mm-hmm.
+Bmr022	2681.193	2695.550	me018	And so people can make changes to their local and if they screw those up, that's, you know, in their - that's only on them. It's w- it's the checking in part that r- we really care about, and that we can control with, you know, who can check things in and stuff. So we can - I think we can do this.
+Bmr022	2682.987	2683.551	fe016	Right.
+Bmr022	2684.360	2685.144	fe016	Exactly.
+Bmr022	2685.849	2686.632	fe008	Mm-hmm.
+Bmr022	2694.680	2702.629	fe016	Or just, yeah, start by make it a really tight control and then as people really need the control you can ascertain whether or not to -
+Bmr022	2695.223	2695.817	fe008	Mm-hmm.
+Bmr022	2697.080	2697.910	me018	Mm-hmm.
+Bmr022	2699.520	2701.720	me018	Yeah. They can still check it out -
+Bmr022	2701.840	2706.631	me018	Yeah, cuz they can still check out full copies and make whatever changes they want to their local copies.
+Bmr022	2703.664	2704.328	fe016	Right.
+Bmr022	2706.631	2711.130	me018	And it won't affect the - the g- the global, official, ones at all.
+Bmr022	2707.701	2708.244	fe016	Right.
+Bmr022	2710.700	2713.647	me011	Right, but what I want to avoid is ending up with two corpora.
+Bmr022	2711.643	2712.116	mn014	Yeah.
+Bmr022	2713.590	2714.416	me018	Yes.
+Bmr022	2714.251	2723.810	me011	And so if you make it too hard for them to check back in, they'll check it out once, they'll make all the changes, they'll never tell us about the changes, and we'll get two different corpora.
+Bmr022	2714.416	2715.247	me018	Definitely.
+Bmr022	2717.847	2718.250	me018	Yep.
+Bmr022	2721.510	2722.026	me018	Mm-hmm.
+Bmr022	2723.758	2724.275	me018	Mm-hmm.
+Bmr022	2725.470	2725.892	me011	Right?
+Bmr022	2725.860	2732.870	fe016	I think we're already gonna - I mean there's already some chance that different annotations, different places, you know -
+Bmr022	2732.950	2749.551	fe016	But you can control that by knowing you're making two corpora or knowing that you're adding um, annotations on one version and you don't have the latest corrections maybe at that point. And then you finish the project and you realize that there were corrections made on your originals and then you have to merge them.
+Bmr022	2749.863	2756.797	fe016	And the b- the thing that makes it ea- O_K to do that, is knowing where the synch time boundaries are.
+Bmr022	2756.797	2769.442	fe016	Cuz you can automatically pretty much merge things if you've only got twenty words or so in an utterance. It's when you get the whole meeting and the synch times ch- have changed, or you can't correspond to a previous version with synch times, that you get in trouble.
+Bmr022	2771.035	2771.680	fe016	So.
+Bmr022	2778.250	2780.240	fe016	Was there anything else on your list?
+Bmr022	2779.299	2779.785	me011	Nope.
+Bmr022	2781.830	2782.997	me011	Shall we do some digits?
+Bmr022	2785.565	2788.002	me011	Uh, Transcript L_ one one six.
+Bmr022	2788.400	2792.670	fe016	Now, wait, are - are we doing them simultaneously or one at a time? Alright.
+Bmr022	2790.680	2792.900	me011	I wasn't planning on doing it simultaneously.
+Bmr022	2791.860	2796.622	me018	Lee , you liked that l- huh?
+Bmr022	2793.443	2823.494	me011	Transcript L_ one one six. eight two six, four four five, one nine nine one three one one, eight seven three six, seven one one seven eight, two eight three, eight zero, three eight two, nine two, seven five eight, four three, zero nine nine, seven zero nine four, four eight four, four seven four seven six, four one, eight eight, nine nine, eight seven three two, four six, four three, one nine, two eight four seven six two, four O_ four five, nine six five one.
+Bmr022	2825.500	2855.330	fe016	Transcript L_ one one seven. seven five eight, five one three, O_ seven one four two six nine four, five six two three, seven O_ four four seven, five one three, seven four, eight O_ one, five six six two seven, five, three seven six eight O_ six, nine seven six, one four two one three nine, eight five, two three one O_ eight eight four four, four, two nine five four six one, one O_ three, two two four.
+Bmr022	2857.161	2892.590	me018	Transcript L_ dash one two seven. two eight two, two seven six, eight six four eight eight three, two zero six, two six two eight seven, five six, seven six, one seven, zero zero seven eight three zero, seven five two seven, five three eight three five five, seven three, zero eight, five nine, five seven one, four eight two, eight nine, six six seven, zero two nine three six, nine two one five, zero five eight zero nine seven six, six O_ three, nine seven six.
+Bmr022	2893.896	2910.886	fe008	Transcript L_ one two nine. zero nine, zero zero, five three, nine two, five five six, zero three seven, seven zero, nine eight eight, nine zero seven five, nine six nine, one one eight two six eight seven, two five, one one four four
+Bmr022	2911.400	2925.498	fe008	O_ four four, five five two, seven five O_ five five, seven five three, O_ O_, six seven nine one seven eight four, three, two seven eight six three seven five, one, two eight four.
+Bmr022	2926.755	2968.710	mn014	Transcript L_ one two eight. eight, four three two, three six, one O_ seven, six zero four six, six nine, six five O_ nine six two, eight seven, eight one, seven seven, O_ two nine, seven nine two, one zero, zero five five, one three zero, four seven, nine, six one five two zero seven two, six zero, six zero, six seven, four two three, five two four, zero six, six O_ two, eight three eight two, two seven, one nine nine six.
+Bmr022	2973.097	2975.133	me011	Oop! Ouch!
+Bmr022	2975.250	2976.170	fe008	Ooo!

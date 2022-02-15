@@ -1,0 +1,1004 @@
+Bmr010	3.524	5.574	me011	O_K. We seem to be recording.
+Bmr010	5.412	7.324	me013	Alright! We're not crashing.
+Bmr010	6.489	12.003	me011	So, sorry about not - not pre-doing everything. The lunch went a little later than I was expecting,
+Bmr010	7.243	8.601	mn005	Number four.
+Bmr010	13.491	14.091	me011	Chuck.
+Bmr010	14.459	15.109	me018	Hmm?
+Bmr010	16.183	17.071	me013	O_K.
+Bmr010	16.819	19.351	mn017	Chuck was telling too many jokes, or something?
+Bmr010	18.880	19.554	me018	Yeah.
+Bmr010	18.930	20.630	me011	Yep. Pretty much.
+Bmr010	19.950	23.207	me013	O_K.
+Bmr010	23.484	24.908	me013	<open_agenda> Does anybody have an agenda </open_agenda>?
+Bmr010	25.020	26.631	me011	No.
+Bmr010	26.072	35.040	fe008	<find_email> Well, <from_contact_name> I'm - I </from_contact_name> sent <email_content> a couple of items </email_content> </find_email>. They're - they're sort of practical. I don't know if you're - if - if that's too practical for what we're focused on.
+Bmr010	27.875	30.501	me013	I thought somebody had. Yeah, that's right.
+Bmr010	32.000	36.987	me013	Yeah, we only want th- useless things. Yeah. No, why don't we talk about practical things? Sure.
+Bmr010	32.359	35.310	me011	I mean, we don't want anything too practical. Yeah, that would be -
+Bmr010	36.480	36.914	fe008	O_K.
+Bmr010	37.848	41.227	fe008	<add_agenda_item> Well, um, I can give you <agenda_item> an update on the transcription effort </agenda_item> </add_agenda_item>.
+Bmr010	41.480	41.954	me013	Great.
+Bmr010	41.760	51.270	fe008	<add_agenda_item> Uh, maybe raise <agenda_item> the issue of microphone, uh, um procedures with reference to the cleanliness of the recordings </agenda_item> </add_agenda_item>.
+Bmr010	47.359	48.427	me013	b-
+Bmr010	51.918	55.706	me013	<add_agenda_item> O_K, <agenda_item> transcription </agenda_item>, uh, <agenda_item> microphone issues </agenda_item> - </add_agenda_item>
+Bmr010	54.592	63.059	fe008	And then maybe ask, th- uh, these guys. <add_agenda_item> <agenda_item> The - we have great - great, uh, p- steps forward in terms of the nonspeech-speech pre-segmenting of the signal </agenda_item> </add_agenda_item>.
+Bmr010	63.030	63.618	me013	O_K.
+Bmr010	64.974	66.280	me011	Well, we have steps forward.
+Bmr010	66.570	69.092	fe008	Well, it's a - it's a big improvement.
+Bmr010	67.211	68.121	mn014	Yeah.
+Bmr010	67.866	68.286	me013	Yes.
+Bmr010	68.121	69.700	mn014	I would prefer this.
+Bmr010	69.172	70.735	me013	Yeah, well. O_K.
+Bmr010	71.437	72.476	me013	Uh -
+Bmr010	72.970	77.931	mn005	<add_agenda_item> We talk about <agenda_item> the - the results of use - </agenda_item> </add_agenda_item>
+Bmr010	73.106	73.917	me013	You have some -
+Bmr010	74.451	74.908	me013	Yeah.
+Bmr010	76.540	77.021	me013	O_K.
+Bmr010	76.606	81.212	me011	<add_agenda_item> I have a little bit of <agenda_item> I_RAM stuff </agenda_item> but I'm not sure if that's of general interest or not </add_agenda_item>.
+Bmr010	81.460	82.218	me013	Uh, bigram?
+Bmr010	82.233	83.079	me011	I_RAM .
+Bmr010	82.780	83.204	me013	I_RAM .
+Bmr010	83.079	83.689	mn005	I_RAM.
+Bmr010	83.753	84.794	me013	Well, m- maybe.
+Bmr010	83.875	86.180	me011	I_RAM, bigram, you know.
+Bmr010	84.575	85.697	mn005	Bi- Bigram.
+Bmr010	85.510	88.845	me013	Yeah, let's - let's see where we are at three-thirty. Um -
+Bmr010	86.999	87.830	mn017	Hmm.
+Bmr010	88.850	93.392	mn017	Since, uh - since I have to leave as usual at three-thirty, can we do the interesting stuff first?
+Bmr010	93.526	95.121	fe008	I beg your pardon?
+Bmr010	93.689	96.370	me013	Well -
+Bmr010	93.810	97.541	mn005	Yeah.
+Bmr010	93.840	97.170	me011	What's the interesting stuff?
+Bmr010	94.048	95.053	mn014	Which is - ?
+Bmr010	95.121	96.368	fe008	I beg your pardon?
+Bmr010	96.370	99.543	me013	Yeah. Th- now you get to tell us what's the interesting part. But - Yeah.
+Bmr010	97.660	98.655	me018	Please specify.
+Bmr010	98.727	100.098	mn014	Yeah.
+Bmr010	98.999	105.075	mn017	Well, uh, I guess the work that's been done on segmentation would be most - Yeah.
+Bmr010	103.579	105.244	fe008	I think that would be a good thing to start with.
+Bmr010	105.332	105.980	me013	O_K.
+Bmr010	106.341	139.254	me013	<find_calendar_entry> Um, and, um, the other thing, uh, which I'll just say very briefly that maybe relates to that a little bit, which is that, um, uh, one of the suggestions that came up in a <entry_type> brief meeting </entry_type> <contact_name> I </contact_name> had the other day when I was in <absolute_location> Spain </absolute_location> with, uh, <contact_name> Manolo Pardo </contact_name> and <contact_name> Javier, uh, Ferreiros </contact_name>, who was here before, was, um, why not start with what they had before but add in the non-silence boundaries </find_calendar_entry>.
+Bmr010	126.244	126.719	mn005	Yeah.
+Bmr010	139.526	148.071	me013	<search> So, in what <query_term> Javier </query_term> did before when they were doing, um - h- he was <query_term> looking for, uh, speaker change points </query_term> </search>.
+Bmr010	147.971	148.465	mn005	Mm-hmm.
+Bmr010	148.802	149.476	me013	Um.
+Bmr010	150.069	161.002	me013	As a simplification, he originally did this only using silence as, uh, a putative, uh, speaker change point.
+Bmr010	161.110	161.615	mn014	Yeah.
+Bmr010	161.563	168.786	me013	And, uh, he did not, say, look at points where you were changing broad sp- uh, phonetic class, for instance.
+Bmr010	169.357	172.405	me013	And for Broadcast News, that was fine.
+Bmr010	172.800	174.556	me013	Here obviously it's not.
+Bmr010	175.047	175.463	mn005	Yeah.
+Bmr010	175.222	198.863	me013	And, um, so one of the things that they were pushing in d- in discussing with me is, um, w- why are you spending so much time, uh, on the, uh, feature issue, uh, when perhaps if you sort of deal with what you were using before and then just broadened it a bit, instead of just ta- using silence as putative change point also - ?
+Bmr010	193.392	193.892	mn005	Uh-huh.
+Bmr010	198.863	204.518	me013	So then you've got - you already have the super-structure with Gaussians and H_- you know, simple H_M_Ms and so forth.
+Bmr010	199.241	199.854	mn005	Nnn, yeah.
+Bmr010	204.956	206.209	me013	And you - you might -
+Bmr010	206.209	214.952	me013	So there was a - there was a little bit of a - a - a - a difference of opinion because I - I thought that it was - it's interesting to look at what features are useful.
+Bmr010	215.411	215.866	mn005	Yeah.
+Bmr010	215.468	238.515	me013	But, uh, on the other hand I saw that the - they had a good point that, uh, if we had something that worked for many cases before, maybe starting from there a little bit - Because ultimately we're gonna end up with some s- su- kind of structure like that, where you have some kind of simple H_M_M and you're testing the hypothesis that, uh, there is a change. So - so anyway, I just - reporting that. But, uh, uh -
+Bmr010	226.670	227.298	mn005	Yeah.
+Bmr010	232.790	233.417	mn005	Yeah.
+Bmr010	234.959	235.406	mn005	Yeah.
+Bmr010	236.707	238.106	mn005	O_K.
+Bmr010	239.005	242.305	me013	So. Yeah, why don't we do the speech-nonspeech discussion?
+Bmr010	241.520	241.891	fe008	Yeah.
+Bmr010	242.317	243.930	fe008	Do - I - I hear - you - you didn't -
+Bmr010	242.989	244.427	mn014	Speech-nonspeech? O_K.
+Bmr010	243.930	244.743	fe008	Uh-huh. Yeah.
+Bmr010	244.961	255.439	mn014	Um, so, uh, what we basically did so far was using the mixed file to - to detect s- speech or nonspeech portions in that.
+Bmr010	251.364	252.200	me013	Mm-hmm.
+Bmr010	255.439	266.850	mn014	And what I did so far is I just used our old Munich system, which is an H_M_M-ba- based system with Gaussian mixtures for s- speech and nonspeech.
+Bmr010	267.486	287.167	mn014	And it was a system which used only one Gaussian for silence and one Gaussian for speech. And now I added, uh, multi-mixture possibility for - for speech and nonspeech. And I did some training on - on one dialogue, which was transcribed by -
+Bmr010	273.501	274.213	me013	Mm-hmm.
+Bmr010	276.730	277.319	me013	Mm-hmm.
+Bmr010	287.474	288.294	mn005	Jose.
+Bmr010	287.549	294.874	mn014	Yeah. We - we did a nons- s- speech-nonspeech transcription. Adam, Dave, and I, we did, for that dialogue and I trained it on that.
+Bmr010	295.307	304.241	mn014	And I did some pre-segmentations for - for Jane. And I'm not sure how good they are or what - what the transcribers say. They - they can use it or - ?
+Bmr010	304.995	310.992	fe008	Uh, they - they think it's a terrific improvement. And, um, it real- it just makes a - a world of difference.
+Bmr010	308.240	308.797	me013	Hmm.
+Bmr010	311.495	318.873	fe008	And, um, y- you also did some- something in addition which was, um, for those in which there was, uh, quiet speakers in the mix.
+Bmr010	318.463	336.936	mn014	Yeah. Uh, yeah. That - that was one - one - one thing, uh, why I added more mixtures for - for the speech. So I saw that there were loud - loudly speaking speakers and quietly speaking speakers. And so I did two mixtures, one for the loud speakers and one for the quiet speakers.
+Bmr010	326.276	327.066	me013	Mm-hmm.
+Bmr010	336.099	339.580	me011	And did you hand-label who was loud and who was quiet, or did you just - ?
+Bmr010	338.550	346.938	mn014	I did that for - for five minutes of one dialogue and that was enough to - to train the system. And so it - it adapts, uh, on - while running. So.
+Bmr010	341.150	341.625	me011	Right.
+Bmr010	342.014	342.796	mn005	Yeah.
+Bmr010	342.033	342.942	mn017	W-
+Bmr010	343.356	343.860	mn017	What - ?
+Bmr010	347.387	348.109	mn014	Hopefully.
+Bmr010	347.400	350.428	mn017	What kind of, uh, front-end processing did you do?
+Bmr010	347.631	348.382	mn005	O_K.
+Bmr010	350.815	361.679	mn014	It's just our - our old Munich, uh, loudness-based spectrum on mel scale twenty - twenty critical bands and then loudness.
+Bmr010	362.083	362.800	mn017	Mm-hmm.
+Bmr010	362.148	367.561	mn014	And four additional features, which is energy, loudness, modified loudness, and zero crossing rate.
+Bmr010	368.206	370.602	mn014	So it's twenty-four - twenty-four features.
+Bmr010	370.626	371.239	me013	Mm-hmm.
+Bmr010	370.695	371.130	mn017	Mmm.
+Bmr010	371.919	375.169	fe008	And you also provided me with several different versions, which I compared.
+Bmr010	374.681	375.835	mn014	Yeah. Yeah.
+Bmr010	375.408	379.098	fe008	And so you change parameters. What - do you wanna say something about the parameters that you change?
+Bmr010	377.966	378.567	mn014	Yeah.
+Bmr010	379.003	404.212	mn014	You can specify the minimum length of speech or - and silence portions which you want. And so I did some - some modifications in those parameters, basically changing the minimum - minimum length for s- for silence to have, er- to have, um - yeah - to have more or less, uh, silence portions in- inserted. So.
+Bmr010	403.959	413.952	me011	Right. So this would work well for, uh, pauses and utterance boundaries and things like that. But for overlap I imagine that doesn't work at all, that you'll have plenty of s- sections that are -
+Bmr010	404.282	404.673	mn005	Yeah.
+Bmr010	407.987	408.528	mn014	Yeah.
+Bmr010	408.916	409.290	mn014	Yeah.
+Bmr010	410.370	410.749	mn014	Yeah.
+Bmr010	411.002	411.630	mn005	Yeah.
+Bmr010	412.429	413.198	mn005	Yeah.
+Bmr010	412.470	412.932	mn014	Yeah.
+Bmr010	413.305	414.291	mn014	That's it. Yeah.
+Bmr010	413.472	419.599	fe008	Mm-hmm, mm-hmm. That's true. But it - it saves so much time - the - the transcribers just enormous, enormous savings. Fantastic.
+Bmr010	414.126	414.908	mn005	Yeah.
+Bmr010	414.310	415.380	me013	Um -
+Bmr010	414.901	415.391	me011	But -
+Bmr010	416.120	416.601	me011	Yep.
+Bmr010	418.602	419.233	me013	That's great.
+Bmr010	419.763	430.181	me013	Um, just qu- one quickly, uh, still on the features. So you have these twenty-four features. Uh, a lot of them are spectral features. Is there a - a transformation, uh, like principal components transformation or something? Just -
+Bmr010	424.019	424.453	mn014	Yeah.
+Bmr010	428.893	429.287	mn014	No.
+Bmr010	429.754	445.883	mn014	No. W- w- we - originally we did that but we saw, uh, when we used it, uh, f- for our close-talking microphone, which - yeah, for our - for our recognizer in Munich - we saw that w- it's - it's not - it's not so necessary. It - it works as well f- with - with - without, uh, a L_D_A or something.
+Bmr010	429.755	432.896	me011	Yeah. It was I_S two.
+Bmr010	442.822	443.413	me013	O_K.
+Bmr010	445.793	450.796	me013	O_K. No, I was j- curious. Yeah, I don't think it's a big deal for this application, but - but - Yeah, it's a -
+Bmr010	447.567	447.933	mn014	Yeah.
+Bmr010	447.879	448.320	fe008	Mm-hmm.
+Bmr010	449.613	450.029	mn014	Yeah.
+Bmr010	449.689	450.282	mn005	Right.
+Bmr010	450.919	451.396	fe008	Mm-hmm.
+Bmr010	452.020	455.482	fe008	O_K. But then there's another thing that also Thilo's involved with, which is, um -
+Bmr010	455.778	464.938	fe008	O_K, and - and also Da- Dave Gelbart. So there's this - this problem of - and w- and - so we had this meeting. Th- the - also Adam, before the - the - before you went away.
+Bmr010	464.938	485.737	fe008	Uh we, um - regarding the representation of overlaps, because at present, um, because of the limitations of th- the interface we're using, overlaps are, uh, not being encoded by the transcribers in as complete and, uh, detailed a way as it might be, and as might be desired - I think would be desired in the corpus ultimately.
+Bmr010	485.066	485.699	me013	Mm-hmm.
+Bmr010	485.737	491.987	fe008	So we don't have start and end points at each point where there's an overlap. We just have the - the overlaps encoded in a simple bin.
+Bmr010	492.421	516.448	fe008	Well, O_K. So  the limits of the over- of - of the interface are such that we were - at this meeting we were entertaining how we might either expand the - the interface or find other tools which already do what would be useful. Because what would ultimately be, um, ideal in my - my view and I think - I mean, I had the sense that it was consensus, is that, um, a thorough-going musical score notation would be the best way to go.
+Bmr010	516.748	522.445	fe008	Because you can have multiple channels, there's a single time-line, it's very clear, flexible, and all those nice things.
+Bmr010	521.060	521.656	me013	Mm-hmm.
+Bmr010	522.880	533.989	fe008	O_K. <find_calendar_entry> So, um, um, I spoke - <contact_name> I </contact_name> had a <entry_type> meeting </entry_type> with <contact_name> Dave Gelbart </contact_name> on - on - and he had, uh, excellent ideas on how the interface could be modified to - to do this kind of representation </find_calendar_entry>.
+Bmr010	533.989	543.569	fe008	But, um, he - in the meantime you were checking into the existence of already, um, existing interfaces which might already have these properties. So, do you wanna say something about that?
+Bmr010	543.540	554.096	mn014	Yes. <find_calendar_entry> Um, <contact_name> I </contact_name> talked with, uh, <contact_name> Munich guys from - from Ludwi- Ludwig Maximilians University </contact_name>, who do a lot of transcribing and transliterations </find_calendar_entry>.
+Bmr010	551.445	551.988	me013	Mm-hmm.
+Bmr010	554.550	566.271	mn014	And they basically said they have - they have, uh, a tool they developed themselves and they can't give away, uh, f- it's too error-prone, and had - it's not supported, a- a- a- and -
+Bmr010	565.879	566.371	me013	Yeah.
+Bmr010	566.904	568.137	mn014	But, um,
+Bmr010	568.527	587.860	mn014	Susanne Bur- Burger, who is at se- C_M_U, he wa- who was formally at - in Munich and w- and is now at - with C_M_U, she said she has something which she uses to do eight channels, uh, trans- transliterations, eight channels simultaneously, but it's running under Windows.
+Bmr010	583.750	584.726	me013	Excuse me.
+Bmr010	587.451	588.877	fe008	Under Windows. Mm-hmm.
+Bmr010	588.164	593.368	mn014	So I'm not sure if - if - if we can use it. She said she would give it to us. It wouldn't be a problem.
+Bmr010	590.569	591.129	fe008	Mm-hmm.
+Bmr010	593.942	597.394	mn014	And I've got some - some kind of manual down in my office.
+Bmr010	596.895	602.707	me011	Well, maybe we should get it and if it's good enough we'll arrange Windows machines to be available.
+Bmr010	598.684	599.118	mn014	Yeah.
+Bmr010	602.770	605.383	fe008	Mm-hmm. We could - uh, potentially so. I also wanted to be sure -
+Bmr010	603.465	604.014	me011	So.
+Bmr010	605.383	610.698	fe008	<search> I mean, I've - I've seen the - this - this is called <query_term> Praat </query_term>, P_R_A_A_T, which I guess means spee- speech in Dutch or something </search>.
+Bmr010	608.542	609.012	me011	Yep.
+Bmr010	609.885	613.045	mn014	Yeah, but then I'm not sure that's the right thing for us.
+Bmr010	610.698	611.742	fe008	But -
+Bmr010	613.150	615.980	fe008	In terms of it being Windows versus - But I'm just wondering, is - ?
+Bmr010	613.260	613.739	me013	Yeah.
+Bmr010	615.314	617.722	me011	No, no. Praat isn't - Praat's multi-platform.
+Bmr010	615.734	616.960	mn014	No. No, Praat -
+Bmr010	617.297	618.297	mn014	Yeah. Yeah.
+Bmr010	617.790	620.728	fe008	Oh! I see. Oh, I see. So Praat may not be -
+Bmr010	618.749	619.191	mn014	Yeah.
+Bmr010	620.257	625.879	mn014	That's not Praat. <search> It's called <query_term> "trans- transedit" </query_term> I think </search>. The - the, uh - the tool from - from Susanne.
+Bmr010	621.414	622.765	fe008	It's a different one.
+Bmr010	623.196	624.889	fe008	I see. Oh, I see.
+Bmr010	625.781	627.630	fe008	O_K. O_K. Alright.
+Bmr010	627.040	654.110	me013	The other thing, uh, to keep in mind, uh - I mean, we've been very concerned to get all this rolling so that we would actually have data, but, um, I think our outside sponsor is actually gonna kick in and ultimately that path will be smoothed out. So I don't know if we have a long-term need to do lots and lots of transcribing. I think we had a very quick need to get something out and we'd like to be able to do some later because just it's inter- it's interesting.
+Bmr010	634.478	635.284	fe008	Mmm, yeah.
+Bmr010	639.116	639.611	fe008	Mm-hmm.
+Bmr010	654.601	659.755	me013	But as far a- you know, uh, with - with any luck we'll be able to wind down the larger project.
+Bmr010	658.647	659.076	me011	Oh.
+Bmr010	659.134	662.358	mn017	But you s-
+Bmr010	659.885	666.434	me011	What our decision was is that we'll go ahead with what we have with a not very fine time scale on the overlaps.
+Bmr010	663.207	663.600	mn014	Yeah.
+Bmr010	663.399	663.820	me013	Right.
+Bmr010	666.329	666.781	me013	Yeah.
+Bmr010	666.980	671.260	me011	And - and do what we can later to clean that up if we need to.
+Bmr010	669.572	670.208	fe008	Mm-hmm.
+Bmr010	671.279	671.748	me013	Right.
+Bmr010	671.790	689.380	fe008	And - and I was just thinking that, um, if it were possible to bring that in, like, you know, this week, then when they're encoding the overlaps it would be nice for them to be able to specify when - you know, the start points and end points of overlaps. uh Th- they're making really quick progress.
+Bmr010	678.298	678.803	me013	Uh-huh.
+Bmr010	687.098	687.553	me013	Yeah.
+Bmr010	689.571	690.328	me013	That's great.
+Bmr010	690.530	698.068	fe008	<create_single_reminder> And, um, so my - my goal was - w- m- my charge was to <reminder_text> get eleven hours by the end of the month </reminder_text> </create_single_reminder>. And it'll be - I'm - I'm - I'm clear that we'll be able to do that.
+Bmr010	698.115	699.353	me013	That's great. Yeah.
+Bmr010	698.935	703.834	me011	<send_email> And did you, uh, forward <contact_name> Morgan </contact_name> <from_contact_name> Brian's </from_contact_name> thing </send_email>?
+Bmr010	703.258	710.422	fe008	I sent it to, um - who did I send that to? <find_email> I sent it to a list and I thought I sent it to the - e- to <contact_name> the local list </contact_name> </find_email>. You saw that?
+Bmr010	708.621	709.628	me018	Meeting Recorder.
+Bmr010	709.443	711.522	me011	Oh, you did? O_K. So you probably did get that.
+Bmr010	710.576	724.309	fe008	<find_calendar_entry> So <contact_name> Brian </contact_name> did tell me that in fact what you said, that, uh - that our - that they are making progress and that he's going - that they're going - he's gonna check the f- the output of the first transcription and - and - </find_calendar_entry>
+Bmr010	723.576	727.803	me013	I mean, basically it's - it's all the difference in the world. I mean, basically he's - he's on it now.
+Bmr010	727.780	728.189	me011	Yeah.
+Bmr010	728.208	730.712	fe008	Oh, that's - this is a new development. O_K.
+Bmr010	728.623	732.160	me013	So - so - so this is - so i- it'll happen.
+Bmr010	731.067	734.034	fe008	Super. Super. O_K. Great.
+Bmr010	733.147	741.360	me013	Yeah. I mean, basically it's just saying that one of our - one of our best people is on it, you know, who just doesn't happen to be here anymore. Someone else pays him. So - So.
+Bmr010	736.630	737.152	fe008	Yeah.
+Bmr010	739.576	740.957	fe008	Isn't that great?
+Bmr010	740.235	750.320	mn017	But about the need for transcription, I mean, don't we - didn't we previously decide that the I_B_M transcripts would have to be checked anyway and possibly augmented?
+Bmr010	742.165	742.780	me013	Yeah.
+Bmr010	748.836	749.907	fe008	Yes. That's true.
+Bmr010	750.285	750.887	fe008	Mm-hmm.
+Bmr010	750.320	753.665	mn017	So, I think having a good tool is worth something no matter what.
+Bmr010	752.498	754.765	me013	Yeah. S- O_K. That's - that's a good point.
+Bmr010	756.350	765.875	me011	<create_single_reminder> Yeah, and <contact_name> Dave Gelbart </contact_name> did volunteer, and since he's not here, I'll repeat it - to at least <reminder_text> modify Transcriber </reminder_text>, which, if we don't have something else that works, I think that's a pretty good way of going </create_single_reminder>.
+Bmr010	756.398	757.050	fe008	Good.
+Bmr010	764.104	764.538	mn014	Mmm.
+Bmr010	765.387	766.106	fe008	Mm-hmm.
+Bmr010	766.132	776.965	me011	And we discussed on some methods to do it. My approach originally, and I've already hacked on it a little bit - it was too slow because I was trying to display all the waveforms. But he pointed out that you don't really have to. I think that's a good point.
+Bmr010	775.669	776.500	me013	Mm-hmm.
+Bmr010	775.680	776.193	fe008	Mm-hmm.
+Bmr010	777.047	777.592	me013	Hmm.
+Bmr010	777.400	784.248	me011	That if you just display the mix waveform and then have a user interface for editing the different channels, that's perfectly sufficient.
+Bmr010	784.150	794.073	fe008	Yeah, exactly. And just keep those things separate. And - and, um, Dan Ellis's hack already allows them to be able to display different waveforms to clarify overlaps and things, so that's already -
+Bmr010	793.336	796.365	me011	No. They can only display one, but they can listen to different ones.
+Bmr010	794.700	796.127	fe008	Oh, yes, but -
+Bmr010	796.276	811.142	fe008	Well, uh, yes, but what I mean is that, uh, from the transcriber's perspective, uh, those two functions are separate. And Dan Ellis's hack handles the, um, choice - the ability to choose different waveforms from moment to moment.
+Bmr010	811.182	813.167	me011	But only to listen to, not to look at.
+Bmr010	813.408	814.542	fe008	Um -
+Bmr010	813.518	814.031	mn014	Yeah.
+Bmr010	814.421	816.122	me011	The waveform you're looking at doesn't change.
+Bmr010	815.268	815.747	mn014	Yeah.
+Bmr010	815.940	839.143	fe008	That's true. Yeah, but that's - that's O_K, cuz they're - they're, you know, they're focused on the ear anyway. And then - and then the hack to preserve the overlaps better would be one which creates different output files for each channel, which then would also serve Liz's request of having, you know, a single channel, separable, uh, cleanly, easily separable, uh, transcript tied to a single channel, uh, audio.
+Bmr010	816.756	817.152	me011	Yeah.
+Bmr010	819.341	819.838	me011	Right.
+Bmr010	820.160	820.565	me013	Hmm.
+Bmr010	827.870	828.254	me011	Right.
+Bmr010	832.810	833.443	me013	Mm-hmm.
+Bmr010	839.216	839.769	me013	Mm-hmm.
+Bmr010	840.224	843.892	me013	<find_email> Have, uh, <from_contact_name> folks from NIST </from_contact_name> been in contact with <contact_name> you </contact_name> </find_email>?
+Bmr010	844.370	848.944	fe008	Not directly. I'm trying to think if - if I could have gotten it over a list. I don't - I don't think so.
+Bmr010	845.549	846.162	me013	O_K.
+Bmr010	848.539	859.781	me013	O_K. Well, holidays may have interrupted things, cuz in - in - in - <email_content> They seem to want to get absolutely clear on standards for - transcription standards and so forth with - with us </email_content>.
+Bmr010	858.251	861.512	fe008	Oh! This was from before December. Yeah.
+Bmr010	860.550	864.858	me013	Right. Because they're - they're presumably going to start recording next month.
+Bmr010	865.171	866.580	fe008	O_K. O_K.
+Bmr010	866.890	871.608	me011	<create_single_reminder> Oh, <contact_name> we </contact_name> should <reminder_text> definitely get with them then, and agree upon a format </reminder_text> </create_single_reminder>.
+Bmr010	866.894	867.560	me013	So.
+Bmr010	872.090	875.964	me011	<find_email> Though <contact_name> I </contact_name> don't remember email on <email_content> that </email_content> </find_email>. So was I not in the loop on that?
+Bmr010	877.192	886.628	me013	Um. Yeah, I don't think I mailed anybody. I just think I told them to contact Jane - that, uh, if they had a - if, uh - that - that, uh, as the point person on it. But -
+Bmr010	881.149	881.707	me011	Oh, O_K.
+Bmr010	882.102	882.715	fe008	That's right.
+Bmr010	886.433	888.225	me011	Yeah, I think that's right. Just, uh -
+Bmr010	889.782	897.447	me013	So, yeah. Maybe I'll, uh, ping them a little bit about it to get that straight.
+Bmr010	893.580	894.072	fe008	O_K.
+Bmr010	894.427	898.081	fe008	I'm keeping the conventions absolutely as simple as possible.
+Bmr010	897.835	905.743	me013	Yeah. So is it - cuz with any luck there'll actually be a - a - there'll be collections at Columbia, collections at - at U_W -
+Bmr010	906.060	911.140	me013	I mean Dan - Dan is very interested in doing some other things, and collections at NIST. So -
+Bmr010	907.818	908.289	me011	Right.
+Bmr010	908.378	909.856	fe008	Yeah. Yeah.
+Bmr010	909.245	914.037	me011	Well, I think it's important both for the notation and the machine representation to be the same.
+Bmr010	914.250	914.597	me013	Yeah.
+Bmr010	914.791	915.306	me011	So.
+Bmr010	914.863	920.087	fe008	N- there was also this, uh, email from Dan regarding the speech-non- nonspeech segmentation thing.
+Bmr010	919.092	919.629	me011	Yep.
+Bmr010	919.429	919.945	mn005	Yeah.
+Bmr010	919.716	920.033	mn014	Yeah.
+Bmr010	920.087	932.180	fe008	<create_single_reminder> I don't know if, uh, uh, we wanna, uh - and <contact_name> Dan Gel- and Dave Gelbart </contact_name> is interested in <reminder_text> pursuing the aspect of using amplitude as a - a - a - as a basis for the separation </reminder_text> </create_single_reminder>.
+Bmr010	932.238	934.800	me013	Oh, yeah. He was talking - he was talking - I mean, uh, we - he had -
+Bmr010	932.586	933.846	me011	Cross-correlation.
+Bmr010	933.768	934.660	fe008	Cross-
+Bmr010	934.800	958.460	me013	Yeah, cross-correlation. I had mentioned this a couple times before, the c- the commercial devices that do, uh, uh, voice, uh - you know, active miking, basically look at the amp- at the energy at each of the mikes. And - and you basically compare the energy here to some function of all of the mikes. So, by doing that, you know, rather than setting any, uh, absolute threshold, you actually can do pretty good, uh, selection of who - who's talking.
+Bmr010	935.223	935.892	mn014	Cross-
+Bmr010	936.622	937.250	fe008	Uh-huh.
+Bmr010	950.204	950.612	mn014	Yeah.
+Bmr010	950.300	950.871	fe008	O_K.
+Bmr010	950.635	951.049	mn005	Yeah.
+Bmr010	958.460	959.759	me013	Uh -
+Bmr010	958.814	959.317	fe008	O_K.
+Bmr010	960.460	972.401	me013	And those - those systems work very well, by the way, I mean, so people use them in panel discussions and so forth with sound reinforcement differing in - in sort of, uh - and, uh, those - if -
+Bmr010	968.310	968.859	mn005	Uh-huh.
+Bmr010	973.150	980.117	me013	Boy, the guy I knew who built them, built them like twenty - twenty years ago, so they're - it's - the - the techniques work pretty well.
+Bmr010	976.692	977.021	me011	Hmm.
+Bmr010	979.991	980.676	fe008	Fantastic.
+Bmr010	980.552	981.343	me013	So.
+Bmr010	980.852	985.802	fe008	Cuz there is one thing that we don't have right now and that is the automatic, um, channel identifier.
+Bmr010	985.549	986.241	me013	Mm-hmm.
+Bmr010	986.049	995.272	fe008	That - that, you know, that would g- help in terms of encoding of overlaps. The - the transcribers would have less, uh, disentangling to do if that were available.
+Bmr010	995.379	1005.292	me013	Yeah. So I think, you know, basically you can look at some - p- you have to play around a little bit, uh, to figure out what the right statistic is, but you compare each microphone to some statistic based on the - on the overall -
+Bmr010	996.154	996.758	fe008	But.
+Bmr010	997.200	997.967	mn005	Mm-hmm.
+Bmr010	1001.427	1001.900	fe008	Mm-hmm.
+Bmr010	1005.659	1006.154	mn014	Yeah.
+Bmr010	1005.760	1006.373	mn005	Mm-hmm.
+Bmr010	1005.874	1006.400	fe008	O_K.
+Bmr010	1006.315	1010.797	me013	Uh, and we also have these - we have the advantage of having distant mikes too. So that, you cou- yo-
+Bmr010	1010.214	1015.023	me011	Yeah, although the - the - using the close-talking I think would be much better. Wouldn't it?
+Bmr010	1016.648	1017.306	me013	Um.
+Bmr010	1016.651	1017.086	fe008	Yeah.
+Bmr010	1017.934	1019.437	me013	I - I don't know. I just - it'd be -
+Bmr010	1019.145	1019.593	me011	Yeah.
+Bmr010	1019.437	1030.260	me013	If I was actually working on it, I'd sit there and - and play around with it, and - and get a feeling for it. I mean, the - the - the, uh - But, uh, you certainly wanna use the close-talking, as a - at least.
+Bmr010	1028.327	1028.804	me011	Right.
+Bmr010	1031.290	1034.600	me013	I don't know if the other would - would add some other helpful dimension or not.
+Bmr010	1034.366	1035.038	fe008	Mm-hmm.
+Bmr010	1035.012	1035.704	mn005	Mm-hmm.
+Bmr010	1037.938	1044.361	mn005	O_K. What - what are the different, uh, classes to - to code, uh, the - the overlap, you will use?
+Bmr010	1044.630	1047.864	fe008	Um, to code d- so types of overlap?
+Bmr010	1046.389	1047.961	mn005	What you - you - Yeah.
+Bmr010	1048.252	1053.445	fe008	Um, so at a meeting that wasn't transcribed, we worked up a - a typology.
+Bmr010	1053.718	1054.817	fe008	And, um -
+Bmr010	1053.726	1054.126	mn005	Yeah.
+Bmr010	1055.156	1059.874	mn005	Look like, uh, you t- you explaining in the blackboard? The - ? Yeah? Yeah.
+Bmr010	1058.560	1079.320	fe008	Yes, exactly. That hasn't changed. So it i- the - it's basically a two-tiered structure where the first one is whether the person who's interrupted continues or not. And then below that there're subcategories, uh, that have more to do with, you know, is it, uh, simply backchannel or is it, um, someone completing someone else's thought, or is it someone in- introducing a new thought.
+Bmr010	1071.307	1071.767	mn005	Mm-hmm.
+Bmr010	1078.420	1078.834	me011	Right.
+Bmr010	1079.111	1080.021	mn005	Huh.
+Bmr010	1079.657	1090.502	me011	And I hope that if we do a forced alignment with the close-talking mike, that will be enough to recover at least some of the time the time information of when the overlap occurred.
+Bmr010	1085.500	1086.000	mn005	Yeah.
+Bmr010	1090.406	1092.408	fe008	Mm-hmm. Well, one would -
+Bmr010	1090.464	1090.910	mn005	Yeah.
+Bmr010	1091.304	1091.965	mn005	We hope.
+Bmr010	1091.916	1093.321	me011	Yeah. Who knows?
+Bmr010	1092.647	1094.488	fe008	That'd be - that'd be nice. I mean,
+Bmr010	1094.981	1096.466	fe008	I - I - I - I've -
+Bmr010	1095.028	1098.404	mn017	So who's gonna do that? Who's gonna <reminder_text> do forced alignment </reminder_text>?
+Bmr010	1097.858	1105.274	me011	<create_single_reminder> Well, u- uh, <contact_name> I_B_M </contact_name> was going to </create_single_reminder>. Um - and I imagine they still plan to but - but, you know, I haven't spoken with them about that recently.
+Bmr010	1099.854	1101.021	mn017	Oh, O_K.
+Bmr010	1100.199	1100.669	mn005	Oh.
+Bmr010	1102.990	1103.634	mn017	O_K.
+Bmr010	1103.810	1104.401	mn005	Uh-huh.
+Bmr010	1104.003	1110.393	me013	<send_email> Well, uh, my suggestion now is - is on <email_content> all of these things </email_content> to, uh, contact <contact_name> Brian </contact_name> </send_email>.
+Bmr010	1110.565	1128.127	fe008	This is wonderful to have a direct contact like that. uh Well, th- lemme ask you this. It occurs to me - one of my transcribers t- told me today that she'll be finished with one meeting, um, by - well, she said tomorrow but then she said - you know, but - the, you know - let's - let's just, uh, say maybe the day after just to be s- on the safe side.
+Bmr010	1110.608	1111.803	me011	O_K. I'll do that.
+Bmr010	1111.311	1111.797	mn005	Yeah.
+Bmr010	1111.970	1112.362	me013	Yeah.
+Bmr010	1113.850	1114.338	me013	Yeah.
+Bmr010	1119.865	1120.439	me013	Mm-hmm.
+Bmr010	1125.008	1125.364	me013	Mm-hmm.
+Bmr010	1128.292	1143.338	fe008	<send_email> I could send <contact_name> Brian </contact_name> <email_content> the, um - the transcript </email_content> </send_email>. I know these are - er, uh, I could send him that if it would be possible, or a good idea or not, to try to do a s- forced alignment on what we're - on the way we're encoding overlaps now.
+Bmr010	1143.550	1144.549	me013	Well, just talk to him about it.
+Bmr010	1144.541	1145.060	me011	Yep.
+Bmr010	1145.056	1145.607	fe008	Good.
+Bmr010	1145.634	1159.710	me013	I mean, you know, basically he's - he just studies, he's a colleague, a friend, and, uh, they - and - and, you know, the - the organization always did wanna help us. It was just a question of getting, you know, the right people connected in, who had the time. So, um, eh -
+Bmr010	1150.070	1152.205	fe008	Yeah! Super. Super.
+Bmr010	1156.069	1157.227	fe008	Yeah, yeah.
+Bmr010	1156.362	1156.885	me011	Right.
+Bmr010	1159.010	1160.012	me011	Is he on the mailing list?
+Bmr010	1160.330	1162.014	me011	The Meeting Recorder mailing li- ? We should add him.
+Bmr010	1160.519	1161.416	fe008	Oh!
+Bmr010	1162.355	1163.033	me013	Yeah.
+Bmr010	1162.362	1164.187	fe008	Yeah. I - I - I don't know for sure.
+Bmr010	1163.698	1167.267	me018	Did something happen, Morgan, that he got put on this, or was he already on it, or - ?
+Bmr010	1164.786	1165.949	me011	Add him.
+Bmr010	1167.138	1168.737	me013	No, I, eh, eh, p-
+Bmr010	1168.737	1170.697	me013	It - it oc- I - h- it's -
+Bmr010	1170.697	1172.794	me013	Yeah, something happened. I don't know what. But he's on it now.
+Bmr010	1171.843	1173.166	mn017	He asked for more work.
+Bmr010	1171.922	1172.485	me018	Huh.
+Bmr010	1173.653	1176.412	fe008	That would be like - that'd be like him. He's great.
+Bmr010	1176.908	1177.356	me013	Right.
+Bmr010	1178.138	1184.911	me013	So, uh, where are we? Maybe, uh, uh, brief -
+Bmr010	1185.508	1188.741	me013	Well, let's - why don't we talk about microphone issues? That was - that was a -
+Bmr010	1187.430	1188.652	fe008	Yeah. That'd be great.
+Bmr010	1188.847	1196.351	me011	Um, so one thing is that I did look on Sony's for a replacement for the mikes - for the head m- head-worn ones cuz they're so uncomfortable.
+Bmr010	1196.698	1206.632	me011	But I think I need someone who knows more about mikes than I do, because I couldn't find a single other model that seemed like it would fit the connector, which seems really unlikely to me.
+Bmr010	1206.964	1213.430	me011	<search> Does anyone, like, know <query_term> stores </query_term> or know about <query_term> mikes </query_term> <query_term> who - who would know the right questions to ask </query_term> </search>?
+Bmr010	1213.753	1219.266	me013	Oh, I probably would. I mean, my knowledge is twenty years out of date but some of it's still the same. So -
+Bmr010	1218.120	1218.573	me011	Mm-hmm.
+Bmr010	1219.266	1221.701	me013	Uh, so maybe we c- we can take a look at that.
+Bmr010	1220.366	1223.177	me018	You couldn't - you couldn't find the right connector to go into these things?
+Bmr010	1222.425	1222.915	me011	Yep.
+Bmr010	1223.177	1223.937	me018	Huh!
+Bmr010	1223.326	1233.858	me011	When I looked, i- they listed one microphone and that's it as having that type of connector. But my guess is that Sony maybe uses a different number for their connector than everyone else does.
+Bmr010	1234.310	1239.167	me011	And - and so - it seems - it seems really unlikely to me that there's only one.
+Bmr010	1234.360	1234.898	me013	Mm-hmm.
+Bmr010	1235.602	1237.099	me013	Well, let's look at it together and -
+Bmr010	1239.300	1240.614	fe008	And there's no adaptor for it?
+Bmr010	1240.841	1242.596	fe008	Seems like there'd be a - O_K.
+Bmr010	1241.258	1241.685	mn014	Yeah.
+Bmr010	1243.146	1243.979	me011	As I said, who knows?
+Bmr010	1244.477	1245.030	fe008	Mm-hmm.
+Bmr010	1244.790	1247.278	me013	Who - who are we buying these from? That'd be a -
+Bmr010	1246.442	1247.439	me011	Um,
+Bmr010	1248.362	1250.710	me011	I have it downstairs. I don't remember off the top of my head.
+Bmr010	1249.685	1250.362	me013	Yeah. O_K.
+Bmr010	1250.779	1252.897	me013	Yeah. We - we can try and look at that together.
+Bmr010	1253.795	1257.822	me011	And then, uh - just in terms of how you wear them -
+Bmr010	1258.079	1265.674	me011	I mean, I had thought about this before. <search> I mean, when - when - when you use a product like <query_term> DragonDictate </query_term>, they have a very extensive <query_term> description about how to wear the microphone and so on </query_term> </search>.
+Bmr010	1264.949	1265.857	fe008	Oh.
+Bmr010	1265.951	1273.485	me011	But I felt that in a real situation we were very seldom gonna get people to really do it and maybe it wasn't worth concentrating on.
+Bmr010	1274.745	1275.211	me011	But -
+Bmr010	1275.578	1310.614	me013	Well, I think that that's - that's a good back-off position. That's what I was saying earlier, th- that, you know, we are gonna get some recordings that are imperfect and, hey, that's life. But I - I think that it - it doesn't hurt, uh, the naturalness of the situation to try to have people wear the microphones properly, if possible, because, um, the natural situation is really what we have with the microphones on the table. I mean, I think, you know, in the target applications that we're talking about, people aren't gonna be wearing head-mounted mikes anyway. So this is just for u- these head-mounted mikes are just for use with research.
+Bmr010	1296.037	1296.658	me011	Mm-hmm.
+Bmr010	1302.634	1303.514	me011	Oh. That's true.
+Bmr010	1303.817	1304.114	mn005	Yeah.
+Bmr010	1304.035	1304.628	mn014	Yeah.
+Bmr010	1310.496	1311.031	me011	Mm-hmm.
+Bmr010	1311.137	1313.179	me013	And, uh, it's gonna make -
+Bmr010	1311.274	1312.192	mn005	Yeah.
+Bmr010	1313.179	1323.190	me013	You know, if - if An- Andreas plays around with language modeling, he's not gonna be m- wanna be messed up by people breathing into the microphone. So it's - it's, uh, uh -
+Bmr010	1317.440	1317.949	me011	Right.
+Bmr010	1321.767	1327.337	me011	<search> Well, I'll dig through the <query_term> documentation to DragonDictate </query_term> and ste- s- see if they still have the little form </search>.
+Bmr010	1326.340	1330.069	me013	But it does happen. Right? I mean, and any -
+Bmr010	1327.758	1328.292	mn005	Yeah.
+Bmr010	1329.372	1330.669	mn017	It's interesting, uh,
+Bmr010	1331.672	1341.865	mn017	I talked to some I_B_M guys, uh, last January, I think, I was there. And - so people who were working on the - on their ViaVoice dictation product.
+Bmr010	1340.690	1341.062	me013	Yeah.
+Bmr010	1342.192	1351.405	mn017	And they said, uh, the breathing is really a - a terrible problem for them, to - to not recognize breathing as speech.
+Bmr010	1351.657	1352.432	fe008	Wow.
+Bmr010	1352.610	1358.089	mn017	So, anything to reduce breathing is - is - is a good thing.
+Bmr010	1355.714	1356.152	me013	Yeah.
+Bmr010	1356.395	1357.264	me011	Well, that's the -
+Bmr010	1357.822	1368.700	me011	It seemed to me when I was using Dragon that it was really microphone placement helped an - in, uh - an enormous amount. So you want it enough to the side so that when you exhale through your nose, it doesn't - the wind doesn't hit the mike.
+Bmr010	1359.543	1360.242	mn017	Mm-hmm.
+Bmr010	1363.633	1364.057	mn017	Right.
+Bmr010	1368.399	1369.046	mn017	Mm-hmm.
+Bmr010	1369.392	1370.353	me011	And then, uh -
+Bmr010	1370.353	1373.261	me011	Everyone's adjusting their microphones, of course.
+Bmr010	1373.261	1379.661	me011	And then just close enough so that you get good volume. So you know, wearing it right about here seems to be about the right way to do it.
+Bmr010	1377.855	1378.308	mn005	Yeah.
+Bmr010	1377.930	1378.320	me013	Yeah.
+Bmr010	1378.940	1380.570	fe008	Is - Uh-huh.
+Bmr010	1379.115	1388.512	me013	I remember when I was - when I - I - I - I used, uh, um, a prominent laboratory's, uh, uh, speech recognizer about, uh -
+Bmr010	1388.512	1392.677	me013	This was, boy, this was a while ago, this was about twelve - twelve years ago or something.
+Bmr010	1392.999	1405.189	me013	And, um, they were - they were perturbed with me because I was breathing in instead of breathing out. And they had models for - they - they had Markov models for br- breathing out but they didn't have them for breathing in.
+Bmr010	1405.189	1410.900	me013	Uh -
+Bmr010	1406.138	1406.826	mn005	Yeah.
+Bmr010	1407.609	1408.745	fe008	That's interesting.
+Bmr010	1409.278	1422.517	fe008	Well, what I wondered is whether it's possible to have - to maybe use the display at the beginning to be able to - to judge how - how correctly - I mean, have someone do some routine whatever, and - and then see if when they're breathing it's showing. I don't know if the - if it's -
+Bmr010	1413.760	1414.630	me011	Yeah.
+Bmr010	1421.199	1422.445	me013	I -
+Bmr010	1421.304	1425.775	me011	I mean, when - when it's on, you can see it. You can definitely see it. Absolutely. Absolutely.
+Bmr010	1423.165	1424.454	fe008	Can you see the breathing? Cuz I -
+Bmr010	1424.742	1425.394	fe008	Oh.
+Bmr010	1425.342	1425.932	me013	Yeah.
+Bmr010	1425.932	1427.204	me013	I-
+Bmr010	1426.567	1432.382	me011	And so, you know, I've - I've sat here and watched sometimes the breathing, and the bar going up and down, and I'm thinking,
+Bmr010	1433.007	1435.130	me011	I could say something, but
+Bmr010	1435.136	1437.010	me013	I mean, I think -
+Bmr010	1436.437	1438.600	me011	I don't want to make people self-conscious. Stop breathing!
+Bmr010	1438.473	1441.459	me013	It - it's going to be imperfect. You're not gonna get it perfect.
+Bmr010	1440.488	1441.976	fe008	Yeah. Uh-huh.
+Bmr010	1441.459	1450.897	me013	And you can do some, uh, you know, first-order thing about it, which is to have people move it, uh, uh, a- away from being just directly in front of the middle but not too far away.
+Bmr010	1448.941	1449.497	mn005	Yeah.
+Bmr010	1449.182	1449.637	fe008	Good.
+Bmr010	1451.220	1452.100	fe008	Yeah, i-
+Bmr010	1451.332	1459.719	me013	And then, you know, I think there's not much - Because you can't al- you know, interfere w- you can't fine tune the meeting that much, I think. It's sort of -
+Bmr010	1458.141	1458.555	me011	Right.
+Bmr010	1458.617	1459.148	mn005	Yeah.
+Bmr010	1458.847	1469.321	fe008	That's true. It just seems like i- if something l- simple like that can be tweaked and the quality goes, you know, uh, dramatically up, then it might be worth doing.
+Bmr010	1465.070	1465.454	me011	Yep.
+Bmr010	1468.575	1472.921	me011	And then also - the position of the mike also. If it's more directly, you'll get better volume.
+Bmr010	1473.368	1473.738	mn005	Yeah.
+Bmr010	1473.686	1477.553	me011	So - so, like, yours is pretty far down below your mouth. Yeah.
+Bmr010	1473.842	1476.494	fe008	But - Mm-hmm.
+Bmr010	1474.478	1475.121	mn005	Yeah.
+Bmr010	1476.494	1482.865	fe008	My - my feedback from the transcribers is he is always close to crystal clear and - and just fan- fantastic to -
+Bmr010	1480.929	1481.553	mn014	Yeah.
+Bmr010	1481.326	1482.157	mn005	Mmm, yeah.
+Bmr010	1481.358	1482.049	me013	Mm-hmm.
+Bmr010	1482.076	1486.451	me011	I don't know why that is.
+Bmr010	1483.390	1490.373	fe008	Well, I mean, you - Yeah, of course. You're - you're also - uh, your volume is - is greater. But - but still, I mean, they - they say -
+Bmr010	1489.750	1490.863	me011	I've been eating a lot.
+Bmr010	1491.410	1495.619	me013	Uh.
+Bmr010	1492.536	1495.566	fe008	I- it makes their - their job extremely easy. Yeah.
+Bmr010	1496.322	1497.420	me013	And then there's mass.
+Bmr010	1498.113	1501.010	me013	Anyway.
+Bmr010	1498.116	1499.035	fe008	Mm-hmm.
+Bmr010	1500.389	1503.911	fe008	I could say something about - about the - Well, I don't know what you wanna do. Yeah.
+Bmr010	1502.824	1503.722	me013	About what?
+Bmr010	1504.188	1507.017	fe008	About the transcribers or anything or - ? I don't know.
+Bmr010	1505.931	1508.004	me013	Well, the other - why don't we do that?
+Bmr010	1507.456	1510.367	mn017	But, uh, just to - to, um -
+Bmr010	1511.650	1515.767	mn017	One more remark, uh, concerning the S_R_I recognizer. Um.
+Bmr010	1515.767	1525.105	mn017	It is useful to transcribe and then ultimately train models for things like breath, and also laughter is very, very frequent and important to - to model.
+Bmr010	1524.100	1524.487	me013	Mm-hmm.
+Bmr010	1525.105	1533.871	mn017	So, if you can in your transcripts mark - mark very audible breaths and laughter especially, um - O_K.
+Bmr010	1525.988	1528.939	me011	So, mark them?
+Bmr010	1529.452	1530.045	mn014	Mmm.
+Bmr010	1531.880	1536.942	fe008	They are. They're putting - Eh, so in curly brackets they put "inhale" or "breath".
+Bmr010	1536.827	1537.589	mn017	Mm-hmm.
+Bmr010	1537.148	1550.083	fe008	It - they - and then in curly brackets they say "laughter". Now they're - they're not being awfully precise, uh, m- So they're two types of laughter that are not being distinguished. One is when sometimes s- someone will start laughing when they're in the middle of a sentence.
+Bmr010	1537.175	1537.796	me011	Oh, great.
+Bmr010	1544.473	1545.414	mn017	Mm-hmm.
+Bmr010	1550.047	1550.729	mn017	Mm-hmm.
+Bmr010	1550.713	1554.808	fe008	And - and then the other one is when they finish the sentence and then they laugh.
+Bmr010	1554.808	1572.410	fe008	So, um, I - I did s- I did some double checking to look through - I mean, you'd need to have extra hhh e- extra complications, like time tags indicating the beginning and ending of - of the laughing through the utterance. And that - and what they're doing is in both cases just saying "curly brackets laughing" a- after the unit.
+Bmr010	1566.284	1568.826	mn017	It's not so - I don't think it's, um -
+Bmr010	1571.417	1576.256	mn017	As - as long as there is an indication that there was laughter somewhere between two words
+Bmr010	1573.110	1573.486	mn014	Yeah.
+Bmr010	1574.059	1574.746	fe008	Good.
+Bmr010	1575.220	1575.640	fe008	Oh!
+Bmr010	1576.079	1576.621	fe008	O_K.
+Bmr010	1576.256	1593.679	mn017	I think that's sufficient, because actually the recognition of laughter once you kn- um - you know, is pretty good. So as long as you can stick a - you know, a t- a tag in there that - that indicates that there was laughter, that would probably be, uh, sufficient to train models.
+Bmr010	1576.257	1578.029	me011	Against - they could do forced alignment.
+Bmr010	1577.999	1578.501	mn014	Yeah.
+Bmr010	1582.912	1583.798	me011	Oh, I didn't know that.
+Bmr010	1590.242	1590.800	fe008	O_K.
+Bmr010	1591.361	1592.615	fe008	Then -
+Bmr010	1591.808	1595.804	me011	That would be a really interesting prosodic feature, when -
+Bmr010	1593.790	1605.600	fe008	And let me ask y- and I gotta ask you one thing about that. So, um, if they laugh between two words, you - you'd get it in between the two words. But if they laugh across three or four words you - you get it after those four words. Does that matter?
+Bmr010	1593.943	1594.754	mn005	Yeah.
+Bmr010	1596.155	1596.813	mn017	Hmm.
+Bmr010	1599.040	1599.874	mn017	Mm-hmm.
+Bmr010	1601.352	1601.818	mn017	Right.
+Bmr010	1605.711	1606.065	mn005	Yeah.
+Bmr010	1606.062	1611.498	mn017	Well, the thing that you - is hard to deal with is whe- when they speak while laughing.
+Bmr010	1611.732	1613.191	fe008	Yeah.
+Bmr010	1612.186	1618.228	mn017	Um, and that's, uh - I don't think that we can do very well with that. So -
+Bmr010	1616.880	1617.611	me011	Right.
+Bmr010	1617.560	1618.311	mn005	Yeah.
+Bmr010	1618.228	1624.502	mn017	But, um, that's not as frequent as just laughing between speaking, so -
+Bmr010	1622.705	1623.378	fe008	O_K.
+Bmr010	1623.715	1624.753	me013	Uh is it?
+Bmr010	1623.901	1631.101	me011	So are - do you treat breath and laughter as phonetically, or as word models, or what?
+Bmr010	1624.863	1627.847	fe008	I think he's right. Yeah.
+Bmr010	1625.559	1626.099	mn005	Huh.
+Bmr010	1627.021	1630.276	mn005	I - I think it's frequent in - in the meeting.
+Bmr010	1630.997	1636.852	mn017	We tried both. Uh, currently, um, we use special words.
+Bmr010	1636.852	1645.265	mn017	There was a - there's actually a word for - uh, it's not just breathing but all kinds of mouth - uh, mouth - mouth stuff.
+Bmr010	1643.420	1644.678	me011	Mm-hmm. Mouth stuff?
+Bmr010	1645.583	1648.063	mn017	And then laughter is a - is a special word.
+Bmr010	1648.140	1650.175	me011	How would we do that with the hybrid system?
+Bmr010	1651.770	1652.327	me013	Same thing.
+Bmr010	1652.270	1653.024	mn017	Same thing?
+Bmr010	1652.472	1654.711	me011	So train a phone in the neural net?
+Bmr010	1653.743	1654.147	mn017	Yeah.
+Bmr010	1654.760	1658.144	mn017	Yeah. You ha- Oh. And each of these words has a dedicated phone.
+Bmr010	1656.128	1656.741	me013	No -
+Bmr010	1658.425	1659.189	me011	Oh, it does?
+Bmr010	1658.451	1666.977	mn017	So the - so the - the mouth noise, uh, word has just a single phone, um, that is for that.
+Bmr010	1665.019	1670.580	me011	Right. So in the hybrid system we could train the net with a laughter phone and a breath sound phone.
+Bmr010	1667.929	1668.370	me013	Yeah.
+Bmr010	1669.198	1670.705	mn017	Yeah. Yeah.
+Bmr010	1669.989	1681.392	me013	I mean, it's - it's - it's always the same thing. Right? I mean, you could - you could say well, let - we now think that laughter should have three sub- sub- sub-units in the - the three states, uh - different states. And then you would have three - I mean, you know, eh, eh, it's u-
+Bmr010	1671.668	1673.112	fe008	Mm-hmm.
+Bmr010	1676.757	1677.243	mn014	Yeah.
+Bmr010	1680.300	1694.905	mn017	And the - the pronun- the pronunciations - the pronunciations are l- are somewhat non-standard. They actually are - uh, it's just a single, s- uh, you know, a single phone in the pronunciation, but it has a self-loop on it, so it can - r- can go on forever.
+Bmr010	1680.533	1682.177	me011	Do whatever you want. Yeah.
+Bmr010	1680.672	1681.878	mn005	Yeah.
+Bmr010	1681.392	1682.267	me013	Yeah, yeah.
+Bmr010	1682.558	1682.974	mn005	No.
+Bmr010	1692.608	1693.879	me011	To go on forever?
+Bmr010	1694.954	1696.941	me011	And how do you handle it in the language model?
+Bmr010	1697.542	1701.885	mn017	It's just a - it's just a word. We train it like any other word. Yeah.
+Bmr010	1699.084	1700.714	me011	It's just a word in the language model. Cool.
+Bmr010	1702.289	1711.619	mn017	We also tried, um, absorbing these - uh, both laughter and - and actually also noise, and, um -
+Bmr010	1712.336	1713.909	fe905	Sorry to interrupt.
+Bmr010	1713.105	1713.601	mn005	Yeah.
+Bmr010	1713.909	1714.543	fe905	Is -
+Bmr010	1714.656	1715.354	me013	If you want, I got it.
+Bmr010	1715.354	1716.349	fe905	Andreas.
+Bmr010	1716.138	1716.752	mn017	Yes.
+Bmr010	1716.349	1717.538	fe905	The copies are ready .
+Bmr010	1716.752	1717.440	mn017	O_K.
+Bmr010	1717.440	1724.195	mn017	Anyway. We also tried absorbing that into the pause model - I mean, the - the - the model that - that matches the stuff between words.
+Bmr010	1720.143	1721.016	me013	Mm-hmm.
+Bmr010	1724.195	1728.286	mn017	And, um, it didn't work as well. So.
+Bmr010	1727.099	1728.170	me011	Huh. O_K.
+Bmr010	1728.223	1729.203	fe008	Mm-hmm.
+Bmr010	1729.617	1731.043	me011	Can you hand me your digit form?
+Bmr010	1730.227	1730.827	mn017	Sorry.
+Bmr010	1732.538	1734.987	me011	I just wanna mark that you did not read digits.
+Bmr010	1735.129	1735.874	me013	O_K.
+Bmr010	1736.702	1741.280	me013	Say hi for me.
+Bmr010	1739.882	1740.319	fe008	Good.
+Bmr010	1742.100	1751.398	fe008	You - you did get me to thinking about - I - I'm not really sure which is more frequent, whether f- f- laughing - I think it may be an individual thing. Some people are more prone to laughing when they're speaking.
+Bmr010	1750.210	1750.632	me013	Yeah.
+Bmr010	1751.500	1752.349	me013	Yeah. I think -
+Bmr010	1751.868	1759.526	me011	I was noticing that with Dan in the one that we, uh - we hand tran- hand-segmented, that - th- he has these little chuckles as he talks.
+Bmr010	1751.952	1753.139	fe008	But I can't -
+Bmr010	1753.973	1754.487	mn005	Yeah.
+Bmr010	1759.225	1772.839	me013	I'm sure it's very individual. And - and - one thing that c- that we're not doing, of course, is we're not claiming to, uh, get - be getting a representation of mankind in these recordings. We have this very, very tiny sample of - of -
+Bmr010	1759.651	1761.120	fe008	Yeah. O_K.
+Bmr010	1768.833	1770.957	fe008	Yeah.
+Bmr010	1769.744	1770.093	mn005	Yeah.
+Bmr010	1771.350	1771.871	mn005	Yeah.
+Bmr010	1772.623	1776.106	me011	Speech researchers?
+Bmr010	1773.187	1777.968	me013	Uh, yeah. And - Yeah, r- right. So, uh, who knows.
+Bmr010	1773.923	1777.571	mn005	Speech research.
+Bmr010	1779.068	1780.039	me013	Uh -
+Bmr010	1780.495	1785.406	me013	Yeah. Why don- why don't we just - since we're on this vein, why don't we just continue with, uh, what you were gonna say about the transcriptions and - ?
+Bmr010	1784.449	1785.513	fe008	O_K.
+Bmr010	1785.513	1802.091	fe008	Um, um, the - I - I'm really very for- I'm extremely fortunate with the people who, uh, applied and who are transcribing for us. They are, um, um, uh really perceptive and very, um - and I'm not just saying that cuz they might be hearing this.
+Bmr010	1799.080	1802.344	me011	Cuz they're gonna be transcribing it in a few days.
+Bmr010	1802.091	1804.832	fe008	No, they're super. They're - the- they - very quick.
+Bmr010	1803.348	1805.287	me018	O_K. Turn the mikes off and let's talk.
+Bmr010	1805.149	1807.551	fe008	Yeah, I know. I am - I'm serious. They're just super.
+Bmr010	1807.850	1819.029	fe008	So I, um, e- you know, I - I brought them in and, um, trained them in pairs because I think people can raise questions - you know, i- i- the- they think about different things and they think of different - and um,
+Bmr010	1815.144	1816.028	me011	That's a good idea.
+Bmr010	1819.291	1826.362	fe008	I trained them to, uh, f- on about a minute or two of the one that was already transcribed. This also gives me a sense of -
+Bmr010	1826.591	1830.970	fe008	You know, I can - I can use that later, with reference to inter-coder reliability kind of issues.
+Bmr010	1831.275	1841.620	fe008	But the main thing was to get them used to the conventions and, you know, the idea of the - th- th- the size of the unit versus how long it takes to play it back so these - th- sort of calibration issues.
+Bmr010	1842.226	1853.141	fe008	And then, um, I just set them loose and they're - they all have e- a- already background in using computers. They're, um - they're trained in linguistics. They got -
+Bmr010	1850.179	1850.742	me011	Good.
+Bmr010	1852.599	1853.208	me013	Uh-huh.
+Bmr010	1852.845	1856.265	me011	Oh, no. Is that good or bad?
+Bmr010	1854.100	1863.009	fe008	Well, they- they're very perce- they'll - So one of them said "well, you know, he really said " n ", not really " and ", so what - what should I do with that?" And I said, "well for our purposes,
+Bmr010	1858.433	1860.083	mn005	Yeah. Yeah.
+Bmr010	1861.553	1862.521	me011	Yeah.
+Bmr010	1862.019	1862.493	me013	Yeah.
+Bmr010	1863.222	1871.018	fe008	I do have a convention. <search> If it's an - a noncanonical p-" That one, I think we - you know, with <query_term> Eric's work </query_term>, I sort of figure we - we can just treat that as a variant </search>.
+Bmr010	1871.180	1871.771	me013	O_K.
+Bmr010	1871.276	1880.828	fe008	But I told them if - if there's an obvious speech error, uh, like I said in one thing, and I gave my - my example, like I said, "microfon" in- instead of "microphone".
+Bmr010	1873.509	1874.142	me013	Yes.
+Bmr010	1881.040	1891.252	fe008	Didn't bother - I knew it when I said it. I remember s- thinking "oh, that's not correctly pronounced". But it - but I thought it's not worth fixing cuz often when you're speaking everybody knows what - what you mean.
+Bmr010	1889.715	1891.033	me011	You'll self-repair. Yeah.
+Bmr010	1891.267	1891.675	mn014	Yeah.
+Bmr010	1891.507	1900.039	fe008	But I have a convention that if it's obviously a noncanonical pronunciation - a speech error with - you know, wi- within the realm of resolution that you can tell in this native English -
+Bmr010	1900.039	1903.621	fe008	American English speaker, you know that I didn't mean to say "microfon."
+Bmr010	1903.997	1911.197	fe008	Then you'd put a little tick at the beginning of the word, and that just signals that, um, this is not standard, and then in curly brackets "pron error".
+Bmr010	1904.128	1904.563	me013	Yeah.
+Bmr010	1911.599	1921.286	fe008	And, um, and other than that, it's w- word level. But, you know, the fact that they noticed, you know, the " nnn ". "He said " nnn ", not " and ". What shall I do with that?" I mean, they're very perceptive.
+Bmr010	1921.286	1927.093	fe008	And - and s- several of them are trained in I_P_A. C- they really could do phonetic transcription if - if we wanted them to.
+Bmr010	1923.892	1924.670	me013	Mm-hmm.
+Bmr010	1926.930	1928.975	me013	Right. Well -
+Bmr010	1928.190	1931.380	fe008	But -
+Bmr010	1928.575	1931.174	me011	Hmm. Where were they when we needed them?
+Bmr010	1928.975	1934.260	me013	Well, you know, it might be something we'd wanna do with some, uh, s- small subset of the whole thing.
+Bmr010	1933.756	1934.919	fe008	I think -
+Bmr010	1934.260	1936.161	me013	We certainly wouldn't wanna do it with everything.
+Bmr010	1935.971	1953.537	fe008	And I'm also thinking these people are a terrific pool. I mean, if, uh - so I - I told them that, um, we don't know if this will continue past the end of the month and I also - m- I think they know that the data p- source is limited and I may not be able to keep them employed till the end of the month even, although I hope to.
+Bmr010	1938.750	1939.413	me013	Uh-huh.
+Bmr010	1953.081	1962.543	me013	The other thing we could do, actually, uh, is, uh, use them for a more detailed analysis of the overlaps.
+Bmr010	1954.150	1954.792	fe008	And -
+Bmr010	1962.013	1965.347	fe008	Oh, that'd be so super. They would be so - s- so terrific.
+Bmr010	1963.505	1964.075	me013	Right?
+Bmr010	1963.671	1971.325	me011	I mean, this was something that we were talking about. We could get a very detailed overlap if they were willing to transcribe each meeting four or five times.
+Bmr010	1971.325	1972.740	me011	Right? One for each participant.
+Bmr010	1973.760	1975.198	me011	So they could by hand -
+Bmr010	1975.489	1980.001	me013	Well, that's one way to do it. But I've been saying the other thing is just go through it for the overlaps. Right?
+Bmr010	1976.242	1976.825	me011	Yeah.
+Bmr010	1979.092	1979.533	me011	Yeah.
+Bmr010	1979.389	1982.437	fe008	Mm-hmm, that's right. And with the right in- interface -
+Bmr010	1980.001	1998.832	me013	Given that y- and - and do - so instead of doing phonetic, uh, uh, transcription for the whole thing, which we know from the - Steve's experience with the Switchboard transcription is, you know, very, very time-consuming. And - and you know, it took them I don't know how many months to do - to get four hours. And so that hasn't been really our focus.
+Bmr010	1984.946	1985.678	mn005	Yeah.
+Bmr010	1999.664	2008.695	me013	Uh, we can consider it. But, I mean, the other thing is since we've been spending so much time thinking about overlaps is - is maybe get a much more detailed analysis of the overlaps.
+Bmr010	2007.201	2007.828	mn005	Yeah.
+Bmr010	2008.364	2009.133	fe008	Mm-hmm.
+Bmr010	2009.259	2011.423	me013	But anyway, I'm - I'm open to c- our consideration.
+Bmr010	2009.926	2011.983	fe008	That'd be great.
+Bmr010	2011.423	2020.913	me013	I - I don't wanna say that by fiat. I'm open to every consideration of what are some other kinds of detailed analysis that would be most useful. And, uh, uh,
+Bmr010	2011.753	2012.478	mn005	Hmm.
+Bmr010	2013.238	2013.957	fe008	Yeah.
+Bmr010	2018.839	2019.682	fe008	Mm-hmm.
+Bmr010	2019.678	2020.074	mn005	Hmm.
+Bmr010	2021.320	2026.361	me013	I - I - I think this year we - we actually, uh, can do it.
+Bmr010	2026.740	2028.111	fe008	Oh, wonderful.
+Bmr010	2026.932	2038.404	me013	It's a - we have - we have - due to variations in funding we have - we seem to be doing, uh, very well on m- money for this - this year, and next year we may have - have much less. So I don't wanna hire a -
+Bmr010	2037.180	2038.605	me011	Is - you mean two thousand one?
+Bmr010	2039.300	2040.503	me011	Calendar year or - ?
+Bmr010	2040.210	2042.089	me013	Uh, I mean, calendar year two thousand one.
+Bmr010	2041.747	2042.257	me011	O_K.
+Bmr010	2042.394	2058.231	me013	Yeah. So it's - uh, it's - we don't wanna hire a bunch of people, a long-term staff, because the - the funding that we've gotten is sort of a big chunk for this year. But having temporary people doing some specific thing that we need is actually a perfect match to that kind of, uh, funding. So.
+Bmr010	2046.459	2047.639	me011	Full-time. Yeah.
+Bmr010	2047.080	2048.172	fe008	Mm-hmm. Yeah.
+Bmr010	2056.484	2056.921	fe008	Wonderful.
+Bmr010	2057.317	2062.545	fe008	And then school will start in - in the sixt- on the sixteenth. Some of them will have to cut back their hours at that point. But -
+Bmr010	2057.368	2058.249	mn005	Yeah.
+Bmr010	2061.070	2061.525	me013	Yeah.
+Bmr010	2061.740	2063.206	me018	Are they working full-time now, or - ?
+Bmr010	2063.232	2065.030	fe008	Some of them are. Yeah.
+Bmr010	2064.385	2065.070	me011	Wow.
+Bmr010	2065.030	2068.056	fe008	Well, why do- I wouldn't say forty-hour weeks. No. But what I mean is -
+Bmr010	2068.056	2070.885	fe008	Oh, I shouldn't say it that way because that does sound like forty-hour weeks. No.
+Bmr010	2070.885	2076.227	fe008	I th- I - I would say they're probably - they don't have o- they don't have other things that are taking away their time.
+Bmr010	2075.374	2078.954	me011	I don't see how someone could do forty hours a week on transcription.
+Bmr010	2075.526	2076.240	me018	Hmm.
+Bmr010	2076.499	2078.008	fe008	But it's - you can't.
+Bmr010	2077.540	2079.460	me013	Yeah. Yeah.
+Bmr010	2078.580	2082.678	fe008	No. You're right. It's - i- it would be too taxing. But, um, they're putting in a lot of -
+Bmr010	2081.240	2081.871	me013	Yeah.
+Bmr010	2083.139	2088.065	fe008	And - and I checked them over. I - I - I haven't checked them all, but just spot-checking. They're fantastic.
+Bmr010	2083.313	2083.750	me013	I -
+Bmr010	2087.726	2098.940	me013	I remember when we were transcribing BeRP, uh, uh, uh, Ron Kay, uh, volunteered to - to do some of that. And, he was - the first - first stuff he did was transcribing Chuck.
+Bmr010	2087.826	2088.765	me011	I think it would be -
+Bmr010	2099.177	2102.448	me013	And he's saying "You - you know, I always thought Chuck spoke really well. "
+Bmr010	2104.884	2105.854	fe008	Yeah. Yeah.
+Bmr010	2106.786	2119.805	fe008	Well, you know, and I also thought, y- Liz has this, eh, you know, and I do also, this - this interest in the types of overlaps that are involved. These people would be great choices for doing coding of that type if we wanted, or whatever. So, um.
+Bmr010	2114.414	2115.434	me011	We'd have to mark them.
+Bmr010	2117.558	2118.486	me013	Mm-hmm.
+Bmr010	2118.574	2119.245	mn005	Mm-hmm.
+Bmr010	2119.557	2120.298	me013	Yeah.
+Bmr010	2120.120	2128.398	me011	I think it would also be interesting to have, uh, a couple of the meetings have more than one transcriber do, cuz I'm curious about inter-annotator agreement.
+Bmr010	2125.831	2126.324	fe008	Mm-hmm.
+Bmr010	2128.600	2129.092	mn005	Yeah.
+Bmr010	2128.828	2129.421	fe008	O_K.
+Bmr010	2131.240	2133.209	fe008	Yeah. Th- that'd be -
+Bmr010	2131.772	2132.302	me013	Yeah.
+Bmr010	2133.209	2136.647	fe008	I think that's a - a good idea. You know, there's also, the e- In my mind,
+Bmr010	2136.955	2155.168	fe008	I think A- An- Andreas was leading to this topic, the idea that, um, we haven't yet seen the - the type of transcript that we get from I_B_M, and it may just be, you know, pristine. But on the other hand, given the lesser interface - Cuz this is, you know - we've got a good interface, we've got great headphones, m- um -
+Bmr010	2155.070	2160.427	me013	It could be that they will uh - theirs will end up being a kind of fir- first pass or something.
+Bmr010	2160.230	2161.139	fe008	Something like that.
+Bmr010	2160.842	2165.747	me013	Maybe an elaborate one, cuz again they probably are gonna do these alignments, which will also clear things up.
+Bmr010	2164.580	2173.695	fe008	That's - that's true. Al- although you have to s- Don't you have to start with a close enough approximation of the - of the verbal part to be able to - ?
+Bmr010	2172.736	2184.854	me013	Well, tha- that's - that's debatable. Right? I mean, so the - so the argument is that if your statistical system is good it will in fact, uh, clean things up. Right? So it- it's got its own objective criterion.
+Bmr010	2174.971	2175.578	fe008	O_K.
+Bmr010	2182.040	2182.643	fe008	O_K.
+Bmr010	2182.920	2183.436	mn005	Yeah.
+Bmr010	2185.576	2190.262	me013	And, uh, so in principle you could start up with something that was kind of rough -
+Bmr010	2190.729	2214.075	me013	I mean, to give an example of, um, something we used to do, uh, at one point, uh, back - back when Chuck was here in early times, is we would take, um, da- take a word and, uh, have a canonical pronunciation and, uh, if there was five phones in a word, you'd break up the word, uh, into five equal-length pieces which is completely gross.
+Bmr010	2213.626	2214.438	me011	Wrong. Yeah.
+Bmr010	2214.075	2218.070	me013	Right? I mean, th- the timing is off all over the place in just about any word.
+Bmr010	2214.256	2214.793	mn005	Yeah.
+Bmr010	2216.028	2217.224	fe008	Mm-hmm.
+Bmr010	2217.948	2218.598	fe008	O_K.
+Bmr010	2218.703	2219.510	me013	But it's O_ K.
+Bmr010	2219.679	2225.049	me013	You start off with that and the statistical system then aligns things, and eventually you get something that doesn't really look too bad.
+Bmr010	2225.130	2226.134	fe008	Oh, excellent. O_K.
+Bmr010	2225.584	2231.864	me013	So - so I think using a - a good aligner, um, actually can - can help a lot. Um.
+Bmr010	2232.697	2237.823	me013	But, uh, you know, they both help each other. If you have a - if you have a better starting point, then it helps the aligner.
+Bmr010	2238.280	2245.589	me013	If you have a good alignment, it helps the, uh, th- the human in - in taking less time to correct things. So - so -
+Bmr010	2244.051	2244.674	fe008	O_K.
+Bmr010	2245.760	2246.226	fe008	Excellent.
+Bmr010	2246.523	2285.506	fe008	I guess there's another aspect, too, and I don't know - uh, this - this is - very possibly a different, uh, topic. But, uh, just let me say with reference to this idea of, um, higher-order organization within meetings. So like in a - you know, the topics that are covered during a meeting with reference to the other, uh, uses of the data, so being able to find where so-and-so talked about such-and-such, then, um, um - e- I mean, I - I - I did sort of a - a rough pass on encoding, like, episode-like level things on the, uh, transcribed meeting - already transcribed meeting.
+Bmr010	2261.925	2262.479	me013	Mm-hmm.
+Bmr010	2280.345	2280.913	me013	Mm-hmm.
+Bmr010	2285.522	2286.202	me013	Mm-hmm.
+Bmr010	2285.975	2298.334	fe008	And I don't know if, um - where that - i- if that's something that we wanna do with each meeting, sort of like a, um - it's like a manifest, when you get a box full of stuff, or - or if that's, um -
+Bmr010	2295.545	2296.209	me013	Mm-hmm.
+Bmr010	2298.820	2310.438	fe008	I mean, i- I - I don't know what uh, level of detail would be most useful. I don't know i- if that's something that I should do when I look over it, or if we want someone else to do, or whatever.
+Bmr010	2305.497	2306.079	me013	Mm-hmm.
+Bmr010	2310.941	2314.602	fe008	But this issue of the contents of the meeting in an outline form.
+Bmr010	2315.869	2316.534	fe008	O_K.
+Bmr010	2316.442	2317.094	me013	Yeah.
+Bmr010	2318.287	2319.924	me013	Meaning really isn't my thing.
+Bmr010	2323.107	2323.913	me013	Um -
+Bmr010	2324.155	2326.970	me011	I think it just - whoever is interested can do that.
+Bmr010	2326.970	2329.249	me011	I mean, so if someone wants to use that data -
+Bmr010	2327.097	2327.649	fe008	O_K.
+Bmr010	2330.904	2340.742	me013	We're running a little short here. We, uh, uh, cou- trying to - eh, was - p- Well, you know, the thing I'm concerned about is we wanted to do these digits and - and I haven't heard, uh, from Jose yet. So -
+Bmr010	2332.310	2333.009	fe008	That's fine.
+Bmr010	2333.468	2334.465	fe008	I'm finished.
+Bmr010	2337.804	2338.459	fe008	Oh, yeah.
+Bmr010	2339.339	2341.084	fe008	Oh, yes. Mm-hmm.
+Bmr010	2340.417	2341.907	mn005	O_K. What do you want?
+Bmr010	2341.811	2342.590	me013	Uh -
+Bmr010	2342.120	2344.955	me011	We could skip the digits. We don't have to read digits each time.
+Bmr010	2344.721	2345.831	me013	Uh -
+Bmr010	2349.570	2354.213	me013	I - I - I think it - you know, another - another bunch of digits. More data is good.
+Bmr010	2354.237	2354.797	me011	O_K.
+Bmr010	2354.466	2357.128	mn005	Yeah. Sure.
+Bmr010	2354.493	2358.908	me013	So - so I'd like to do that. But I think, do you, maybe, eh - ?
+Bmr010	2358.908	2361.867	me013	Did you prepare some whole thing you wanted us just to see? Or what was that?
+Bmr010	2361.203	2362.697	mn005	Yeah. It's - it's prepared.
+Bmr010	2362.600	2365.217	me013	Yeah. Uh, how long a - ?
+Bmr010	2363.320	2364.775	fe008	Oh, k- Sorry.
+Bmr010	2365.027	2368.288	mn005	I - I think it's - it's fast, because, uh,
+Bmr010	2368.682	2374.097	mn005	I have the results, eh, of the study of different energy without the law length .
+Bmr010	2374.464	2383.380	mn005	Eh, um, eh,  in the - in the measurement, uh, the average, uh, dividing by the - by the, um, variance.
+Bmr010	2383.570	2384.122	me013	Yeah.
+Bmr010	2383.835	2405.957	mn005	Um, I - th- i- the other, uh - the - the last w- uh, meeting - eh, I don't know if you remain - we have problem to - with the - with - with the parameter - with the representations of parameter, because the - the valleys and the peaks in the signal, eh, look like, eh, it doesn't follow to the - to the energy in the signal.
+Bmr010	2396.859	2397.360	me013	Yes.
+Bmr010	2404.554	2405.017	me013	Right.
+Bmr010	2405.957	2408.593	mn005	And it was a problem, uh, with the scale.
+Bmr010	2409.019	2410.918	mn005	Eh, the scale.
+Bmr010	2409.472	2410.106	me011	With what?
+Bmr010	2409.980	2411.020	fe008	Scale.
+Bmr010	2410.800	2411.373	me011	Scale.
+Bmr010	2411.749	2418.573	mn005	Eh, and I - I change the scale and we can see the - the variance.
+Bmr010	2417.037	2417.995	me013	O_K.
+Bmr010	2418.140	2422.186	me013	But the bottom line is it's still not, uh, separating out very well. Right? O_K.
+Bmr010	2420.430	2424.700	mn005	Yeah. Yeah. The distribution - the distribution is - is similar.
+Bmr010	2422.516	2425.722	me013	So that's - that's - that's enough then. O_K.
+Bmr010	2426.030	2427.216	mn005	Yeah.
+Bmr010	2427.254	2432.034	me013	No, I mean, that there's no point in going through all of that if that's the bottom line, really. So, I - I think we have to start -
+Bmr010	2428.697	2430.657	mn005	Yeah. Yeah.
+Bmr010	2428.993	2429.780	fe008	Mm-hmm.
+Bmr010	2432.324	2449.305	me013	Uh, I mean, there- there's two suggestions, really, which is, uh - what we said before is that, um, it looks like, at least that you haven't found an obvious way to normalize so that the energy is anything like a reliable, uh, indicator of the overlap.
+Bmr010	2435.170	2436.019	mn005	Mmm, yeah.
+Bmr010	2447.890	2448.424	mn005	Yeah.
+Bmr010	2449.819	2461.464	me013	Um, I - I'm - I'm still a little f- think that's a little funny. These things l-  seems like there should be, but - but you don't want to keep, uh - keep knocking at it if it's - if you're not getting any - any result with that.
+Bmr010	2449.959	2450.592	mn005	Yeah.
+Bmr010	2455.121	2455.675	mn005	Yeah.
+Bmr010	2461.901	2472.833	me013	But, I mean, the other things that we talked about is, uh, pitch-related things and harmonicity-related things, so - which we thought also should be some kind of a reasonable indicator.
+Bmr010	2467.385	2467.953	mn005	Yeah.
+Bmr010	2473.331	2474.085	me013	Um -
+Bmr010	2475.414	2487.232	me013	But, uh, a completely different tack on it wou- is the one that was suggested, uh, by your colleagues in Spain, which is to say, don't worry so much about the, uh, features.
+Bmr010	2480.268	2480.832	mn005	Yeah.
+Bmr010	2487.913	2488.388	mn005	Yeah.
+Bmr010	2488.150	2493.056	me013	That is to say, use, you know, as - as you're doing with the speech, uh, nonspeech, use some very general features.
+Bmr010	2493.318	2493.733	mn014	Yeah.
+Bmr010	2493.508	2498.310	me013	And, uh, then, uh, look at it more from the aspect of modeling.
+Bmr010	2493.513	2494.151	mn005	Yeah.
+Bmr010	2498.605	2507.385	me013	You know, have a - have a couple Markov models and - and, uh, try to indi- try to determine, you know, w- when is th- when are you in an overlap, when are you not in an overlap.
+Bmr010	2498.730	2499.132	mn005	Yeah.
+Bmr010	2500.352	2501.053	mn005	Yeah.
+Bmr010	2502.264	2502.866	mn005	Hmm.
+Bmr010	2507.750	2512.577	me013	And let the, uh, uh, statistical system determine what's the right way to look at the data.
+Bmr010	2512.983	2514.459	me013	I - I, um,
+Bmr010	2513.448	2513.784	mn005	Yeah.
+Bmr010	2514.901	2520.854	me013	I think it would be interesting to find individual features and put them together. I think that you'd end up with a better system overall.
+Bmr010	2521.165	2536.996	me013	But given the limitation in time and given the fact that Javier's system already exists doing this sort of thing, uh, but, uh, its main limitation is that, again, it's only looking at silences which would - maybe that's a better place to go.
+Bmr010	2521.171	2521.923	mn005	Yeah.
+Bmr010	2523.334	2524.039	mn005	Yeah.
+Bmr010	2532.307	2533.010	mn005	Yeah.
+Bmr010	2534.966	2535.669	mn005	Yeah.
+Bmr010	2537.489	2537.944	mn005	Yeah.
+Bmr010	2537.962	2538.651	me013	So.
+Bmr010	2538.010	2538.538	fe008	Mm-hmm.
+Bmr010	2538.648	2544.145	mn005	I - I - I think that, eh, the possibility, eh, can be that, eh,
+Bmr010	2544.491	2572.826	mn005	Thilo, eh, working, eh, with a new class, not only, eh, nonspeech and speech, but, eh, in - in - in the speech class, dividing, eh, speech, eh, of - from a speaker and overlapping, to try - to - to do, eh, eh, a fast - a fast, eh, experiment to - to prove that, nnn, this fea- eh, general feature, eh, can solve the - the - the problem, and wh- what - nnn, how far is -
+Bmr010	2548.546	2549.171	me013	Mm-hmm.
+Bmr010	2551.292	2551.921	me013	Mm-hmm.
+Bmr010	2564.620	2565.233	me013	Yeah.
+Bmr010	2571.232	2572.141	me013	Maybe. Yeah.
+Bmr010	2573.037	2577.353	mn005	And, I - I have prepared the - the pitch tracker now.
+Bmr010	2577.216	2577.658	me011	Mm-hmm.
+Bmr010	2577.353	2588.673	mn005	And I hope the - the next week I will have, eh, some results and we - we will show - we will see, eh, the - the parameter - the pitch, eh, tracking in - with the program.
+Bmr010	2582.172	2582.742	me013	I see.
+Bmr010	2588.838	2595.236	me013	Ha- h- have you ever looked at the, uh, uh - Javier's, uh, speech segmenter?
+Bmr010	2589.040	2590.334	mn005	And, nnn, nnn -
+Bmr010	2595.530	2596.044	mn014	No.
+Bmr010	2596.278	2599.708	me013	Oh. Maybe m- you could, you kn- uh show Thilo that.
+Bmr010	2596.368	2596.855	mn005	No.
+Bmr010	2596.607	2597.083	mn014	No.
+Bmr010	2598.830	2600.121	mn005	Yeah. Yeah.
+Bmr010	2599.326	2600.341	mn014	Yeah. Sure.
+Bmr010	2600.370	2617.257	me013	Cuz again the idea is there - the limitation there again was that he was - he was only using it to look at silence as a - as a - as a - as a p- putative split point between speakers. But if you included, uh, broadened classes then in principle maybe you can cover the overlap cases.
+Bmr010	2600.637	2601.191	mn005	I -
+Bmr010	2606.069	2606.603	mn005	Yeah.
+Bmr010	2611.663	2612.069	mn014	O_K.
+Bmr010	2614.344	2615.116	mn005	Yeah.
+Bmr010	2616.645	2617.515	mn005	Mmm, yeah.
+Bmr010	2617.702	2631.203	mn014	Yeah, but I'm not too sure if - if we can really represent overlap with - with the s- detector I - I - I used up to now, the - to speech-nonspeech as - it's only speech or it's - it's - it's nonspeech. So.
+Bmr010	2617.991	2618.592	me013	Uh -
+Bmr010	2625.227	2626.018	fe008	Mm-hmm.
+Bmr010	2626.311	2626.891	me011	I think with -
+Bmr010	2626.686	2627.655	mn005	Ah.
+Bmr010	2627.910	2629.655	me011	That's right. But I think Javier's -
+Bmr010	2628.334	2629.334	mn005	Yeah.
+Bmr010	2628.488	2629.341	fe008	Mm-hmm.
+Bmr010	2629.868	2631.094	me013	N- n-
+Bmr010	2630.422	2636.972	me011	I think Javier's might be able to. It doesn't have the same Gaus- uh, H_M_ M modeling, which is I think a drawback.
+Bmr010	2632.051	2632.518	mn014	Yeah.
+Bmr010	2635.725	2636.280	mn014	O_K.
+Bmr010	2637.870	2638.665	me011	But, uh -
+Bmr010	2638.412	2647.662	me013	Well, it's - sort of has a simple one. Right? It's - it's just - it's just a - isn't it just a Gaussian for each - ?
+Bmr010	2640.578	2642.004	mn005	Mmm, yeah.
+Bmr010	2642.280	2642.727	me011	Does it?
+Bmr010	2646.909	2647.523	mn005	Yeah.
+Bmr010	2648.199	2648.600	me011	Yeah.
+Bmr010	2648.660	2649.243	mn005	Hmm.
+Bmr010	2648.950	2649.543	fe008	Mm-hmm.
+Bmr010	2649.098	2649.615	me013	Yeah.
+Bmr010	2649.188	2651.859	me011	And then he ch- you choose optimal splitting.
+Bmr010	2653.232	2656.602	me013	Oh, it doesn't have - it doesn't have any temporal, uh - ? I thought it -
+Bmr010	2656.237	2660.264	me011	Maybe I'm misremembering, but I did not think it had a Markov -
+Bmr010	2658.089	2658.644	me013	Yeah.
+Bmr010	2659.399	2659.988	me013	I gues-
+Bmr010	2661.131	2662.386	me013	I guess I don't remember either.
+Bmr010	2663.123	2665.179	me013	Uh. It's been a while.
+Bmr010	2665.151	2665.857	mn005	Javier -
+Bmr010	2665.179	2666.663	me013	Uh.
+Bmr010	2665.273	2667.073	mn014	Yeah. Uh, I could have a look at it. So.
+Bmr010	2666.396	2671.042	mn005	You mean Ja- eh, eh, Javier program? No, Javier di- doesn't worked with, uh, a Markov -
+Bmr010	2667.133	2667.749	me011	Mm-hmm.
+Bmr010	2671.023	2672.122	me011	Yeah, I didn't think so.
+Bmr010	2671.430	2676.659	me013	Oh, O_K . So he's just - he just computes a Gaussian over potential - Oh, I see. I see. And - and -
+Bmr010	2671.440	2672.839	mn005	He on- only train -
+Bmr010	2674.039	2674.654	me011	Yep.
+Bmr010	2674.124	2675.817	mn005	Yeah. It was only Gaussian.
+Bmr010	2676.160	2677.624	mn005	This is the idea.
+Bmr010	2676.390	2679.321	me011	And so I - I think it would work fine for detecting overlap.
+Bmr010	2679.634	2683.912	me011	It's just, uh, that i- it - he has the two-pass issue that -
+Bmr010	2684.352	2691.970	me011	What he does is, as a first pass he - he - p- he does, um, a guess at where the divisions might be and he overestimates.
+Bmr010	2691.970	2696.264	me011	And that's just a data reduction step, so that you're not trying at every time interval.
+Bmr010	2696.100	2696.596	mn014	O_K.
+Bmr010	2696.680	2699.525	me011	And so those are the putative places where he tries.
+Bmr010	2696.706	2697.595	mn005	Yeah.
+Bmr010	2698.310	2699.250	mn014	Yeah. O_K.
+Bmr010	2699.525	2704.450	me011	And right now he's doing that with silence and that doesn't work with the Meeting Recorder.
+Bmr010	2704.700	2705.031	mn014	Yeah.
+Bmr010	2704.908	2710.153	me011	So if we used another method to get the first pass, I think it would probably work. It's a good method.
+Bmr010	2705.322	2706.047	mn014	Yeah. Sure.
+Bmr010	2706.525	2707.414	mn014	Yeah. Yeah, O_K.
+Bmr010	2710.153	2712.478	me011	As long as the len- as long the segments are long enough.
+Bmr010	2711.960	2712.466	mn005	Yeah.
+Bmr010	2712.347	2716.224	me013	O_k- O_K. So let me go back to what you had, though. Um.
+Bmr010	2712.714	2713.940	me011	That's the other problem.
+Bmr010	2712.901	2713.576	mn014	So -
+Bmr010	2715.647	2716.113	mn014	Yeah.
+Bmr010	2716.422	2717.100	mn005	Mm-hmm.
+Bmr010	2716.521	2724.246	me013	The other thing one could do is - Couldn't - I mean, it's - So you have two categories and you have Markov models for each.
+Bmr010	2722.433	2722.973	mn014	Yeah.
+Bmr010	2724.637	2726.055	me013	Couldn't you have a third category?
+Bmr010	2727.330	2732.706	me013	So you have, uh - you have, uh, nonspeech, single-person speech, and multiple-person speech?
+Bmr010	2732.240	2733.828	fe008	He has this on his board actually.
+Bmr010	2733.828	2737.355	fe008	Don't you have, like those - those several different categories on the board?
+Bmr010	2736.029	2739.134	me013	Right? And then you have a Markov model for each?
+Bmr010	2739.593	2740.567	mn014	Um -
+Bmr010	2742.060	2758.253	mn014	I'm not sure. I - I thought about, uh, adding, uh, uh, another class too. But it's not too easy, I think, the - the transition between the different class, to model them in - in the system I have now. But it - it - it could be possible, I think, in principle.
+Bmr010	2754.143	2754.857	me013	I see.
+Bmr010	2756.655	2757.343	me013	I see.
+Bmr010	2758.531	2759.806	me013	Yeah, I mean, I -
+Bmr010	2759.806	2770.348	me013	This is all pretty gross. I mean, the - th- the reason why, uh, I was suggesting originally that we look at features is because I thought, well, we're doing something we haven't done before, we should at least look at the space and understand -
+Bmr010	2761.312	2761.806	mn005	Yeah.
+Bmr010	2767.025	2767.518	mn014	Yeah.
+Bmr010	2769.323	2769.792	mn005	Yeah.
+Bmr010	2769.422	2769.841	mn014	Yeah.
+Bmr010	2770.348	2791.992	me013	It seems like if two people - two or more people talk at once, it should get louder, uh, and, uh, uh, there should be some discontinuity in pitch contours, and, uh, there should overall be a, um, smaller proportion of the total energy that is explained by any particular harmonic sequence in the spectrum.
+Bmr010	2774.780	2775.284	mn014	Yeah.
+Bmr010	2776.668	2777.760	mn014	I had the impression.
+Bmr010	2780.473	2780.924	mn005	Yeah.
+Bmr010	2780.939	2781.370	mn014	Yeah.
+Bmr010	2790.579	2791.074	mn014	Yeah.
+Bmr010	2790.999	2791.402	me011	Right.
+Bmr010	2792.467	2798.994	me013	So those are all things that should be there. So far, um, uh, Jose has - has been -
+Bmr010	2794.987	2795.442	mn005	Mm-hmm.
+Bmr010	2794.995	2795.412	mn014	Yeah.
+Bmr010	2799.330	2803.820	me013	By the way, I was told I should be calling you Pepe, but - by your friends, but-
+Bmr010	2803.208	2803.603	mn005	Yeah.
+Bmr010	2803.300	2804.472	fe008	Oh.
+Bmr010	2804.275	2848.043	me013	Anyway, um, uh, the - has - has, uh, been exploring, uh, e- largely the energy issue and, um, as with a lot of things, it is not - uh, like this, it's not as simple as it sounds. And then there's, you know - Is it energy? Is it log energy? Is it L_P_C residual energy? Is it - is it - is it, uh, delta of those things? Uh, what is it no- Obviously, just a simple number - absolute number isn't gonna work. So it should be with - compared to what? Should there be a long window for the normalizing factor and a short window for what you're looking at? Or, you know, how b- short should they be? So, th- he's been playing around with a lot of these different things and - and so far at least has not come up with any combination that really gave you an indicator. So
+Bmr010	2804.978	2805.660	mn005	Yeah .
+Bmr010	2817.006	2817.422	mn014	Yeah.
+Bmr010	2835.545	2836.110	mn014	Yeah.
+Bmr010	2840.315	2840.770	mn005	Hmm.
+Bmr010	2846.150	2846.783	mn005	Yeah.
+Bmr010	2848.430	2860.846	me013	<create_single_reminder> I - I still have a hunch that there's - it's in there some place, but it may be - given that <contact_name> you </contact_name> have a limited time here, it - it just may not be the best thing to - to - to <reminder_text> focus on for the remaining of it </reminder_text> </create_single_reminder>. So pitch-related and harmonic-related,
+Bmr010	2856.164	2856.560	mn005	Yeah.
+Bmr010	2857.430	2858.285	mn005	To overrule , yeah.
+Bmr010	2860.399	2860.854	mn005	Yeah.
+Bmr010	2861.328	2863.801	me013	I'm - I'm somewhat more hopeful for it.
+Bmr010	2863.630	2864.056	mn005	Yeah.
+Bmr010	2863.801	2870.126	me013	But it seems like if we just wanna get something to work, that, uh, their suggestion of - of -
+Bmr010	2866.618	2867.052	mn014	Yeah.
+Bmr010	2867.577	2867.992	mn005	Yeah.
+Bmr010	2870.500	2887.654	me013	Th- they were suggesting going to Markov models, uh, but in addition there's an expansion of what Javier did. And one of those things, looking at the statistical component, even if the features that you give it are maybe not ideal for it, it's just sort of this general filter bank or - or cepstrum or something, um -
+Bmr010	2876.863	2877.624	mn005	One.
+Bmr010	2879.790	2880.206	mn014	Yeah.
+Bmr010	2885.032	2885.484	mn014	Yeah.
+Bmr010	2887.963	2889.851	me013	Eee it's in there somewhere probably.
+Bmr010	2889.962	2895.214	mn005	But, eh, what did you think about the possibility of using the Javier software?
+Bmr010	2895.620	2924.437	mn005	Eh, I mean, the, uh - the, uh - the BIC criterion, the - the - t- to train the - the Gaussian, eh, using the - the mark, eh, by hand, eh, eh, to distinguish be- mmm, to train overlapping zone and speech zone. I mean, eh, I - I - I think that an interesting, eh, experiment, eh, could be, th- eh, to prove that, mmm, if s- we suppose that, eh, the - the first step -
+Bmr010	2924.437	2930.116	mn005	I mean, the - the classifier what were the classifier from Javier or classifier from Thilo?
+Bmr010	2930.699	2933.040	mn005	W- What happen with the second step?
+Bmr010	2933.201	2940.647	mn005	I - I mean, what - what happen with the, eh - the, uh, clu- the, uh - the clu- the clustering process?
+Bmr010	2940.670	2941.174	me011	Mm-hmm.
+Bmr010	2941.110	2943.354	mn005	Using the - the Gaussian. Yeah.
+Bmr010	2941.942	2942.909	me011	You mean Javier's?
+Bmr010	2943.911	2944.583	me011	What do you mean?
+Bmr010	2944.289	2954.001	mn005	I - I mean, that is - is enough - is enough, eh, to work well, eh, to, eh, separate or to distinguish, eh, between overlapping zone and, eh, speaker zone?
+Bmr010	2954.001	2967.121	mn005	Because th- if - if we - if we, eh, nnn, develop an classifier - and the second step doesn't work well, eh, we have another problem. N-
+Bmr010	2954.987	2955.523	me011	I -
+Bmr010	2966.223	2972.937	me011	Yeah. I had tried doing it by hand at one point with a very short sample, and it worked pretty well, but I haven't worked with it a lot.
+Bmr010	2973.484	2984.537	me011	So what I d- I d- I took a hand-segmented sample and I added ten times the amount of numbers at random, and it did pick out pretty good boundaries. But this was just very anecdotal sort of thing.
+Bmr010	2973.612	2974.166	mn005	Nnn, yeah.
+Bmr010	2977.370	2977.910	mn005	Yeah.
+Bmr010	2979.570	2979.955	mn005	Oh.
+Bmr010	2980.931	2982.682	mn005	Yeah. But is - is - if -
+Bmr010	2984.090	2990.774	mn005	But it's possible with my segmentation by hand that we have information about the - the overlapping, uh - Yeah.
+Bmr010	2989.659	2996.377	me011	Right. So if we - if we fed the hand-segmentation to Javier's and it doesn't work, then we know something's wrong.
+Bmr010	2991.322	2991.775	mn005	The -
+Bmr010	2993.665	2995.514	mn005	N- n- Yeah. No.
+Bmr010	2995.514	3000.939	mn005	The demonstration by hand. Segmentation by hand I - I - I think is the fast experiment.
+Bmr010	2997.333	2999.053	me011	Yeah. I think that's probably worthwhile doing.
+Bmr010	3000.841	3001.407	me013	Uh-huh.
+Bmr010	3000.939	3008.457	mn005	Uh, we can prove that the - this kind o- emph- emphasizes parameter and Gaussian -
+Bmr010	3002.907	3004.237	me011	Whether it'll work or not. Yeah.
+Bmr010	3004.184	3004.579	me013	Yeah.
+Bmr010	3006.004	3006.419	me011	Yep.
+Bmr010	3007.435	3009.664	me011	Y- do you know where his software is? Have you used it at all?
+Bmr010	3009.599	3010.709	mn005	I yeah have. I have.
+Bmr010	3010.202	3010.739	me011	O_K.
+Bmr010	3011.306	3011.779	me011	So.
+Bmr010	3011.990	3014.565	me011	I - I have as well, so if you need - need help let me know.
+Bmr010	3014.318	3014.832	mn005	O_K.
+Bmr010	3016.563	3018.860	me013	Let's read some digits.
+Bmr010	3017.634	3019.793	me011	O_K. uuh
+Bmr010	3018.604	3019.278	fe008	Mm-hmm.
+Bmr010	3020.418	3027.484	me011	Transcript two nine five one two nine seven O_. six O_ three O_ nine seven eight zero
+Bmr010	3028.216	3044.706	me011	O_ one five O_ two zero five eight four uh, one six two eight five eight three two three three O_ three one five four five zero nine nine seven one one two eight four zero zero nine four
+Bmr010	3044.706	3052.842	me011	O_ seven one zero one two four one five three one two six seven two O_ -
+Bmr010	3053.631	3057.316	me011	Pa- Uh, correct that. six seven two one O_ eight six.
+Bmr010	3057.490	3071.143	me013	Transcript two eight seven one dash two eight nine zero. three three eight four four six five two five eight zero six seven eight zero
+Bmr010	3071.363	3089.810	me013	O_ one four zero one one eight one three one one six two five three four six eight one three four five zero six zero one seven one one two eight three three six O_ eight O_ nine six five
+Bmr010	3090.380	3095.643	me013	O_ seven three eight zero eight six nine one two O_ two.
+Bmr010	3096.690	3115.353	me018	Transcript two eight three one dash two eight five zero. one eight six seven zero six five two three four zero six one seven seven six three eight five one nine seven seven five six
+Bmr010	3116.070	3135.185	me018	O_ zero zero one three two O_ eight four four five five O_ six seven eight O_ seven eight nine zero zero five one three three five O_ O_ five.
+Bmr010	3136.678	3141.268	mn014	O_K. Transcript two seven nine one dash two eight one zero.
+Bmr010	3141.917	3154.623	mn014	O_ zero two three seven three three two four seven five three O_ two six seven eight zero eight
+Bmr010	3155.222	3175.770	mn014	O_ one O_ seven zero three one five O_ three six two eight O_ O_ three four five zero two zero zero seven two O_ three three one seven eight nine five one two two zero nine eight five three
+Bmr010	3176.152	3177.694	mn014	O_ seven O_ eight.
+Bmr010	3178.924	3195.915	mn005	Transcript two eight one one dash two eight three zero. zero six one two zero five zero zero eight four four one zero one five six six seven four seven eight nine
+Bmr010	3195.915	3209.481	mn005	O_ one two nine four eight five nine two two zero three three six four nine five six seven nine seven nine eight three five zero
+Bmr010	3209.814	3214.914	mn005	O_ two seven nine five one five zero eight two five four.
+Bmr010	3216.545	3239.699	fe008	Transcript number two seven seven one two seven nine zero. nine O_ nine eight nine zero one five zero one two two eight eight four five two five O_ O_ three eight two four five six zero zero eight eight one nine five six six
+Bmr010	3240.051	3257.954	fe008	O_ five O_ two one eight seven zero seven zero two nine one two three zero zero five three six three five two four seven seven six four eight six two eight zero nine.
+Bmr010	3263.757	3265.605	me011	And we are -
+Bmr010	3263.865	3267.811	fe008	That's hard to focus on that, you know, really, it's like - "alright, now where am I?"

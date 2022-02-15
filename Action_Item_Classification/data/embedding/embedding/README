@@ -1,0 +1,39 @@
+Convolutional Deep Structured Semantic Model (CDSSM) is trained by maximizing
+	1) Predictive Model -- the probability of the intent given an utterance, P( I | U )
+	2) Generative Model -- the probability of the utterance given an intent, P( U | I )
+
+letter3gram.vocab is the vocabulary for the word hashing layer.
+
+The files for trained vector embeddings are detailed as below.
+predictive/
+	- bed.tok.tsv		utterance-intent pairs from Bed for training embeddings through CDSSM
+	- bmr.tok.tsv		utterance-intent pairs from Bmr for training embeddings through CDSSM
+	- bro.tok.tsv		utterance-intent pairs from Bro for training embeddings through CDSSM
+	- bed.bed.vec		Bed utterance embeddings produced by CDSSM trained on Bed
+	- bed.bmr.vec		Bed utterance embeddings produced by CDSSM trained on Bmr
+	- bed.bro.vec		Bed utterance embeddings produced by CDSSM trained on Bro
+	- bmr.bed.vec		Bmr utterance embeddings produced by CDSSM trained on Bed
+	- bmr.bmr.vec		Bmr utterance embeddings produced by CDSSM trained on Bmr
+	- bmr.bro.vec		Bmr utterance embeddings produced by CDSSM trained on Bro
+	- bro.bed.vec		Bro utterance embeddings produced by CDSSM trained on Bed
+	- bro.bmr.vec		Bro utterance embeddings produced by CDSSM trained on Bmr
+	- bro.bro.vec		Bro utterance embeddings produced by CDSSM trained on Bro
+	- intent.bed.vec	intent embeddings produced by CDSSM trained on Bed
+	- intent.bmr.vec	intent embeddings produced by CDSSM trained on Bmr
+	- intent.bro.vec	intent embeddings produced by CDSSM trained on Bro
+generative/
+	- bed.tok.tsv		utterance-intent pairs from Bed for training embeddings through CDSSM
+	- bmr.tok.tsv		utterance-intent pairs from Bmr for training embeddings through CDSSM
+	- bro.tok.tsv		utterance-intent pairs from Bro for training embeddings through CDSSM
+	- bed.bed.vec		Bed utterance embeddings produced by CDSSM trained on Bed
+	- bed.bmr.vec		Bed utterance embeddings produced by CDSSM trained on Bmr
+	- bed.bro.vec		Bed utterance embeddings produced by CDSSM trained on Bro
+	- bmr.bed.vec		Bmr utterance embeddings produced by CDSSM trained on Bed
+	- bmr.bmr.vec		Bmr utterance embeddings produced by CDSSM trained on Bmr
+	- bmr.bro.vec		Bmr utterance embeddings produced by CDSSM trained on Bro
+	- bro.bed.vec		Bro utterance embeddings produced by CDSSM trained on Bed
+	- bro.bmr.vec		Bro utterance embeddings produced by CDSSM trained on Bmr
+	- bro.bro.vec		Bro utterance embeddings produced by CDSSM trained on Bro
+	- intent.bed.vec	intent embeddings produced by CDSSM trained on Bed
+	- intent.bmr.vec	intent embeddings produced by CDSSM trained on Bmr
+	- intent.bro.vec	intent embeddings produced by CDSSM trained on Bro
